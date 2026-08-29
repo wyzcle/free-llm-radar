@@ -2,9 +2,10 @@
 
 > 自动聚合全网**公开**的免费大模型额度情报：限时活动 / 永久免费层 / 每日赠送 / 新人额度 / 社区动态。
 > 本页由 [radar](src/radar) 自动生成，GitHub Actions 每 6 小时刷新一次；也可本地运行 `python -m radar`。
-> 国内网络提示：GitHub 清单与 OpenRouter 可直连；linux.do / Reddit 有 Cloudflare 拦截，需设置 `HTTPS_PROXY`（如 Clash 的 `http://127.0.0.1:7897`）后再运行，未配置时这些源自动跳过。
+> 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
+> 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-08-30 00:01 (UTC+8)** ｜ 有效条目：**89** ｜ 48h 内新增：**89** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
+最后更新：**2026-08-30 00:20 (UTC+8)** ｜ 有效条目：**108** ｜ 48h 内新增：**108** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、linux.do(17)、mnfst/awesome-free-llm-apis(16)、rss(2)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -135,9 +136,29 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 08-30 🆕 |
 
 
-## 社区动态（0）
+## 社区动态（19）
 
-_暂无条目_
+| 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
+| --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [Urusilla: use your AI agent to earn credit for reproducible interoperability wo…](https://discuss.huggingface.co/t/urusilla-use-your-ai-agent-to-earn-credit-for-reproducible-interoperability-work/179357)：Hi — I’m opening Urusilla to contributors worldwide. Urusilla is an Apache-2.0 AI-agent interoperability research project. The current chal… | — | rss | 论坛帖 | 国际 | 08-30 🆕 |
+| HF 论坛 | [ConceptNet — 4-layer enterprise voice intent classifier, 98.6% accuracy, 9 lang…](https://discuss.huggingface.co/t/conceptnet-4-layer-enterprise-voice-intent-classifier-98-6-accuracy-9-languages-token-free-open-source/179274)：Hi Hugging Face community Just published ConceptNet — a fine-tuned distilbert-base-multilingual-cased model for enterprise voice intent cla… | — | rss | 论坛帖 | 国际 | 08-30 🆕 |
+| linux.do | [长文本 + 固定 JSON 输出的场景下，怎么样用API成本能低一点？](https://linux.do/t/topic/2830047) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [modal 免费30刀 kimi-k3 八月底结束](https://linux.do/t/topic/2829615) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [豆包电脑版学生认证可以免费领3个月标准套餐](https://linux.do/t/topic/2829473) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [豆包学生免费订阅](https://linux.do/t/topic/2829135) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [免费GLM-5.3-Flash 8月27-8月30日](https://linux.do/t/topic/2828802) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [Teamily AI的三天免费试用](https://linux.do/t/topic/2828408) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [关于 ChatGPT 无限额度bug,公益站可以私信我](https://linux.do/t/topic/2828184) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [智谱周末这波放大招了豪掷3亿token](https://linux.do/t/topic/2828171) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [【九幺】怀念版能用DeepseekV4 Pro——10000000$额度key](https://linux.do/t/topic/2827686) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [阿里Wan 3.0本周末全量免费：昆仑万维旗下天工工作台，想搞ai漫剧的这两天可以去白嫖试试](https://linux.do/t/topic/2827446) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [ZCODE的3亿TOKEN又能领了，冲呀！！！](https://linux.do/t/topic/2827349) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [阿里Wan 3.0本周末全量免费(8月28日—30日)](https://linux.do/t/topic/2827304) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [【蹬完啦】新人进站，送一个 100 额度的 opengpt key 给各位](https://linux.do/t/topic/2827155) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [GLM领取的周末3亿token套餐使用方法](https://linux.do/t/topic/2826863) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [免费QQ超级会员 最高7天](https://linux.do/t/topic/2826248) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [ZCode的领3亿token的名额没更新吗](https://linux.do/t/topic/2830060) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
+| linux.do | [GPT的官方订阅，web生图和codex生图额度是共享的还是分开的？](https://linux.do/t/topic/2829972) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
 
 
 ---

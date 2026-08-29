@@ -23,7 +23,8 @@ HEADER = """# 免费 LLM 资源雷达
 
 > 自动聚合全网**公开**的免费大模型额度情报：限时活动 / 永久免费层 / 每日赠送 / 新人额度 / 社区动态。
 > 本页由 [radar](src/radar) 自动生成，GitHub Actions 每 6 小时刷新一次；也可本地运行 `python -m radar`。
-> 国内网络提示：GitHub 清单与 OpenRouter 可直连；linux.do / Reddit 有 Cloudflare 拦截，需设置 `HTTPS_PROXY`（如 Clash 的 `http://127.0.0.1:7897`）后再运行，未配置时这些源自动跳过。
+> 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
+> 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
 最后更新：**{updated}** ｜ 有效条目：**{total}** ｜ 48h 内新增：**{fresh}** ｜ 来源：{sources}
 

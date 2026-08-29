@@ -1,7 +1,7 @@
-"""RSS/Atom 源：Reddit 社区动态。
+"""RSS/Atom 源：Hugging Face 论坛、Reddit 社区动态。
 
-Reddit 对数据中心 IP / 无 OAuth 请求常返 403，失败自动跳过；
-本地带浏览器 UA 通常可读 RSS。
+优先走 curl_cffi 指纹通道（部分站点对非浏览器 TLS 指纹返回 403），
+失败回退普通 httpx；Reddit 对数据中心 IP 拦截很严，拿不到属预期。
 """
 
 from __future__ import annotations
@@ -11,13 +11,14 @@ import re
 
 import feedparser
 
-from .. import http
+from .. import http, impersonate
 from ..models import Confidence, Kind, RawItem
 from .base import Source
 
 log = logging.getLogger("radar.rss")
 
 FEEDS = [
+    ("HF 论坛", "https://discuss.huggingface.co/latest.rss", "global"),
     ("r/LocalLLaMA", "https://www.reddit.com/r/LocalLLaMA/new/.rss", "global"),
 ]
 
@@ -30,15 +31,19 @@ class RssSource(Source):
     def fetch(self, client) -> list[RawItem]:
         items: list[RawItem] = []
         for feed_name, url, region in FEEDS:
-            resp = http.request(client, url)
-            if resp is None:
+            text = impersonate.get(url)
+            if text is None:
+                resp = http.request(client, url)
+                text = resp.text if resp is not None else None
+            if not text:
                 continue
-            parsed = feedparser.parse(resp.text)
+            parsed = feedparser.parse(text)
+            count = 0
             for entry in parsed.entries[:100]:
                 title = (entry.get("title") or "").strip()
                 link = entry.get("link") or ""
+                # 仅标题匹配，避免摘要里偶然出现 free 的无关帖混入
                 if not title or not KEYWORD_RE.search(title):
-                    # 仅标题匹配，避免摘要里偶然出现 free 的无关帖混入
                     continue
                 summary = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", entry.get("summary") or ""))
                 items.append(
@@ -53,5 +58,7 @@ class RssSource(Source):
                         confidence=Confidence.FORUM,
                     )
                 )
+                count += 1
+            log.info("%s: %s 条", feed_name, count)
         log.info("rss: %s 条", len(items))
         return items
