@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "free-llm-radar"
+version = "0.1.0"
+description = "聚合全网公开的免费大模型额度情报：永久免费层 / 每日赠送 / 新人额度 / 限时活动 / 社区动态"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "httpx>=0.27",
+    "feedparser>=6.0",
+    "beautifulsoup4>=4.12",
+    "pydantic>=2.7",
+]
+
+[project.scripts]
+radar = "radar.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
