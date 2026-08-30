@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-08-30 04:55 (UTC+8)** ｜ 有效条目：**112** ｜ 48h 内新增：**112** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、linux.do(21)、mnfst/awesome-free-llm-apis(16)、rss(2)、official-pages(2)、openrouter(1)
+最后更新：**2026-08-30 13:22 (UTC+8)** ｜ 有效条目：**113** ｜ 48h 内新增：**113** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、linux.do(21)、mnfst/awesome-free-llm-apis(16)、rss(3)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -136,10 +136,11 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 08-30 🆕 |
 
 
-## 社区动态（23）
+## 社区动态（24）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [Quota exceeded for cpu-basic, limit=0 on a new free account](https://discuss.huggingface.co/t/quota-exceeded-for-cpu-basic-limit-0-on-a-new-free-account/179440)：New free account (created 2026-08-30). My only Space, a Docker Space, is stuck at PAUSED with Quota exceeded for flavor cpu-basic (requeste… | — | rss | 论坛帖 | 国际 | 08-30 🆕 |
 | HF 论坛 | [Urusilla: use your AI agent to earn credit for reproducible interoperability wo…](https://discuss.huggingface.co/t/urusilla-use-your-ai-agent-to-earn-credit-for-reproducible-interoperability-work/179357)：Hi — I’m opening Urusilla to contributors worldwide. Urusilla is an Apache-2.0 AI-agent interoperability research project. The current chal… | — | rss | 论坛帖 | 国际 | 08-30 🆕 |
 | HF 论坛 | [ConceptNet — 4-layer enterprise voice intent classifier, 98.6% accuracy, 9 lang…](https://discuss.huggingface.co/t/conceptnet-4-layer-enterprise-voice-intent-classifier-98-6-accuracy-9-languages-token-free-open-source/179274)：Hi Hugging Face community Just published ConceptNet — a fine-tuned distilbert-base-multilingual-cased model for enterprise voice intent cla… | — | rss | 论坛帖 | 国际 | 08-30 🆕 |
 | linux.do | [Claude 的额度提高 25%](https://linux.do/t/topic/2830108) | — | linux.do | 论坛帖 | 国内 | 08-30 🆕 |
