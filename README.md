@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-04 12:30 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**104** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-04 19:15 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**104** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -50,7 +50,7 @@ _暂无条目_
 | Glhf.chat | 2 \| Registration \| 131K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 🆕 |
 | [Google AI Studio](https://aistudio.google.com/) | No \| 5-30 RPM (varies by model) \| 9000 RPD (Flash) / 25 RPD (3.1 Pro) \| Free of charge \| Gemini 3.1 Pro, Gemini 3.1 Flash, Gemini 3.0 Flash, Gemini 3.0 Flash-Lite | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 🆕 |
 | [Google Gemini](https://aistudio.google.com/app/apikey) | Free tier, no credit card. Free-tier prompts may be used by Google to improve products.｜免费模型 10 个：Gemini 3.7 Flash、Gemini 3.6 Flash、Gemini 3.5 Flash、Gemini 3.5 Flash-Lite、Gemini 3… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 🆕 |
-| Google Gemini | 17 \| No \| 1M \| audio, image, pdf, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 🆕 |
+| Google Gemini | 18 \| No \| 1M \| audio, image, pdf, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 🆕 |
 | GPT4All | Desktop app \| CPU-only, no GPU required, open source `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 🆕 |
 | Grok (xAI) | 2 \| Registration \| 131K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 🆕 |
 | [Grok (xAI)](https://console.x.ai/) | Registration \| Varies (low for free tier) \| $25 one-time signup credit \| Grok-2, Grok-2 Mini, Grok-2 Vision | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 🆕 |
