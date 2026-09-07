@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-07 12:37 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-07 20:28 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**2** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、rss(2)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -86,7 +86,7 @@ _暂无条目_
 | OpenCode Zen | 13 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 21 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、MiniMax: MiniMax M3 (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 12 个：nvidia/nemotron-3-super-120b-a12b:free、openai/gpt-oss-20b:free、cohere/north-mini-code:free、google/gemma… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| OpenRouter | 30 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OpenRouter | 29 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM (Anonymous) / 400 RPM (Auth) \| Unspecified \| Beta Access \| Qwen3Guard-Gen-0.6B (Beta), Qwen3Guard-Gen-8B (Beta), stable-diffusion-xl-base-v10, nvr-tts-es-es | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) | Free anonymous tier (no API key, no signup): 2 RPM per IP per model. 20+ open-weight models hosted in EU. OpenAI SDK-compatible.｜免费模型 12 个：Qwen3.5-397B-A17B、gpt-oss-120b、gpt-oss-2… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OVHcloud AI Endpoints | 14 \| Registration \| 262K \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -136,10 +136,12 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（15）
+## 社区动态（17）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [Best free/production-grade model for simple face-detection (yes/no + confidence…](https://discuss.huggingface.co/t/best-free-production-grade-model-for-simple-face-detection-yes-no-confidence-in-a-python-microservice/180012)：I’m building a Django microservice where one step needs to check whether an uploaded image contains a face, and return a confidence score. … | — | rss | 论坛帖 | 国际 | 09-07 🆕 |
+| HF 论坛 | [Why can't I create my second space on a free account](https://discuss.huggingface.co/t/why-cant-i-create-my-second-space-on-a-free-account/180003)：HuggingFace documentation says I can create 2 spaces with a free account after 30 days and an email verification. So why can’t I create ano… | — | rss | 论坛帖 | 国际 | 09-07 🆕 |
 | linux.do | [转载Leo：GPT-6-Astra 很可能已经在 API 上部署，准备上线](https://linux.do/t/topic/2846999) | — | linux.do | 论坛帖 | 国内 | 09-03 |
 | linux.do | [谁说熬夜没用的？这智谱不就送来了1亿额度了么](https://linux.do/t/topic/2847110) | — | linux.do | 论坛帖 | 国内 | 09-03 |
 | linux.do | [腾讯的token plan又调价了](https://linux.do/t/topic/2838543) | — | linux.do | 论坛帖 | 国内 | 09-03 |
