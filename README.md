@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-10 12:39 (UTC+8)** ｜ 有效条目：**108** ｜ 48h 内新增：**2** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、rss(4)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-10 19:17 (UTC+8)** ｜ 有效条目：**108** ｜ 48h 内新增：**1** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、rss(4)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -141,7 +141,7 @@ _暂无条目_
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
 | HF 论坛 | [How to download from Baidu Pan (pan.baidu.com) without a Chinese account — 2026…](https://discuss.huggingface.co/t/how-to-download-from-baidu-pan-pan-baidu-com-without-a-chinese-account-2026-notes-for-datasets-a-free-fetcher/180125)：If you've ever tried a Baidu Pan download for a dataset or checkpoint from a paper, you know the drill: pan.baidu.com wants a mainland phon… | — | rss | 论坛帖 | 国际 | 09-09 🆕 |
-| HF 论坛 | [Domde ver los creditos que me quedam para cada sitio? y donde quedan guardados …](https://discuss.huggingface.co/t/domde-ver-los-creditos-que-me-quedam-para-cada-sitio-y-donde-quedan-guardados-los-videos-creado/180104)：hola soy nuevo aqui y en la pagina.. quisiera saber donde ver o en que parte estan los creditos que me quedan para seguir usando X sitio… y… | — | rss | 论坛帖 | 国际 | 09-08 🆕 |
+| HF 论坛 | [Domde ver los creditos que me quedam para cada sitio? y donde quedan guardados …](https://discuss.huggingface.co/t/domde-ver-los-creditos-que-me-quedam-para-cada-sitio-y-donde-quedan-guardados-los-videos-creado/180104)：hola soy nuevo aqui y en la pagina.. quisiera saber donde ver o en que parte estan los creditos que me quedan para seguir usando X sitio… y… | — | rss | 论坛帖 | 国际 | 09-08 |
 | HF 论坛 | [Best free/production-grade model for simple face-detection (yes/no + confidence…](https://discuss.huggingface.co/t/best-free-production-grade-model-for-simple-face-detection-yes-no-confidence-in-a-python-microservice/180012)：I’m building a Django microservice where one step needs to check whether an uploaded image contains a face, and return a confidence score. … | — | rss | 论坛帖 | 国际 | 09-07 |
 | HF 论坛 | [Why can't I create my second space on a free account](https://discuss.huggingface.co/t/why-cant-i-create-my-second-space-on-a-free-account/180003)：HuggingFace documentation says I can create 2 spaces with a free account after 30 days and an email verification. So why can’t I create ano… | — | rss | 论坛帖 | 国际 | 09-07 |
 | linux.do | [转载Leo：GPT-6-Astra 很可能已经在 API 上部署，准备上线](https://linux.do/t/topic/2846999) | — | linux.do | 论坛帖 | 国内 | 09-03 |
