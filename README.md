@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-14 04:48 (UTC+8)** ｜ 有效条目：**108** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、rss(4)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-14 12:53 (UTC+8)** ｜ 有效条目：**108** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、rss(4)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -74,12 +74,12 @@ _暂无条目_
 | [Mistral AI](https://console.mistral.ai/api-keys) | Free mode, enabled by default, no credit card required. $10/month in API credits, and free-mode prompts may be used to train Mistral models unless you opt out.｜免费模型 7 个：Mistral Me… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Mistral AI | 15 \| No \| 256K \| code, image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [ModelScope](https://modelscope.cn/my/myaccesstoken) | Free API-Inference for registered users. Requires Alibaba Cloud account binding + real-name verification.｜免费模型 3 个：Qwen/Qwen3.5-35B-A3B、Qwen/Qwen3.5-27B、+ API-Inference-enabled mo… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
-| ModelScope | 57 \| Registration \| 1M \| audio, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| ModelScope | 59 \| Registration \| 1M \| audio, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Nebius | 1 \| Registration \| 128K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Nous Portal](https://portal.nousresearch.com) | No \| Not fully published — verify on portal.nousresearch.com \| Not published \| Free tier: $0/month, no credit card \| Hermes 4 | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Nscale | 2 \| Registration \| 128K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [NVIDIA NIM](https://build.nvidia.com/explore/discover) | Free with NVIDIA Developer Program membership. 100+ models. Rate-limited per model.｜免费模型 12 个：nvidia/nemotron-3-super-120b-a12b、nvidia/nemotron-3-nano-30b-a3b、nvidia/llama-3.1-nem… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| NVIDIA NIM | 129 \| Phone verification \| 1M \| audio, embedding, image, pdf, reasoning, rerank, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| NVIDIA NIM | 130 \| Phone verification \| 1M \| audio, embedding, image, pdf, reasoning, rerank, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama | CLI + API \| 100+ models, GPU acceleration, OpenAI-compatible endpoint `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Ollama Cloud](https://ollama.com/settings/keys) | Free tier with usage limits. 16 cloud model families from the Ollama library. OpenAI SDK-compatible via https://ollama.com/v1.｜免费模型 10 个：deepseek-v4-pro、deepseek-v4-flash、minimax-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 17 \| Registration \| 1M \| code, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
