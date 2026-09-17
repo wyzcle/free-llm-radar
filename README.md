@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-17 05:16 (UTC+8)** ｜ 有效条目：**108** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、linux.do(15)、rss(4)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-17 12:50 (UTC+8)** ｜ 有效条目：**93** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(4)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -40,7 +40,7 @@ _暂无条目_
 | [BentoML](https://www.bentoml.com/) | Inference platform \| Deploy any AI/ML model anywhere, production-grade `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Cerebras | 6 \| No \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Chutes.ai | 2 \| Registration \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| Cline | 5 \| Registration \| 0 \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Cline | 6 \| Registration \| 0 \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) | 2457 neurons per M input tokens ｜ 18252 neurons per M output tokens ｜ 4625 neurons per M input tokens ｜ 30475 neurons per M output tokens ｜ 4119 neurons per M input tokens ｜ 34868… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 | Cloudflare Workers AI | 40 \| No \| 262K \| code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Cohere | 12 \| No \| 256K \| image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -74,7 +74,7 @@ _暂无条目_
 | [Mistral AI](https://console.mistral.ai/api-keys) | Free mode, enabled by default, no credit card required. $10/month in API credits, and free-mode prompts may be used to train Mistral models unless you opt out.｜免费模型 7 个：Mistral Me… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Mistral AI | 15 \| No \| 256K \| code, image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [ModelScope](https://modelscope.cn/my/myaccesstoken) | Free API-Inference for registered users. Requires Alibaba Cloud account binding + real-name verification.｜免费模型 3 个：Qwen/Qwen3.5-35B-A3B、Qwen/Qwen3.5-27B、+ API-Inference-enabled mo… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
-| ModelScope | 59 \| Registration \| 1M \| audio, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| ModelScope | 61 \| Registration \| 1M \| audio, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Nebius | 1 \| Registration \| 128K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Nous Portal](https://portal.nousresearch.com) | No \| Not fully published — verify on portal.nousresearch.com \| Not published \| Free tier: $0/month, no credit card \| Hermes 4 | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Nscale | 2 \| Registration \| 128K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -86,7 +86,7 @@ _暂无条目_
 | OpenCode Zen | 13 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 24 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 12 个：nvidia/nemotron-3-super-120b-a12b:free、openai/gpt-oss-20b:free、cohere/north-mini-code:free、google/gemma… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| OpenRouter | 33 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OpenRouter | 34 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM (Anonymous) / 400 RPM (Auth) \| Unspecified \| Beta Access \| Qwen3Guard-Gen-0.6B (Beta), Qwen3Guard-Gen-8B (Beta), stable-diffusion-xl-base-v10, nvr-tts-es-es | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) | Free anonymous tier (no API key, no signup): 2 RPM per IP per model. 20+ open-weight models hosted in EU. OpenAI SDK-compatible.｜免费模型 12 个：Qwen3.5-397B-A17B、gpt-oss-120b、gpt-oss-2… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OVHcloud AI Endpoints | 14 \| Registration \| 262K \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -136,7 +136,7 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（19）
+## 社区动态（4）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -144,21 +144,6 @@ _暂无条目_
 | HF 论坛 | [Domde ver los creditos que me quedam para cada sitio? y donde quedan guardados …](https://discuss.huggingface.co/t/domde-ver-los-creditos-que-me-quedam-para-cada-sitio-y-donde-quedan-guardados-los-videos-creado/180104)：hola soy nuevo aqui y en la pagina.. quisiera saber donde ver o en que parte estan los creditos que me quedan para seguir usando X sitio… y… | — | rss | 论坛帖 | 国际 | 09-08 |
 | HF 论坛 | [Best free/production-grade model for simple face-detection (yes/no + confidence…](https://discuss.huggingface.co/t/best-free-production-grade-model-for-simple-face-detection-yes-no-confidence-in-a-python-microservice/180012)：I’m building a Django microservice where one step needs to check whether an uploaded image contains a face, and return a confidence score. … | — | rss | 论坛帖 | 国际 | 09-07 |
 | HF 论坛 | [Why can't I create my second space on a free account](https://discuss.huggingface.co/t/why-cant-i-create-my-second-space-on-a-free-account/180003)：HuggingFace documentation says I can create 2 spaces with a free account after 30 days and an email verification. So why can’t I create ano… | — | rss | 论坛帖 | 国际 | 09-07 |
-| linux.do | [转载Leo：GPT-6-Astra 很可能已经在 API 上部署，准备上线](https://linux.do/t/topic/2846999) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [谁说熬夜没用的？这智谱不就送来了1亿额度了么](https://linux.do/t/topic/2847110) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [腾讯的token plan又调价了](https://linux.do/t/topic/2838543) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [[开源推广] Octopus 更新,单渠道多KEY,自动故障转移,个人API聚合网关,让你的 Agent 再也不会由于API的问题中止,再也不用发送继续!](https://linux.do/t/topic/2766722) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [GLM5.2是什么时候免费的？？](https://linux.do/t/topic/2846031) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [【福利继续】继续给佬分享Tokens，但今天领取方式有点变化【已分享见内文名单】](https://linux.do/t/topic/2842842) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [Zcode国内版本1亿token](https://linux.do/t/topic/2847005) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [AMD免费flash模型，包含dsv4f,qwen3.8flash](https://linux.do/t/topic/2846792) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [来了来了，ZCode是我的神，今天的1亿Token到帐了](https://linux.do/t/topic/2846638) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [zcode 继续领1个亿token](https://linux.do/t/topic/2846559) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [【福利继续】继续给佬分享Tokens，下午xai不稳定，现在恢复了](https://linux.do/t/topic/2846080) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [grok免费号推送了前两个月免费的消息](https://linux.do/t/topic/2845830) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [豆包标准版套餐官方活动免费送一个月](https://linux.do/t/topic/2845807) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [商汤日日新免费每周通用60万积分，Flash-Lite专属积分池60万，可用glm5.2,k3](https://linux.do/t/topic/2845520) | — | linux.do | 论坛帖 | 国内 | 09-03 |
-| linux.do | [【终章】OX-Alpha & GLM-5.3 烧千亿Token复刻的泰拉瑞亚搬到线上了](https://linux.do/t/topic/2815446) | — | linux.do | 论坛帖 | 国内 | 09-03 |
 
 
 ---
