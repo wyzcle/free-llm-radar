@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-20 04:38 (UTC+8)** ｜ 有效条目：**93** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(4)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-20 12:52 (UTC+8)** ｜ 有效条目：**93** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(4)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -68,7 +68,7 @@ _暂无条目_
 | llama.cpp | C/C++ engine \| Runs any GGUF, minimal dependencies `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [llamafile](https://github.com/Mozilla-Ocho/llamafile) | Single executable \| Multi-platform, combines llama.cpp + Cosmopolitan Libc `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [LLM7.io](https://token.llm7.io) | API gateway with a free tier. Anonymous access needs no key and reaches the turbo models; a free token from token.llm7.io raises the rate and token limits but reaches the same mod… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| LLM7.io | 19 \| No \| 1M \| audio, code, image, pdf, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| LLM7.io | 20 \| No \| 1M \| audio, code, image, pdf, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | LM Studio | Desktop GUI \| Any GGUF model, built-in model browser, offline `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Mistral (La Plateforme)](https://console.mistral.ai/) | Phone verification \| 1 request/second \| - \| Free \| Mistral 7B, Mixtral 8x7B, Mistral Small, Mistral Nemo | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Mistral AI](https://console.mistral.ai/api-keys) | Free mode, enabled by default, no credit card required. $10/month in API credits, and free-mode prompts may be used to train Mistral models unless you opt out.｜免费模型 7 个：Mistral Me… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
@@ -83,8 +83,8 @@ _暂无条目_
 | Ollama | CLI + API \| 100+ models, GPU acceleration, OpenAI-compatible endpoint `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Ollama Cloud](https://ollama.com/settings/keys) | Free tier with usage limits. 16 cloud model families from the Ollama library. OpenAI SDK-compatible via https://ollama.com/v1.｜免费模型 10 个：deepseek-v4-pro、deepseek-v4-flash、minimax-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 17 \| Registration \| 1M \| code, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| OpenCode Zen | 13 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 25 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：DeepSeek: DeepSeek V4 Flash 0731 (free)、Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Go… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| OpenCode Zen | 31 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 24 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 12 个：nvidia/nemotron-3-super-120b-a12b:free、openai/gpt-oss-20b:free、cohere/north-mini-code:free、google/gemma… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 35 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM (Anonymous) / 400 RPM (Auth) \| Unspecified \| Beta Access \| Qwen3Guard-Gen-0.6B (Beta), Qwen3Guard-Gen-8B (Beta), stable-diffusion-xl-base-v10, nvr-tts-es-es | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
