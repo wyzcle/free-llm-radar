@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-23 00:56 (UTC+8)** ｜ 有效条目：**93** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(4)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-23 05:17 (UTC+8)** ｜ 有效条目：**94** ｜ 48h 内新增：**1** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(5)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -136,10 +136,11 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（4）
+## 社区动态（5）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [Can’t create any spaces for free](https://discuss.huggingface.co/t/can-t-create-any-spaces-for-free/180683)：why can’t i create any cpu and ZeroGPU spaces? i’m on free tier, i should be able to create 2 ZeroGPU spaces. When i log into my old accoun… | — | rss | 论坛帖 | 国际 | 09-23 🆕 |
 | HF 论坛 | [How to download from Baidu Pan (pan.baidu.com) without a Chinese account — 2026…](https://discuss.huggingface.co/t/how-to-download-from-baidu-pan-pan-baidu-com-without-a-chinese-account-2026-notes-for-datasets-a-free-fetcher/180125)：If you've ever tried a Baidu Pan download for a dataset or checkpoint from a paper, you know the drill: pan.baidu.com wants a mainland phon… | — | rss | 论坛帖 | 国际 | 09-09 |
 | HF 论坛 | [Domde ver los creditos que me quedam para cada sitio? y donde quedan guardados …](https://discuss.huggingface.co/t/domde-ver-los-creditos-que-me-quedam-para-cada-sitio-y-donde-quedan-guardados-los-videos-creado/180104)：hola soy nuevo aqui y en la pagina.. quisiera saber donde ver o en que parte estan los creditos que me quedan para seguir usando X sitio… y… | — | rss | 论坛帖 | 国际 | 09-08 |
 | HF 论坛 | [Best free/production-grade model for simple face-detection (yes/no + confidence…](https://discuss.huggingface.co/t/best-free-production-grade-model-for-simple-face-detection-yes-no-confidence-in-a-python-microservice/180012)：I’m building a Django microservice where one step needs to check whether an uploaded image contains a face, and return a confidence score. … | — | rss | 论坛帖 | 国际 | 09-07 |
