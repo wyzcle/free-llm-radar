@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-26 19:22 (UTC+8)** ｜ 有效条目：**91** ｜ 48h 内新增：**1** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(2)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-27 00:21 (UTC+8)** ｜ 有效条目：**91** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(2)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -140,7 +140,7 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [Free offline structural preflight for Diffusion/VQ-BeT LeRobot checkpoints — fe…](https://discuss.huggingface.co/t/free-offline-structural-preflight-for-diffusion-vq-bet-lerobot-checkpoints-feedback-welcome/180702)：Sharing a small AI-generated community utility for inspecting a local Diffusion/VQ-BeT LeRobot saved-processor checkpoint before a full run… | — | rss | 论坛帖 | 国际 | 09-24 🆕 |
+| HF 论坛 | [Free offline structural preflight for Diffusion/VQ-BeT LeRobot checkpoints — fe…](https://discuss.huggingface.co/t/free-offline-structural-preflight-for-diffusion-vq-bet-lerobot-checkpoints-feedback-welcome/180702)：Sharing a small AI-generated community utility for inspecting a local Diffusion/VQ-BeT LeRobot saved-processor checkpoint before a full run… | — | rss | 论坛帖 | 国际 | 09-24 |
 | HF 论坛 | [Can’t create any spaces for free](https://discuss.huggingface.co/t/can-t-create-any-spaces-for-free/180683)：why can’t i create any cpu and ZeroGPU spaces? i’m on free tier, i should be able to create 2 ZeroGPU spaces. When i log into my old accoun… | — | rss | 论坛帖 | 国际 | 09-23 |
 
 
