@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-28 21:50 (UTC+8)** ｜ 有效条目：**92** ｜ 48h 内新增：**1** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(3)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-29 07:15 (UTC+8)** ｜ 有效条目：**93** ｜ 48h 内新增：**2** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(4)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -84,7 +84,7 @@ _暂无条目_
 | [Ollama Cloud](https://ollama.com/settings/keys) | Free tier with usage limits. 16 cloud model families from the Ollama library. OpenAI SDK-compatible via https://ollama.com/v1.｜免费模型 10 个：deepseek-v4-pro、deepseek-v4-flash、minimax-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 17 \| Registration \| 1M \| code, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | OpenCode Zen | 32 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 21 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Space Bunny A… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 20 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Space Bunny A… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 12 个：nvidia/nemotron-3-super-120b-a12b:free、openai/gpt-oss-20b:free、cohere/north-mini-code:free、google/gemma… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 34 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM (Anonymous) / 400 RPM (Auth) \| Unspecified \| Beta Access \| Qwen3Guard-Gen-0.6B (Beta), Qwen3Guard-Gen-8B (Beta), stable-diffusion-xl-base-v10, nvr-tts-es-es | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
@@ -136,10 +136,11 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（3）
+## 社区动态（4）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [Future of free Docker Spaces quota for older accounts?](https://discuss.huggingface.co/t/future-of-free-docker-spaces-quota-for-older-accounts/180780)：Hi everyone, I noticed that new Hugging Face accounts currently have a free CPU-basic quota of 0. On my older account, I still have permiss… | — | rss | 论坛帖 | 国际 | 09-29 🆕 |
 | HF 论坛 | [Free cpu-basic quota is 0 on new account](https://discuss.huggingface.co/t/free-cpu-basic-quota-is-0-on-new-account/180764)：Hi, my account Yashsalidev (email verified) can’t start any free Space. Restarting Yashsalidev/chest-xray-ai fails with “You’ve reached you… | — | rss | 论坛帖 | 国际 | 09-28 🆕 |
 | HF 论坛 | [Free offline structural preflight for Diffusion/VQ-BeT LeRobot checkpoints — fe…](https://discuss.huggingface.co/t/free-offline-structural-preflight-for-diffusion-vq-bet-lerobot-checkpoints-feedback-welcome/180702)：Sharing a small AI-generated community utility for inspecting a local Diffusion/VQ-BeT LeRobot saved-processor checkpoint before a full run… | — | rss | 论坛帖 | 国际 | 09-24 |
 | HF 论坛 | [Can’t create any spaces for free](https://discuss.huggingface.co/t/can-t-create-any-spaces-for-free/180683)：why can’t i create any cpu and ZeroGPU spaces? i’m on free tier, i should be able to create 2 ZeroGPU spaces. When i log into my old accoun… | — | rss | 论坛帖 | 国际 | 09-23 |
