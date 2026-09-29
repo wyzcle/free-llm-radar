@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-09-29 20:49 (UTC+8)** ｜ 有效条目：**96** ｜ 48h 内新增：**5** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(7)、official-pages(2)、openrouter(1)
+最后更新：**2026-09-30 06:13 (UTC+8)** ｜ 有效条目：**96** ｜ 48h 内新增：**4** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(7)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -144,7 +144,7 @@ _暂无条目_
 | HF 论坛 | [[{{Guía~Frontier@en @español}}] ¿Cómo poner Frontier en español?](https://discuss.huggingface.co/t/guia-frontier-en-espanol-como-poner-frontier-en-espanol/181857)：[{{Guía~Frontier@en @español}}] ¿Cómo poner Frontier en español? ¿Cómo hablar Frontier en espaiol? Para hablar con Frontier en español, lla… | — | rss | 论坛帖 | 国际 | 09-29 🆕 |
 | HF 论坛 | [༺🐴Guía§⊱Frontier@Paso§⊱ a@ Paso🐴༻¿Cómo se marca a Frontier?](https://discuss.huggingface.co/t/guia-frontier-paso-a-paso-como-se-marca-a-frontier/181848)：༺ Guía§⊱Frontier@Paso§⊱ a@ Paso​ ༻¿Cómo se marca a Frontier? Para marcar a Frontier, puedes llamar al Teléfono desde México: +52-800-461-03… | — | rss | 论坛帖 | 国际 | 09-29 🆕 |
 | HF 论坛 | [Future of free Docker Spaces quota for older accounts?](https://discuss.huggingface.co/t/future-of-free-docker-spaces-quota-for-older-accounts/180780)：Hi everyone, I noticed that new Hugging Face accounts currently have a free CPU-basic quota of 0. On my older account, I still have permiss… | — | rss | 论坛帖 | 国际 | 09-29 🆕 |
-| HF 论坛 | [Free cpu-basic quota is 0 on new account](https://discuss.huggingface.co/t/free-cpu-basic-quota-is-0-on-new-account/180764)：Hi, my account Yashsalidev (email verified) can’t start any free Space. Restarting Yashsalidev/chest-xray-ai fails with “You’ve reached you… | — | rss | 论坛帖 | 国际 | 09-28 🆕 |
+| HF 论坛 | [Free cpu-basic quota is 0 on new account](https://discuss.huggingface.co/t/free-cpu-basic-quota-is-0-on-new-account/180764)：Hi, my account Yashsalidev (email verified) can’t start any free Space. Restarting Yashsalidev/chest-xray-ai fails with “You’ve reached you… | — | rss | 论坛帖 | 国际 | 09-28 |
 | HF 论坛 | [Free offline structural preflight for Diffusion/VQ-BeT LeRobot checkpoints — fe…](https://discuss.huggingface.co/t/free-offline-structural-preflight-for-diffusion-vq-bet-lerobot-checkpoints-feedback-welcome/180702)：Sharing a small AI-generated community utility for inspecting a local Diffusion/VQ-BeT LeRobot saved-processor checkpoint before a full run… | — | rss | 论坛帖 | 国际 | 09-24 |
 | HF 论坛 | [Can’t create any spaces for free](https://discuss.huggingface.co/t/can-t-create-any-spaces-for-free/180683)：why can’t i create any cpu and ZeroGPU spaces? i’m on free tier, i should be able to create 2 ZeroGPU spaces. When i log into my old accoun… | — | rss | 论坛帖 | 国际 | 09-23 |
 
