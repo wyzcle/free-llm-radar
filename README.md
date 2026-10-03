@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-03 19:37 (UTC+8)** ｜ 有效条目：**97** ｜ 48h 内新增：**1** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(8)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-04 00:16 (UTC+8)** ｜ 有效条目：**98** ｜ 48h 内新增：**1** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(33)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -136,11 +136,12 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（8）
+## 社区动态（9）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [🌺【+1✦877✤370✥8278】How Do I Reach Frontier Customer Service Outside Regular Hour…](https://discuss.huggingface.co/t/1-877-370-8278-how-do-i-reach-frontier-customer-service-outside-regular-hours-explore-live-agent-assistance-online-support-travel-help-complete-guide-expert-faqs/182743)：Yes, Frontier Airlines is Operate 24/call = Frontier Airlines, *+1✦877-370✦8278* or + +1⟐877⟐370⟐8278​ (US) or ✧ / +1 877═370═8278™ or ⋆⁺₊⋆… | — | rss | 论坛帖 | 国际 | 10-01 🆕 |
+| HF 论坛 | [Extracting structured client needs from free-text advisor notes to select and p…](https://discuss.huggingface.co/t/extracting-structured-client-needs-from-free-text-advisor-notes-to-select-and-personalize-an-investment-proposal-how-would-you-approach-it/182839)：Hi everyone, I’m working on a project for a bank and I’d like to hear how the community would tackle it. I’ll describe the scenario and con… | — | rss | 论坛帖 | 国际 | 10-04 🆕 |
+| HF 论坛 | [🌺【+1✦877✤370✥8278】How Do I Reach Frontier Customer Service Outside Regular Hour…](https://discuss.huggingface.co/t/1-877-370-8278-how-do-i-reach-frontier-customer-service-outside-regular-hours-explore-live-agent-assistance-online-support-travel-help-complete-guide-expert-faqs/182743)：Yes, Frontier Airlines is Operate 24/call = Frontier Airlines, *+1✦877-370✦8278* or + +1⟐877⟐370⟐8278​ (US) or ✧ / +1 877═370═8278™ or ⋆⁺₊⋆… | — | rss | 论坛帖 | 国际 | 10-01 |
 | HF 论坛 | [[[GUÍA⁐🕊[Frontier]⁂Español⁐Oficial]] ¿Cómo se marca a Frontier?](https://discuss.huggingface.co/t/guia-frontier-espanol-oficial-como-se-marca-a-frontier/181860)：[[GUÍA⁐ [Frontier]⁂Español⁐Oficial]] ¿Cómo se marca a Frontier? ¿Cómo hablar Frontier en Español? Para hablar con Frontier en español, marc… | — | rss | 论坛帖 | 国际 | 09-29 |
 | HF 论坛 | [[{{Guía~Frontier@en @español}}] ¿Cómo poner Frontier en español?](https://discuss.huggingface.co/t/guia-frontier-en-espanol-como-poner-frontier-en-espanol/181857)：[{{Guía~Frontier@en @español}}] ¿Cómo poner Frontier en español? ¿Cómo hablar Frontier en espaiol? Para hablar con Frontier en español, lla… | — | rss | 论坛帖 | 国际 | 09-29 |
 | HF 论坛 | [༺🐴Guía§⊱Frontier@Paso§⊱ a@ Paso🐴༻¿Cómo se marca a Frontier?](https://discuss.huggingface.co/t/guia-frontier-paso-a-paso-como-se-marca-a-frontier/181848)：༺ Guía§⊱Frontier@Paso§⊱ a@ Paso​ ༻¿Cómo se marca a Frontier? Para marcar a Frontier, puedes llamar al Teléfono desde México: +52-800-461-03… | — | rss | 论坛帖 | 国际 | 09-29 |
