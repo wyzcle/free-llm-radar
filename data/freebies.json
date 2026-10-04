@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-04T05:50:57+00:00",
-  "count": 117,
+  "updated_at": "2026-10-04T12:19:25+00:00",
+  "count": 122,
   "items": [
     {
       "id": "572986645cc0",
@@ -17,7 +17,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -68,7 +68,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -119,7 +119,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -136,7 +136,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -153,7 +153,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -170,7 +170,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -187,7 +187,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -204,7 +204,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -221,7 +221,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -238,7 +238,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -255,7 +255,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -272,7 +272,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -289,7 +289,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -306,7 +306,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -323,7 +323,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -340,7 +340,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -357,7 +357,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -391,7 +391,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -408,7 +408,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -425,7 +425,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -442,7 +442,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -459,7 +459,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -476,7 +476,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -493,7 +493,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -510,7 +510,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -527,7 +527,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -544,7 +544,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -561,7 +561,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -578,7 +578,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -595,7 +595,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -612,7 +612,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -629,7 +629,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -646,7 +646,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -663,7 +663,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -680,7 +680,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -697,7 +697,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -714,7 +714,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -731,7 +731,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -748,7 +748,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -765,7 +765,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -782,7 +782,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -799,7 +799,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -816,7 +816,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -835,7 +835,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -854,7 +854,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -873,7 +873,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -892,7 +892,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -911,7 +911,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -930,7 +930,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -938,7 +938,7 @@
       "title": "Google AI Studio｜Permanent Free Tiers",
       "platform": "Google AI Studio",
       "kind": "permanent",
-      "quota": "No | 5-30 RPM (varies by model) | 9000 RPD (Flash) / 25 RPD (3.1 Pro) | Free of charge | Gemini 3.1 Pro, Gemini 3.1 Flash, Gemini 3.0 Flash, Gemini 3.0 Flash-Lite",
+      "quota": "No | 5-30 RPM (varies by model) | Varies by model (Flash / Flash-Lite only; Pro models are paid) | Free of charge | Gemini 3.1 Flash-Lite, Gemini 3.5 Flash-Lite, Gemini 3.5 Flash, Gemini 3.6 Flash",
       "expires": null,
       "howto": null,
       "url": "https://aistudio.google.com/",
@@ -947,7 +947,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -955,7 +955,7 @@
       "title": "Mistral (La Plateforme)｜Permanent Free Tiers",
       "platform": "Mistral (La Plateforme)",
       "kind": "permanent",
-      "quota": "Phone verification | 1 request/second | - | Free | Mistral 7B, Mixtral 8x7B, Mistral Small, Mistral Nemo",
+      "quota": "Phone verification | 1 request/second | - | Free | Codestral 2508, Ministral 3 8B, Ministral 3 14B, Mistral Large 3",
       "expires": null,
       "howto": null,
       "url": "https://console.mistral.ai/",
@@ -964,7 +964,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -981,7 +981,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -989,7 +989,7 @@
       "title": "Z.AI (GLM)｜Permanent Free Tiers",
       "platform": "Z.AI (GLM)",
       "kind": "permanent",
-      "quota": "Registration | ~1 request/second (Flash models) | ~1,000 requests/day (Flash tier) | Free tier ongoing, subject to change | GLM-4.5-Flash, GLM-4.7-Flash",
+      "quota": "Registration | ~1 request/second (Flash models) | ~1,000 requests/day (Flash tier) | Free tier ongoing, subject to change | GLM-4.6V-Flash (vision), GLM-4.5-Flash, GLM-4.7-Flash",
       "expires": null,
       "howto": null,
       "url": "https://z.ai/",
@@ -998,7 +998,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1015,7 +1015,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1023,7 +1023,7 @@
       "title": "OVH AI Endpoints｜Permanent Free Tiers",
       "platform": "OVH AI Endpoints",
       "kind": "permanent",
-      "quota": "Registration | 2 RPM (Anonymous) / 400 RPM (Auth) | Unspecified | Beta Access | Qwen3Guard-Gen-0.6B (Beta), Qwen3Guard-Gen-8B (Beta), stable-diffusion-xl-base-v10, nvr-tts-es-es",
+      "quota": "Registration | 2 RPM (Anonymous) / 400 RPM (Auth) | Unspecified | Beta Access | Llama 3.3 70B Instruct, GPT OSS 20B, GPT OSS 120B, Qwen3.5 9B",
       "expires": null,
       "howto": null,
       "url": "https://endpoints.ai.cloud.ovh.net/",
@@ -1032,7 +1032,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1040,7 +1040,7 @@
       "title": "Nous Portal｜Permanent Free Tiers",
       "platform": "Nous Portal",
       "kind": "permanent",
-      "quota": "No | Not fully published — verify on portal.nousresearch.com | Not published | Free tier: $0/month, no credit card | Hermes 4",
+      "quota": "No | Not fully published — verify on portal.nousresearch.com | Not published | Free tier: $0/month. A GitHub user reported (14 Sep 2026) that a payment method (Stripe, $0 charge) is required to get a key - verify | Hermes 4",
       "expires": null,
       "howto": null,
       "url": "https://portal.nousresearch.com",
@@ -1049,7 +1049,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1066,7 +1066,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1083,7 +1083,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1100,7 +1100,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1117,7 +1117,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1125,7 +1125,7 @@
       "title": "Requesty｜Renewable Credits",
       "platform": "Requesty",
       "kind": "permanent",
-      "quota": "No | 60 RPM | 200 requests/day (free models) | See provider",
+      "quota": "No | 60 RPM | 50 requests/day (new orgs) / 200 requests/day (paying orgs), shared across all free models | Poolside Laguna M.1, Poolside Laguna XS.2, NVIDIA Nemotron 3 Super, NVIDIA Nemotron 3 Ultra",
       "expires": null,
       "howto": null,
       "url": "https://requesty.ai/",
@@ -1134,7 +1134,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1151,7 +1151,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1168,7 +1168,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1176,7 +1176,7 @@
       "title": "Replicate｜One-Time Trial Credits",
       "platform": "Replicate",
       "kind": "new_user",
-      "quota": "Registration | Small trial credit | One-time | See provider",
+      "quota": "Registration | Limited free runs on select models | One-time | See provider",
       "expires": null,
       "howto": null,
       "url": "https://replicate.com/",
@@ -1185,7 +1185,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1202,7 +1202,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1210,7 +1210,7 @@
       "title": "SambaNova Cloud｜One-Time Trial Credits",
       "platform": "SambaNova Cloud",
       "kind": "new_user",
-      "quota": "Registration | $5 | 3 months | See provider",
+      "quota": "Registration | $5 | 3 months | MiniMax M3 (preview), Gemma 4 31B (preview), DeepSeek V3.2 (preview), DeepSeek V3.1",
       "expires": null,
       "howto": null,
       "url": "https://cloud.sambanova.ai/",
@@ -1219,7 +1219,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1244,7 +1244,7 @@
       "title": "Nebius (Token Factory)｜One-Time Trial Credits",
       "platform": "Nebius (Token Factory)",
       "kind": "new_user",
-      "quota": "Registration | $1 (requires a bank card on file) | One-time | See provider",
+      "quota": "Registration | $1 (requires a bank card on file) | One-time | Qwen3 235B A22B Instruct 2507, GLM 5.3, GPT OSS 120B, Qwen3.8 27B",
       "expires": null,
       "howto": null,
       "url": "https://tokenfactory.nebius.com/",
@@ -1253,7 +1253,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1261,7 +1261,7 @@
       "title": "Cerebras｜One-Time Trial Credits",
       "platform": "Cerebras",
       "kind": "new_user",
-      "quota": "Registration | $5 | 30 days | Llama 3.1 8B (Fast), Llama 3.1 70B (Fast), Llama 4 Scout (Fast), Qwen3 32B (Fast)",
+      "quota": "Registration | $5 | 30 days | Qwen 3.8 27B, GPT OSS 120B",
       "expires": null,
       "howto": null,
       "url": "https://cerebras.ai/inference",
@@ -1270,7 +1270,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1278,7 +1278,7 @@
       "title": "Novita AI｜One-Time Trial Credits",
       "platform": "Novita AI",
       "kind": "new_user",
-      "quota": "Registration | $0.50 | One-time | See provider",
+      "quota": "Registration | $0.50 trial (1 yr) / $10 per referral | One-time | GLM 5.3, Kimi K3, DeepSeek V4.1 Flash, Qwen3.8 27B",
       "expires": null,
       "howto": null,
       "url": "https://novita.ai/",
@@ -1287,7 +1287,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1295,7 +1295,7 @@
       "title": "Scaleway Generative APIs｜One-Time Trial Credits",
       "platform": "Scaleway Generative APIs",
       "kind": "new_user",
-      "quota": "Registration | 1M tokens | One-time | See provider",
+      "quota": "Registration | 1M tokens | One-time | Mistral Medium 3.5 128B, Mistral Small 3.2 24B, Llama 3.3 70B Instruct, Qwen3.5 397B A17B",
       "expires": null,
       "howto": null,
       "url": "https://console.scaleway.com/generative-api/models",
@@ -1304,7 +1304,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1312,7 +1312,7 @@
       "title": "Qwen (Alibaba)｜One-Time Trial Credits",
       "platform": "Qwen (Alibaba)",
       "kind": "new_user",
-      "quota": "Registration | 1M tokens/model | One-time per model | See provider",
+      "quota": "Registration | 1M tokens/model | One-time per model | Qwen3.8 Max, Qwen3.7 Max, Qwen3.6 Plus",
       "expires": null,
       "howto": null,
       "url": "https://bailian.console.alibabacloud.com/",
@@ -1321,7 +1321,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1338,7 +1338,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1355,7 +1355,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1363,7 +1363,7 @@
       "title": "DeepSeek｜One-Time Trial Credits",
       "platform": "DeepSeek",
       "kind": "new_user",
-      "quota": "Registration | 5M tokens | 30 days | See provider",
+      "quota": "Registration | 5M tokens | 30 days | DeepSeek Flash (V4.1)",
       "expires": null,
       "howto": null,
       "url": "https://platform.deepseek.com/",
@@ -1372,7 +1372,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1389,7 +1389,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1406,7 +1406,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1414,7 +1414,7 @@
       "title": "Friendli AI｜One-Time Trial Credits",
       "platform": "Friendli AI",
       "kind": "new_user",
-      "quota": "Registration | $10 | One-time | See provider",
+      "quota": "Registration | $10 | One-time | DeepSeek V3.2, Gemma 4 31B, GLM 5.2, GLM 5.3 Flash",
       "expires": null,
       "howto": null,
       "url": "https://friendli.ai/",
@@ -1423,7 +1423,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1440,7 +1440,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1459,7 +1459,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1478,7 +1478,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1497,7 +1497,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1769,7 +1769,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -1786,7 +1786,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     },
     {
@@ -2007,7 +2007,92 @@
       "confidence": "forum",
       "tags": [],
       "discovered_at": "2026-10-03T16:16:29+00:00",
-      "last_seen": "2026-10-04T05:50:57+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
+      "status": "active"
+    },
+    {
+      "id": "b9c1eb09738d",
+      "title": "Kilo AI Gateway｜Permanent Free Tiers",
+      "platform": "Kilo AI Gateway",
+      "kind": "permanent",
+      "quota": "No | 200 requests/hour per IP (free models, per community submission) | Default free models only | Free plan, no expiry | Kilo Auto Free, StepFun Step 3.7 Flash, Poolside Laguna S 2.1, Poolside Laguna XS 2.1",
+      "expires": null,
+      "howto": null,
+      "url": "https://kilo.ai/gateway",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-10-04T12:19:25+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
+      "status": "active"
+    },
+    {
+      "id": "bcac8a31cfcc",
+      "title": "Api.Airforce｜Permanent Free Tiers",
+      "platform": "Api.Airforce",
+      "kind": "permanent",
+      "quota": "No | 1 RPM | 1,000 requests/day | Free plan, $0/month | See provider",
+      "expires": null,
+      "howto": null,
+      "url": "https://api.airforce/",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-10-04T12:19:25+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
+      "status": "active"
+    },
+    {
+      "id": "12ec54013729",
+      "title": "Routeway｜Permanent Free Tiers",
+      "platform": "Routeway",
+      "kind": "permanent",
+      "quota": "Registration | 5 RPM (community submission) | 200 requests/day | Starter plan free, shared queue | Step 3.7 Flash, GPT OSS 120B, Laguna XS.2, Gemma 4 31B",
+      "expires": null,
+      "howto": null,
+      "url": "https://routeway.ai/",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-10-04T12:19:25+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
+      "status": "active"
+    },
+    {
+      "id": "b63fc74a0924",
+      "title": "Vercel AI Gateway｜Renewable Credits",
+      "platform": "Vercel AI Gateway",
+      "kind": "permanent",
+      "quota": "Registration | Rate limited per model (lower than paid tier) | Monthly free credit (~$5, verify) | See provider",
+      "expires": null,
+      "howto": null,
+      "url": "https://vercel.com/ai-gateway",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-10-04T12:19:25+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
+      "status": "active"
+    },
+    {
+      "id": "03b0d0b99023",
+      "title": "Grokified｜One-Time Trial Credits",
+      "platform": "Grokified",
+      "kind": "new_user",
+      "quota": "No | $5 | One-time | grok-4.6, grok-4.3, grok-build-0.1",
+      "expires": null,
+      "howto": null,
+      "url": "https://grokified.com",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-10-04T12:19:25+00:00",
+      "last_seen": "2026-10-04T12:19:25+00:00",
       "status": "active"
     }
   ]
