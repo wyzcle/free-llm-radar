@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-06 08:02 (UTC+8)** ｜ 有效条目：**103** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-06 14:17 (UTC+8)** ｜ 有效条目：**103** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -41,7 +41,7 @@ _暂无条目_
 | [BentoML](https://www.bentoml.com/) | Inference platform \| Deploy any AI/ML model anywhere, production-grade `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Cerebras | 6 \| No \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Chutes.ai | 2 \| Registration \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| Cline | 3 \| Registration \| 0 \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Cline | 2 \| Registration \| 0 \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) | 2457 neurons per M input tokens ｜ 18252 neurons per M output tokens ｜ 4625 neurons per M input tokens ｜ 30475 neurons per M output tokens ｜ 4119 neurons per M input tokens ｜ 34868… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 | Cloudflare Workers AI | 40 \| No \| 262K \| code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Cohere | 12 \| No \| 256K \| image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -65,7 +65,7 @@ _暂无条目_
 | Jan.ai | Desktop app \| Privacy-focused, 100% offline ChatGPT alternative `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Kilo AI Gateway](https://kilo.ai/gateway) | No \| 200 requests/hour per IP (free models, per community submission) \| Default free models only \| Free plan, no expiry \| Kilo Auto Free, StepFun Step 3.7 Flash, Poolside Laguna S… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 🆕 |
 | [Kilo Code](https://app.kilo.ai/profile) | Free models with no credit card and no API key required. kilo-auto/free auto-router dynamically routes to models in the free pool.｜免费模型 17 个：nvidia/nemotron-3-ultra-550b-a55b:free… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Kilo Code | 15 \| No \| 1M \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Kilo Code | 21 \| No \| 1M \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | KoboldCpp | Single executable \| Optimized for creative writing, GGUF `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | llama.cpp | C/C++ engine \| Runs any GGUF, minimal dependencies `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [llamafile](https://github.com/Mozilla-Ocho/llamafile) | Single executable \| Multi-platform, combines llama.cpp + Cosmopolitan Libc `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
@@ -88,10 +88,10 @@ _暂无条目_
 | OpenCode Zen | 33 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 20 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 17 个：nvidia/nemotron-3-super-120b-a12b:free、cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、googl… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| OpenRouter | 34 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OpenRouter | 32 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM (Anonymous) / 400 RPM (Auth) \| Unspecified \| Beta Access \| Llama 3.3 70B Instruct, GPT OSS 20B, GPT OSS 120B, Qwen3.5 9B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) | Free anonymous tier (no API key, no signup): 2 RPM per IP per model. 20+ open-weight models hosted in EU. OpenAI SDK-compatible.｜免费模型 11 个：Qwen3.5-397B-A17B、gpt-oss-120b、gpt-oss-2… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| OVHcloud AI Endpoints | 14 \| Registration \| 262K \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OVHcloud AI Endpoints | 15 \| Registration \| 262K \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Pollinations.ai](https://pollinations.ai) | No \| ~1 request/15s (anonymous) — higher with a free API key \| Fair use \| Free, no billing system \| OpenAI GPT-class (via Pollinations), Mistral-class (via Pollinations) | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Requesty](https://requesty.ai/) | No \| 60 RPM \| 50 requests/day (new orgs) / 200 requests/day (paying orgs), shared across all free models \| Poolside Laguna M.1, Poolside Laguna XS.2, NVIDIA Nemotron 3 Super, NVID… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Routeway](https://routeway.ai/) | Registration \| 5 RPM (community submission) \| 200 requests/day \| Starter plan free, shared queue \| Step 3.7 Flash, GPT OSS 120B, Laguna XS.2, Gemma 4 31B | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 🆕 |
