@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-05 22:33 (UTC+8)** ｜ 有效条目：**103** ｜ 48h 内新增：**6** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-06 08:02 (UTC+8)** ｜ 有效条目：**103** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -86,7 +86,7 @@ _暂无条目_
 | [Ollama Cloud](https://ollama.com/settings/keys) | Free tier with usage limits. 16 cloud model families from the Ollama library. OpenAI SDK-compatible via https://ollama.com/v1.｜免费模型 10 个：deepseek-v4-pro、deepseek-v4-flash、minimax-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 17 \| Registration \| 1M \| code, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | OpenCode Zen | 33 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 22 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Space Bunny A… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 20 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 17 个：nvidia/nemotron-3-super-120b-a12b:free、cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、googl… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 34 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM (Anonymous) / 400 RPM (Auth) \| Unspecified \| Beta Access \| Llama 3.3 70B Instruct, GPT OSS 20B, GPT OSS 120B, Qwen3.5 9B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
@@ -145,7 +145,7 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [Extracting structured client needs from free-text advisor notes to select and p…](https://discuss.huggingface.co/t/extracting-structured-client-needs-from-free-text-advisor-notes-to-select-and-personalize-an-investment-proposal-how-would-you-approach-it/182839)：Hi everyone, I’m working on a project for a bank and I’d like to hear how the community would tackle it. I’ll describe the scenario and con… | — | rss | 论坛帖 | 国际 | 10-04 🆕 |
+| HF 论坛 | [Extracting structured client needs from free-text advisor notes to select and p…](https://discuss.huggingface.co/t/extracting-structured-client-needs-from-free-text-advisor-notes-to-select-and-personalize-an-investment-proposal-how-would-you-approach-it/182839)：Hi everyone, I’m working on a project for a bank and I’d like to hear how the community would tackle it. I’ll describe the scenario and con… | — | rss | 论坛帖 | 国际 | 10-04 |
 | HF 论坛 | [🌺【+1✦877✤370✥8278】How Do I Reach Frontier Customer Service Outside Regular Hour…](https://discuss.huggingface.co/t/1-877-370-8278-how-do-i-reach-frontier-customer-service-outside-regular-hours-explore-live-agent-assistance-online-support-travel-help-complete-guide-expert-faqs/182743)：Yes, Frontier Airlines is Operate 24/call = Frontier Airlines, *+1✦877-370✦8278* or + +1⟐877⟐370⟐8278​ (US) or ✧ / +1 877═370═8278™ or ⋆⁺₊⋆… | — | rss | 论坛帖 | 国际 | 10-01 |
 | HF 论坛 | [[[GUÍA⁐🕊[Frontier]⁂Español⁐Oficial]] ¿Cómo se marca a Frontier?](https://discuss.huggingface.co/t/guia-frontier-espanol-oficial-como-se-marca-a-frontier/181860)：[[GUÍA⁐ [Frontier]⁂Español⁐Oficial]] ¿Cómo se marca a Frontier? ¿Cómo hablar Frontier en Español? Para hablar con Frontier en español, marc… | — | rss | 论坛帖 | 国际 | 09-29 |
 | HF 论坛 | [[{{Guía~Frontier@en @español}}] ¿Cómo poner Frontier en español?](https://discuss.huggingface.co/t/guia-frontier-en-espanol-como-poner-frontier-en-espanol/181857)：[{{Guía~Frontier@en @español}}] ¿Cómo poner Frontier en español? ¿Cómo hablar Frontier en espaiol? Para hablar con Frontier en español, lla… | — | rss | 论坛帖 | 国际 | 09-29 |
