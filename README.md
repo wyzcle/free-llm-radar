@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-06 14:17 (UTC+8)** ｜ 有效条目：**103** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-06 21:23 (UTC+8)** ｜ 有效条目：**105** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(11)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -37,7 +37,7 @@ _暂无条目_
 | AI21 Labs | 2 \| Registration \| 256K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Aion Labs | 11 \| Registration \| 131K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Alibaba Cloud Model Studio | 5 \| Registration \| 1M \| code, image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [Api.Airforce](https://api.airforce/) | No \| 1 RPM \| 1,000 requests/day \| Free plan, $0/month \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 🆕 |
+| [Api.Airforce](https://api.airforce/) | No \| 1 RPM \| 1,000 requests/day \| Free plan, $0/month \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | [BentoML](https://www.bentoml.com/) | Inference platform \| Deploy any AI/ML model anywhere, production-grade `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Cerebras | 6 \| No \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Chutes.ai | 2 \| Registration \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -63,7 +63,7 @@ _暂无条目_
 | [Hugging Face Inference](https://huggingface.co/inference-api/serverless) | No \| 300 Requests / hour \| Capped by monthly credit, not a flat request count \| $0.10/month in free routing credits (PRO: $2/month) \| Llama 3.2 11B Vision, Llama 3.1 8B Instruct, … | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Inference.net](https://inference.net/) | No \| 30 RPM (fair use) \| Fair use policy \| Verify: Inference.net website now emphasizes Tracing and Gateway products; free LLM inference terms not confirmed \| DeepSeek-R1, Llama 3… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Jan.ai | Desktop app \| Privacy-focused, 100% offline ChatGPT alternative `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [Kilo AI Gateway](https://kilo.ai/gateway) | No \| 200 requests/hour per IP (free models, per community submission) \| Default free models only \| Free plan, no expiry \| Kilo Auto Free, StepFun Step 3.7 Flash, Poolside Laguna S… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 🆕 |
+| [Kilo AI Gateway](https://kilo.ai/gateway) | No \| 200 requests/hour per IP (free models, per community submission) \| Default free models only \| Free plan, no expiry \| Kilo Auto Free, StepFun Step 3.7 Flash, Poolside Laguna S… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | [Kilo Code](https://app.kilo.ai/profile) | Free models with no credit card and no API key required. kilo-auto/free auto-router dynamically routes to models in the free pool.｜免费模型 17 个：nvidia/nemotron-3-ultra-550b-a55b:free… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Kilo Code | 21 \| No \| 1M \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | KoboldCpp | Single executable \| Optimized for creative writing, GGUF `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -94,13 +94,13 @@ _暂无条目_
 | OVHcloud AI Endpoints | 15 \| Registration \| 262K \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Pollinations.ai](https://pollinations.ai) | No \| ~1 request/15s (anonymous) — higher with a free API key \| Fair use \| Free, no billing system \| OpenAI GPT-class (via Pollinations), Mistral-class (via Pollinations) | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Requesty](https://requesty.ai/) | No \| 60 RPM \| 50 requests/day (new orgs) / 200 requests/day (paying orgs), shared across all free models \| Poolside Laguna M.1, Poolside Laguna XS.2, NVIDIA Nemotron 3 Super, NVID… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
-| [Routeway](https://routeway.ai/) | Registration \| 5 RPM (community submission) \| 200 requests/day \| Starter plan free, shared queue \| Step 3.7 Flash, GPT OSS 120B, Laguna XS.2, Gemma 4 31B | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 🆕 |
+| [Routeway](https://routeway.ai/) | Registration \| 5 RPM (community submission) \| 200 requests/day \| Starter plan free, shared queue \| Step 3.7 Flash, GPT OSS 120B, Laguna XS.2, Gemma 4 31B | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | SambaNova | 4 \| Registration \| 128K \| image, reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [SiliconFlow](https://cloud.siliconflow.cn/account/ak) | Permanently free models, no credit card required. Identity verification required. 100+ models in the catalog, most of them paid.｜免费模型 1 个：Qwen/Qwen3-8B｜限速: 1,000 RPM, 50,000 TPM | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
 | SiliconFlow | 3 \| Registration \| 131K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | Gradio UI \| Highly customizable, advanced local experimentation `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Venice.ai](https://venice.ai/) | Registration \| 10 RPM (free tier) \| Limited daily usage \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
-| [Vercel AI Gateway](https://vercel.com/ai-gateway) | Registration \| Rate limited per model (lower than paid tier) \| Monthly free credit (~$5, verify) \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 🆕 |
+| [Vercel AI Gateway](https://vercel.com/ai-gateway) | Registration \| Rate limited per model (lower than paid tier) \| Monthly free credit (~$5, verify) \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | xAI | 3 \| Registration \| 2M \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Z AI (Zhipu AI)](https://open.bigmodel.cn/usercenter/apikeys) | Permanent free models, no credit card required.｜免费模型 3 个：GLM-4.7-Flash、GLM-4.5-Flash (retirement announced)、GLM-4.6V-Flash｜限速: 1 concurrent request | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
 | Z AI (Zhipu AI) | 8 \| No \| 200K \| image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -128,7 +128,7 @@ _暂无条目_
 | [DeepSeek](https://platform.deepseek.com/) | Registration \| 5M tokens \| 30 days \| DeepSeek Flash (V4.1) | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Fireworks AI](https://fireworks.ai/) | Registration \| $1 \| One-time \| GLM 5.3, DeepSeek V4.1 Flash, Kimi K3 | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Friendli AI](https://friendli.ai/) | Registration \| $10 \| One-time \| DeepSeek V3.2, Gemma 4 31B, GLM 5.2, GLM 5.3 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
-| [Grokified](https://grokified.com) | No \| $5 \| One-time \| grok-4.6, grok-4.3, grok-build-0.1 | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 🆕 |
+| [Grokified](https://grokified.com) | No \| $5 \| One-time \| grok-4.6, grok-4.3, grok-build-0.1 | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | [Hyperbolic](https://app.hyperbolic.xyz/) | Registration \| $1 \| One-time \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Nebius (Token Factory)](https://tokenfactory.nebius.com/) | Registration \| $1 (requires a bank card on file) \| One-time \| Qwen3 235B A22B Instruct 2507, GLM 5.3, GPT OSS 120B, Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Novita AI](https://novita.ai/) | Registration \| $0.50 trial (1 yr) / $10 per referral \| One-time \| GLM 5.3, Kimi K3, DeepSeek V4.1 Flash, Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
@@ -141,10 +141,12 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（9）
+## 社区动态（11）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [【Frontier Pet Booking FAQ’s】✈ How to Add a Pet to Your Frontier Airlines? Here’…](https://discuss.huggingface.co/t/frontier-pet-booking-faq-s-how-to-add-a-pet-to-your-frontier-airlines-here-s-the-faq-you-should-know/186685)：To add a pet to an Frontier Air Lines flight 『{++1-}855-264-1722』, you must first book your human passenger ticket and then contact Frontie… | — | rss | 论坛帖 | 国际 | 10-06 🆕 |
+| HF 论坛 | [Helping Guide for Coinbase Customer Support Number Official USA Toll Free Conta…](https://discuss.huggingface.co/t/helping-guide-for-coinbase-customer-support-number-official-usa-toll-free-contact-number/186663)：When you need fast assistance, +1-369-220-3969 finding the right support approach can save valuable time +1-369-220-3969 and reduce unneces… | — | rss | 论坛帖 | 国际 | 10-06 🆕 |
 | HF 论坛 | [Extracting structured client needs from free-text advisor notes to select and p…](https://discuss.huggingface.co/t/extracting-structured-client-needs-from-free-text-advisor-notes-to-select-and-personalize-an-investment-proposal-how-would-you-approach-it/182839)：Hi everyone, I’m working on a project for a bank and I’d like to hear how the community would tackle it. I’ll describe the scenario and con… | — | rss | 论坛帖 | 国际 | 10-04 |
 | HF 论坛 | [🌺【+1✦877✤370✥8278】How Do I Reach Frontier Customer Service Outside Regular Hour…](https://discuss.huggingface.co/t/1-877-370-8278-how-do-i-reach-frontier-customer-service-outside-regular-hours-explore-live-agent-assistance-online-support-travel-help-complete-guide-expert-faqs/182743)：Yes, Frontier Airlines is Operate 24/call = Frontier Airlines, *+1✦877-370✦8278* or + +1⟐877⟐370⟐8278​ (US) or ✧ / +1 877═370═8278™ or ⋆⁺₊⋆… | — | rss | 论坛帖 | 国际 | 10-01 |
 | HF 论坛 | [[[GUÍA⁐🕊[Frontier]⁂Español⁐Oficial]] ¿Cómo se marca a Frontier?](https://discuss.huggingface.co/t/guia-frontier-espanol-oficial-como-se-marca-a-frontier/181860)：[[GUÍA⁐ [Frontier]⁂Español⁐Oficial]] ¿Cómo se marca a Frontier? ¿Cómo hablar Frontier en Español? Para hablar con Frontier en español, marc… | — | rss | 论坛帖 | 国际 | 09-29 |
