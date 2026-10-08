@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-08 14:00 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(12)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-08 21:25 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(12)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -146,8 +146,8 @@ _暂无条目_
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
 | HF 论坛 | [Did HuggingFace remove the credits given to Free Users?](https://discuss.huggingface.co/t/did-huggingface-remove-the-credits-given-to-free-users/189971)：As Titled. The $0.10 credit /m is not given to Free Users anymore. This is correct and not a bug? I’d like confirmation. Haven’t seen anyon… | — | rss | 论坛帖 | 国际 | 10-08 🆕 |
-| HF 论坛 | [【Frontier Pet Booking FAQ’s】✈ How to Add a Pet to Your Frontier Airlines? Here’…](https://discuss.huggingface.co/t/frontier-pet-booking-faq-s-how-to-add-a-pet-to-your-frontier-airlines-here-s-the-faq-you-should-know/186685)：To add a pet to an Frontier Air Lines flight 『{++1-}855-264-1722』, you must first book your human passenger ticket and then contact Frontie… | — | rss | 论坛帖 | 国际 | 10-06 🆕 |
-| HF 论坛 | [Helping Guide for Coinbase Customer Support Number Official USA Toll Free Conta…](https://discuss.huggingface.co/t/helping-guide-for-coinbase-customer-support-number-official-usa-toll-free-contact-number/186663)：When you need fast assistance, +1-369-220-3969 finding the right support approach can save valuable time +1-369-220-3969 and reduce unneces… | — | rss | 论坛帖 | 国际 | 10-06 🆕 |
+| HF 论坛 | [【Frontier Pet Booking FAQ’s】✈ How to Add a Pet to Your Frontier Airlines? Here’…](https://discuss.huggingface.co/t/frontier-pet-booking-faq-s-how-to-add-a-pet-to-your-frontier-airlines-here-s-the-faq-you-should-know/186685)：To add a pet to an Frontier Air Lines flight 『{++1-}855-264-1722』, you must first book your human passenger ticket and then contact Frontie… | — | rss | 论坛帖 | 国际 | 10-06 |
+| HF 论坛 | [Helping Guide for Coinbase Customer Support Number Official USA Toll Free Conta…](https://discuss.huggingface.co/t/helping-guide-for-coinbase-customer-support-number-official-usa-toll-free-contact-number/186663)：When you need fast assistance, +1-369-220-3969 finding the right support approach can save valuable time +1-369-220-3969 and reduce unneces… | — | rss | 论坛帖 | 国际 | 10-06 |
 | HF 论坛 | [Extracting structured client needs from free-text advisor notes to select and p…](https://discuss.huggingface.co/t/extracting-structured-client-needs-from-free-text-advisor-notes-to-select-and-personalize-an-investment-proposal-how-would-you-approach-it/182839)：Hi everyone, I’m working on a project for a bank and I’d like to hear how the community would tackle it. I’ll describe the scenario and con… | — | rss | 论坛帖 | 国际 | 10-04 |
 | HF 论坛 | [🌺【+1✦877✤370✥8278】How Do I Reach Frontier Customer Service Outside Regular Hour…](https://discuss.huggingface.co/t/1-877-370-8278-how-do-i-reach-frontier-customer-service-outside-regular-hours-explore-live-agent-assistance-online-support-travel-help-complete-guide-expert-faqs/182743)：Yes, Frontier Airlines is Operate 24/call = Frontier Airlines, *+1✦877-370✦8278* or + +1⟐877⟐370⟐8278​ (US) or ✧ / +1 877═370═8278™ or ⋆⁺₊⋆… | — | rss | 论坛帖 | 国际 | 10-01 |
 | HF 论坛 | [[[GUÍA⁐🕊[Frontier]⁂Español⁐Oficial]] ¿Cómo se marca a Frontier?](https://discuss.huggingface.co/t/guia-frontier-espanol-oficial-como-se-marca-a-frontier/181860)：[[GUÍA⁐ [Frontier]⁂Español⁐Oficial]] ¿Cómo se marca a Frontier? ¿Cómo hablar Frontier en Español? Para hablar con Frontier en español, marc… | — | rss | 论坛帖 | 国际 | 09-29 |
