@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-10 13:49 (UTC+8)** ｜ 有效条目：**107** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(13)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-10 20:28 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(12)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -141,13 +141,13 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（13）
+## 社区动态（12）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
 | HF 论坛 | [[Hiring] Full-time ML Engineer - Frontier Image + Video Models](https://discuss.huggingface.co/t/hiring-full-time-ml-engineer-frontier-image-video-models/190242)：Hi everybody! I’m hiring an ML engineer to train, evaluate and refine frontier image + video models. We’re a fast growing startup that proc… | — | rss | 论坛帖 | 国际 | 10-10 🆕 |
 | HF 论坛 | [Do you Think Removing the $0.10 Monthly Free Inference Credits Is the Right Dec…](https://discuss.huggingface.co/t/do-you-think-removing-the-0-10-monthly-free-inference-credits-is-the-right-decision/190220)：Hello everyone, I would like to hear your thoughts on Hugging Face’s changes to free Inference access, particularly the monthly $0.10 in fr… | — | rss | 论坛帖 | 国际 | 10-09 🆕 |
-| HF 论坛 | [Did HuggingFace remove the credits given to Free Users?](https://discuss.huggingface.co/t/did-huggingface-remove-the-credits-given-to-free-users/189971)：As Titled. The $0.10 credit /m is not given to Free Users anymore. This is correct and not a bug? I’d like confirmation. Haven’t seen anyon… | — | rss | 论坛帖 | 国际 | 10-08 🆕 |
+| HF 论坛 | [Did HuggingFace remove the credits given to Free Users?](https://discuss.huggingface.co/t/did-huggingface-remove-the-credits-given-to-free-users/189971)：As Titled. The $0.10 credit /m is not given to Free Users anymore. This is correct and not a bug? I’d like confirmation. Haven’t seen anyon… | — | rss | 论坛帖 | 国际 | 10-08 |
 | HF 论坛 | [【Frontier Pet Booking FAQ’s】✈ How to Add a Pet to Your Frontier Airlines? Here’…](https://discuss.huggingface.co/t/frontier-pet-booking-faq-s-how-to-add-a-pet-to-your-frontier-airlines-here-s-the-faq-you-should-know/186685)：To add a pet to an Frontier Air Lines flight 『{++1-}855-264-1722』, you must first book your human passenger ticket and then contact Frontie… | — | rss | 论坛帖 | 国际 | 10-06 |
 | HF 论坛 | [Helping Guide for Coinbase Customer Support Number Official USA Toll Free Conta…](https://discuss.huggingface.co/t/helping-guide-for-coinbase-customer-support-number-official-usa-toll-free-contact-number/186663)：When you need fast assistance, +1-369-220-3969 finding the right support approach can save valuable time +1-369-220-3969 and reduce unneces… | — | rss | 论坛帖 | 国际 | 10-06 |
 | HF 论坛 | [Extracting structured client needs from free-text advisor notes to select and p…](https://discuss.huggingface.co/t/extracting-structured-client-needs-from-free-text-advisor-notes-to-select-and-personalize-an-investment-proposal-how-would-you-approach-it/182839)：Hi everyone, I’m working on a project for a bank and I’d like to hear how the community would tackle it. I’ll describe the scenario and con… | — | rss | 论坛帖 | 国际 | 10-04 |
@@ -157,7 +157,6 @@ _暂无条目_
 | HF 论坛 | [༺🐴Guía§⊱Frontier@Paso§⊱ a@ Paso🐴༻¿Cómo se marca a Frontier?](https://discuss.huggingface.co/t/guia-frontier-paso-a-paso-como-se-marca-a-frontier/181848)：༺ Guía§⊱Frontier@Paso§⊱ a@ Paso​ ༻¿Cómo se marca a Frontier? Para marcar a Frontier, puedes llamar al Teléfono desde México: +52-800-461-03… | — | rss | 论坛帖 | 国际 | 09-29 |
 | HF 论坛 | [Future of free Docker Spaces quota for older accounts?](https://discuss.huggingface.co/t/future-of-free-docker-spaces-quota-for-older-accounts/180780)：Hi everyone, I noticed that new Hugging Face accounts currently have a free CPU-basic quota of 0. On my older account, I still have permiss… | — | rss | 论坛帖 | 国际 | 09-29 |
 | HF 论坛 | [Free cpu-basic quota is 0 on new account](https://discuss.huggingface.co/t/free-cpu-basic-quota-is-0-on-new-account/180764)：Hi, my account Yashsalidev (email verified) can’t start any free Space. Restarting Yashsalidev/chest-xray-ai fails with “You’ve reached you… | — | rss | 论坛帖 | 国际 | 09-28 |
-| HF 论坛 | [Free offline structural preflight for Diffusion/VQ-BeT LeRobot checkpoints — fe…](https://discuss.huggingface.co/t/free-offline-structural-preflight-for-diffusion-vq-bet-lerobot-checkpoints-feedback-welcome/180702)：Sharing a small AI-generated community utility for inspecting a local Diffusion/VQ-BeT LeRobot saved-processor checkpoint before a full run… | — | rss | 论坛帖 | 国际 | 09-24 |
 
 
 ---
