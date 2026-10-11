@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-11 05:41 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(12)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-11 13:43 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(12)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -56,7 +56,7 @@ _暂无条目_
 | Grok (xAI) | 2 \| Registration \| 131K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Grok (xAI)](https://console.x.ai/) | Registration \| Varies (low for free tier) \| $25 signup credit - not confirmed in current xAI docs, verify \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Groq](https://console.groq.com/keys) | Free tier, no credit card. Ultra-fast LPU inference.｜免费模型 3 个：openai/gpt-oss-120b、openai/gpt-oss-20b、qwen/qwen3.8-27b｜限速: 30 RPM, 1,000 RPD | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Groq | 12 \| No \| 262K \| image, reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Groq | 12 \| No \| 262K \| image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Hetzner Inference API](https://experiments.hetzner.com/inference) | No \| 3M input / 60K output tokens per 60s \| 500M input / 5M output tokens per 24h \| Free during experimental phase, no billing system yet \| Qwen3.6 35B A3B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Hugging Face](https://huggingface.co/settings/tokens) | $0.10/month in Inference Provider credits for free users (subject to change). Routes to Fireworks, Together, Hyperbolic, Nebius, Novita, DeepInfra and others. Thousands of models.… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Hugging Face | 9 \| No \| 131K \| code, image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
