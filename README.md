@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-12 05:56 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(12)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-12 13:53 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(12)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -145,7 +145,7 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [[Hiring] Full-time ML Engineer - Frontier Image + Video Models](https://discuss.huggingface.co/t/hiring-full-time-ml-engineer-frontier-image-video-models/190242)：Hi everybody! I’m hiring an ML engineer to train, evaluate and refine frontier image + video models. We’re a fast growing startup that proc… | — | rss | 论坛帖 | 国际 | 10-10 🆕 |
+| HF 论坛 | [[Hiring] Full-time ML Engineer - Frontier Image + Video Models](https://discuss.huggingface.co/t/hiring-full-time-ml-engineer-frontier-image-video-models/190242)：Hi everybody! I’m hiring an ML engineer to train, evaluate and refine frontier image + video models. We’re a fast growing startup that proc… | — | rss | 论坛帖 | 国际 | 10-10 |
 | HF 论坛 | [Do you Think Removing the $0.10 Monthly Free Inference Credits Is the Right Dec…](https://discuss.huggingface.co/t/do-you-think-removing-the-0-10-monthly-free-inference-credits-is-the-right-decision/190220)：Hello everyone, I would like to hear your thoughts on Hugging Face’s changes to free Inference access, particularly the monthly $0.10 in fr… | — | rss | 论坛帖 | 国际 | 10-09 |
 | HF 论坛 | [Did HuggingFace remove the credits given to Free Users?](https://discuss.huggingface.co/t/did-huggingface-remove-the-credits-given-to-free-users/189971)：As Titled. The $0.10 credit /m is not given to Free Users anymore. This is correct and not a bug? I’d like confirmation. Haven’t seen anyon… | — | rss | 论坛帖 | 国际 | 10-08 |
 | HF 论坛 | [【Frontier Pet Booking FAQ’s】✈ How to Add a Pet to Your Frontier Airlines? Here’…](https://discuss.huggingface.co/t/frontier-pet-booking-faq-s-how-to-add-a-pet-to-your-frontier-airlines-here-s-the-faq-you-should-know/186685)：To add a pet to an Frontier Air Lines flight 『{++1-}855-264-1722』, you must first book your human passenger ticket and then contact Frontie… | — | rss | 论坛帖 | 国际 | 10-06 |
