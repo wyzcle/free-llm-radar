@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-13 22:08 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(10)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-14 06:43 (UTC+8)** ｜ 有效条目：**103** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(38)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(10)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -29,7 +29,7 @@
 _暂无条目_
 
 
-## 永久免费层（72）
+## 永久免费层（71）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -47,7 +47,6 @@ _暂无条目_
 | Cohere | 12 \| No \| 256K \| image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Coze](https://www.coze.com/) | Registration \| Varies by model \| Token-based daily limits \| Resets daily \| GPT-4o (via Coze), Gemini 1.5 Pro (via Coze) | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | DeepSeek | 2 \| Registration \| 128K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| GitHub Models | 16 \| No \| 1M \| image, pdf, reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Glhf.chat | 2 \| Registration \| 131K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Google AI Studio](https://aistudio.google.com/) | No \| 5-30 RPM (varies by model) \| Varies by model (Flash / Flash-Lite only; Pro models are paid) \| Free of charge \| Gemini 3.1 Flash-Lite, Gemini 3.5 Flash-Lite, Gemini 3.5 Flash,… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Google Gemini](https://aistudio.google.com/app/apikey) | Free tier, no credit card. Free-tier prompts may be used by Google to improve products.｜免费模型 11 个：Gemini 3.8 Flash、Gemini 3.7 Flash、Gemini 3.6 Flash、Gemini 3.5 Flash、Gemini 3.5 Fl… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
@@ -86,7 +85,7 @@ _暂无条目_
 | [Ollama Cloud](https://ollama.com/settings/keys) | Free tier with usage limits. 16 cloud model families from the Ollama library. OpenAI SDK-compatible via https://ollama.com/v1.｜免费模型 10 个：deepseek-v4-pro、deepseek-v4-flash、minimax-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 17 \| Registration \| 1M \| code, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | OpenCode Zen | 34 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 19 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 17 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 17 个：nvidia/nemotron-3-super-120b-a12b:free、cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、googl… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 31 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM (Anonymous) / 400 RPM (Auth) \| Unspecified \| Beta Access \| Llama 3.3 70B Instruct, GPT OSS 20B, GPT OSS 120B, Qwen3.5 9B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
@@ -113,7 +112,7 @@ _暂无条目_
 | --- | --- | --- | --- | --- | --- | --- |
 | [Aion Labs](https://www.aionlabs.ai/app/api-keys/) | Permanent free tier, no credit card required. 15 RPM, 20K tokens/day. Specialized for roleplay and storytelling.｜免费模型 4 个：aion-labs/aion-2.0、aion-labs/aion-rp-llama-3.1-8b、aion-la… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://dash.cloudflare.com/profile/api-tokens) | 10,000 Neurons/day free, no credit card required. 60+ models available on the free tier.｜免费模型 8 个：@cf/meta/llama-3.3-70b-instruct-fp8-fast、@cf/meta/llama-4-scout-17b-16e-instruct、… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次请求 14 美元计费。 ｜ 每月 5,000 个请求（免费，在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次搜索查询 14 美元计费。 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新型号中共享），超出后针… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
+| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级或 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新的模型中共享），超出后按每 1,000 次请求 14 美元计费。 ｜ 每月 5,000 个请求（免费，在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次搜索查询 14 美元计费。 ｜ 每月 5,000 次免费搜索请求… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 
 
 ## 新人额度 / 试用（19）
