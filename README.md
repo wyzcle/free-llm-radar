@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-14 19:48 (UTC+8)** ｜ 有效条目：**105** ｜ 48h 内新增：**4** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(10)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-15 01:08 (UTC+8)** ｜ 有效条目：**105** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(10)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -114,7 +114,7 @@ _暂无条目_
 | --- | --- | --- | --- | --- | --- | --- |
 | [Aion Labs](https://www.aionlabs.ai/app/api-keys/) | Permanent free tier, no credit card required. 15 RPM, 20K tokens/day. Specialized for roleplay and storytelling.｜免费模型 4 个：aion-labs/aion-2.0、aion-labs/aion-rp-llama-3.1-8b、aion-la… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://dash.cloudflare.com/profile/api-tokens) | 10,000 Neurons/day free, no credit card required. 60+ models available on the free tier.｜免费模型 8 个：@cf/meta/llama-3.3-70b-instruct-fp8-fast、@cf/meta/llama-4-scout-17b-16e-instruct、… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级或 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新的模型中共享），超出后按每 1,000 次请求 14 美元计费。 ｜ 每月 5,000 个请求（免费，在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次搜索查询 14 美元计费。 ｜ 每月 5,000 次免费搜索请求… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
+| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级或 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次请求 14 美元计费。 ｜ 每月 5,000 个请求（免费，在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次搜索查询 14 美元计费。 ｜ 每月 5,000 次免费搜索请求（… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 
 
 ## 新人额度 / 试用（19）
@@ -147,7 +147,7 @@ _暂无条目_
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
 | HF 论坛 | [Inference Providers credits show $0.00 despite no usage](https://discuss.huggingface.co/t/inference-providers-credits-show-0-00-despite-no-usage/190471)：Hello, My Hugging Face account shows $0.00 in Inference Providers credits. My usage dashboard shows no inference requests and $0.00 usage. … | — | rss | 论坛帖 | 国际 | 10-13 🆕 |
-| HF 论坛 | [Inference Providers shows no remaining credits despite zero usage](https://discuss.huggingface.co/t/inference-providers-shows-no-remaining-credits-despite-zero-usage/190399)：Hello Hugging Face Support, I am trying to test meta-llama/Llama-4-Scout-17B-16E-Instruct using the model page’s Inference Providers widget… | — | rss | 论坛帖 | 国际 | 10-12 🆕 |
+| HF 论坛 | [Inference Providers shows no remaining credits despite zero usage](https://discuss.huggingface.co/t/inference-providers-shows-no-remaining-credits-despite-zero-usage/190399)：Hello Hugging Face Support, I am trying to test meta-llama/Llama-4-Scout-17B-16E-Instruct using the model page’s Inference Providers widget… | — | rss | 论坛帖 | 国际 | 10-12 |
 | HF 论坛 | [[Hiring] Full-time ML Engineer - Frontier Image + Video Models](https://discuss.huggingface.co/t/hiring-full-time-ml-engineer-frontier-image-video-models/190242)：Hi everybody! I’m hiring an ML engineer to train, evaluate and refine frontier image + video models. We’re a fast growing startup that proc… | — | rss | 论坛帖 | 国际 | 10-10 |
 | HF 论坛 | [Do you Think Removing the $0.10 Monthly Free Inference Credits Is the Right Dec…](https://discuss.huggingface.co/t/do-you-think-removing-the-0-10-monthly-free-inference-credits-is-the-right-decision/190220)：Hello everyone, I would like to hear your thoughts on Hugging Face’s changes to free Inference access, particularly the monthly $0.10 in fr… | — | rss | 论坛帖 | 国际 | 10-09 |
 | HF 论坛 | [Did HuggingFace remove the credits given to Free Users?](https://discuss.huggingface.co/t/did-huggingface-remove-the-credits-given-to-free-users/189971)：As Titled. The $0.10 credit /m is not given to Free Users anymore. This is correct and not a bug? I’d like confirmation. Haven’t seen anyon… | — | rss | 论坛帖 | 国际 | 10-08 |
