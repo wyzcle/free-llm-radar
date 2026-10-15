@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-15 19:25 (UTC+8)** ｜ 有效条目：**105** ｜ 48h 内新增：**4** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(10)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-16 00:58 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -86,7 +86,7 @@ _暂无条目_
 | Ollama Cloud | 17 \| Registration \| 1M \| code, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Onomeo](https://onomeo.com) | Registration \| 12 requests/minute per key \| 30 free-model calls every 5 hours per account \| Auto (best free model), DeepSeek V4 Flash, DeepSeek V4 Pro, GLM 5.3 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 🆕 |
 | OpenCode Zen | 34 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 17 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 18 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 17 个：nvidia/nemotron-3-super-120b-a12b:free、cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、googl… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 30 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM per IP per model (anonymous, free); 400 RPM with a key (pay-as-you-go) \| Unspecified \| Beta Access \| Llama 3.3 70B Instruct, GPT OSS 20B, GPT OSS 120B, Qwen3.… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
@@ -142,12 +142,12 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（10）
+## 社区动态（9）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
 | HF 论坛 | [Cerewro: a free Windows desktop client for local and cloud LLMs, looking for fe…](https://discuss.huggingface.co/t/cerewro-a-free-windows-desktop-client-for-local-and-cloud-llms-looking-for-feedback/190605)：Hi all, I’m part of the team behind Cerewro (disclosure up front). It’s a Windows 10/11 app where you can chat with a local model (no API k… | — | rss | 论坛帖 | 国际 | 10-15 🆕 |
-| HF 论坛 | [Inference Providers credits show $0.00 despite no usage](https://discuss.huggingface.co/t/inference-providers-credits-show-0-00-despite-no-usage/190471)：Hello, My Hugging Face account shows $0.00 in Inference Providers credits. My usage dashboard shows no inference requests and $0.00 usage. … | — | rss | 论坛帖 | 国际 | 10-13 🆕 |
+| HF 论坛 | [Inference Providers credits show $0.00 despite no usage](https://discuss.huggingface.co/t/inference-providers-credits-show-0-00-despite-no-usage/190471)：Hello, My Hugging Face account shows $0.00 in Inference Providers credits. My usage dashboard shows no inference requests and $0.00 usage. … | — | rss | 论坛帖 | 国际 | 10-13 |
 | HF 论坛 | [Inference Providers shows no remaining credits despite zero usage](https://discuss.huggingface.co/t/inference-providers-shows-no-remaining-credits-despite-zero-usage/190399)：Hello Hugging Face Support, I am trying to test meta-llama/Llama-4-Scout-17B-16E-Instruct using the model page’s Inference Providers widget… | — | rss | 论坛帖 | 国际 | 10-12 |
 | HF 论坛 | [[Hiring] Full-time ML Engineer - Frontier Image + Video Models](https://discuss.huggingface.co/t/hiring-full-time-ml-engineer-frontier-image-video-models/190242)：Hi everybody! I’m hiring an ML engineer to train, evaluate and refine frontier image + video models. We’re a fast growing startup that proc… | — | rss | 论坛帖 | 国际 | 10-10 |
 | HF 论坛 | [Do you Think Removing the $0.10 Monthly Free Inference Credits Is the Right Dec…](https://discuss.huggingface.co/t/do-you-think-removing-the-0-10-monthly-free-inference-credits-is-the-right-decision/190220)：Hello everyone, I would like to hear your thoughts on Hugging Face’s changes to free Inference access, particularly the monthly $0.10 in fr… | — | rss | 论坛帖 | 国际 | 10-09 |
@@ -155,7 +155,6 @@ _暂无条目_
 | HF 论坛 | [【Frontier Pet Booking FAQ’s】✈ How to Add a Pet to Your Frontier Airlines? Here’…](https://discuss.huggingface.co/t/frontier-pet-booking-faq-s-how-to-add-a-pet-to-your-frontier-airlines-here-s-the-faq-you-should-know/186685)：To add a pet to an Frontier Air Lines flight 『{++1-}855-264-1722』, you must first book your human passenger ticket and then contact Frontie… | — | rss | 论坛帖 | 国际 | 10-06 |
 | HF 论坛 | [Helping Guide for Coinbase Customer Support Number Official USA Toll Free Conta…](https://discuss.huggingface.co/t/helping-guide-for-coinbase-customer-support-number-official-usa-toll-free-contact-number/186663)：When you need fast assistance, +1-369-220-3969 finding the right support approach can save valuable time +1-369-220-3969 and reduce unneces… | — | rss | 论坛帖 | 国际 | 10-06 |
 | HF 论坛 | [Extracting structured client needs from free-text advisor notes to select and p…](https://discuss.huggingface.co/t/extracting-structured-client-needs-from-free-text-advisor-notes-to-select-and-personalize-an-investment-proposal-how-would-you-approach-it/182839)：Hi everyone, I’m working on a project for a bank and I’d like to hear how the community would tackle it. I’ll describe the scenario and con… | — | rss | 论坛帖 | 国际 | 10-04 |
-| HF 论坛 | [🌺【+1✦877✤370✥8278】How Do I Reach Frontier Customer Service Outside Regular Hour…](https://discuss.huggingface.co/t/1-877-370-8278-how-do-i-reach-frontier-customer-service-outside-regular-hours-explore-live-agent-assistance-online-support-travel-help-complete-guide-expert-faqs/182743)：Yes, Frontier Airlines is Operate 24/call = Frontier Airlines, *+1✦877-370✦8278* or + +1⟐877⟐370⟐8278​ (US) or ✧ / +1 877═370═8278™ or ⋆⁺₊⋆… | — | rss | 论坛帖 | 国际 | 10-01 |
 
 
 ---
