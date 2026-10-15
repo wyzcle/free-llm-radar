@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-16 00:58 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-16 05:21 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -114,7 +114,7 @@ _暂无条目_
 | --- | --- | --- | --- | --- | --- | --- |
 | [Aion Labs](https://www.aionlabs.ai/app/api-keys/) | Permanent free tier, no credit card required. 15 RPM, 20K tokens/day. Specialized for roleplay and storytelling.｜免费模型 4 个：aion-labs/aion-2.0、aion-labs/aion-rp-llama-3.1-8b、aion-la… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://dash.cloudflare.com/profile/api-tokens) | 10,000 Neurons/day free, no credit card required. 60+ models available on the free tier.｜免费模型 8 个：@cf/meta/llama-3.3-70b-instruct-fp8-fast、@cf/meta/llama-4-scout-17b-16e-instruct、… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级或 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次请求 14 美元计费。 ｜ 每月 5,000 个请求（免费，在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次搜索查询 14 美元计费。 ｜ 每月 5,000 次免费搜索请求（… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
+| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级或 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次请求 14 美元计费。 ｜ 每月 5,000 个请求（免费，在所有 Gemini 3 及更新型号中共享），超出后按每 1,000 次搜索查询 14 美元计费。 ｜ 每月 5,000 个请求（免费，在… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 
 
 ## 新人额度 / 试用（19）
