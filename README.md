@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-15 05:39 (UTC+8)** ｜ 有效条目：**105** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(10)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-15 12:35 (UTC+8)** ｜ 有效条目：**105** ｜ 48h 内新增：**4** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(10)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -146,6 +146,7 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [Cerewro: a free Windows desktop client for local and cloud LLMs, looking for fe…](https://discuss.huggingface.co/t/cerewro-a-free-windows-desktop-client-for-local-and-cloud-llms-looking-for-feedback/190605)：Hi all, I’m part of the team behind Cerewro (disclosure up front). It’s a Windows 10/11 app where you can chat with a local model (no API k… | — | rss | 论坛帖 | 国际 | 10-15 🆕 |
 | HF 论坛 | [Inference Providers credits show $0.00 despite no usage](https://discuss.huggingface.co/t/inference-providers-credits-show-0-00-despite-no-usage/190471)：Hello, My Hugging Face account shows $0.00 in Inference Providers credits. My usage dashboard shows no inference requests and $0.00 usage. … | — | rss | 论坛帖 | 国际 | 10-13 🆕 |
 | HF 论坛 | [Inference Providers shows no remaining credits despite zero usage](https://discuss.huggingface.co/t/inference-providers-shows-no-remaining-credits-despite-zero-usage/190399)：Hello Hugging Face Support, I am trying to test meta-llama/Llama-4-Scout-17B-16E-Instruct using the model page’s Inference Providers widget… | — | rss | 论坛帖 | 国际 | 10-12 |
 | HF 论坛 | [[Hiring] Full-time ML Engineer - Frontier Image + Video Models](https://discuss.huggingface.co/t/hiring-full-time-ml-engineer-frontier-image-video-models/190242)：Hi everybody! I’m hiring an ML engineer to train, evaluate and refine frontier image + video models. We’re a fast growing startup that proc… | — | rss | 论坛帖 | 国际 | 10-10 |
@@ -155,7 +156,6 @@ _暂无条目_
 | HF 论坛 | [Helping Guide for Coinbase Customer Support Number Official USA Toll Free Conta…](https://discuss.huggingface.co/t/helping-guide-for-coinbase-customer-support-number-official-usa-toll-free-contact-number/186663)：When you need fast assistance, +1-369-220-3969 finding the right support approach can save valuable time +1-369-220-3969 and reduce unneces… | — | rss | 论坛帖 | 国际 | 10-06 |
 | HF 论坛 | [Extracting structured client needs from free-text advisor notes to select and p…](https://discuss.huggingface.co/t/extracting-structured-client-needs-from-free-text-advisor-notes-to-select-and-personalize-an-investment-proposal-how-would-you-approach-it/182839)：Hi everyone, I’m working on a project for a bank and I’d like to hear how the community would tackle it. I’ll describe the scenario and con… | — | rss | 论坛帖 | 国际 | 10-04 |
 | HF 论坛 | [🌺【+1✦877✤370✥8278】How Do I Reach Frontier Customer Service Outside Regular Hour…](https://discuss.huggingface.co/t/1-877-370-8278-how-do-i-reach-frontier-customer-service-outside-regular-hours-explore-live-agent-assistance-online-support-travel-help-complete-guide-expert-faqs/182743)：Yes, Frontier Airlines is Operate 24/call = Frontier Airlines, *+1✦877-370✦8278* or + +1⟐877⟐370⟐8278​ (US) or ✧ / +1 877═370═8278™ or ⋆⁺₊⋆… | — | rss | 论坛帖 | 国际 | 10-01 |
-| HF 论坛 | [Future of free Docker Spaces quota for older accounts?](https://discuss.huggingface.co/t/future-of-free-docker-spaces-quota-for-older-accounts/180780)：Hi everyone, I noticed that new Hugging Face accounts currently have a free CPU-basic quota of 0. On my older account, I still have permiss… | — | rss | 论坛帖 | 国际 | 09-29 |
 
 
 ---
