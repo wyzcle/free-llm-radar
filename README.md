@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-16 05:21 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-16 12:28 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -41,7 +41,7 @@ _暂无条目_
 | [BentoML](https://www.bentoml.com/) | Inference platform \| Deploy any AI/ML model anywhere, production-grade `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Cerebras | 6 \| No \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Chutes.ai | 2 \| Registration \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| Cline | 4 \| Registration \| 0 \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Cline | 4 \| Registration \| 0 \| text, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) | 2457 neurons per M input tokens ｜ 18252 neurons per M output tokens ｜ 4625 neurons per M input tokens ｜ 30475 neurons per M output tokens ｜ 4119 neurons per M input tokens ｜ 34868… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 | Cloudflare Workers AI | 40 \| No \| 262K \| code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Cohere | 12 \| No \| 256K \| image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -80,7 +80,7 @@ _暂无条目_
 | [Nous Portal](https://portal.nousresearch.com) | No \| Standard rate limits (figures not published) \| Free models only (no monthly credit) \| Free tier: $0/month. A GitHub user reported (14 Sep 2026) that a payment method (Stripe,… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Nscale | 2 \| Registration \| 128K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [NVIDIA NIM](https://build.nvidia.com/explore/discover) | Free with NVIDIA Developer Program membership. 100+ models. Rate-limited per model.｜免费模型 7 个：nvidia/nemotron-3-super-120b-a12b、nvidia/llama-3.1-nemotron-ultra-253b-v1、google/gemma… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| NVIDIA NIM | 132 \| Phone verification \| 1M \| audio, embedding, image, pdf, reasoning, rerank, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| NVIDIA NIM | 133 \| Phone verification \| 1M \| audio, embedding, image, pdf, reasoning, rerank, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama | CLI + API \| 100+ models, GPU acceleration, OpenAI-compatible endpoint `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Ollama Cloud](https://ollama.com/settings/keys) | Free tier with usage limits. 16 cloud model families from the Ollama library. OpenAI SDK-compatible via https://ollama.com/v1.｜免费模型 10 个：deepseek-v4-pro、deepseek-v4-flash、minimax-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 17 \| Registration \| 1M \| code, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -88,7 +88,7 @@ _暂无条目_
 | OpenCode Zen | 34 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 18 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 17 个：nvidia/nemotron-3-super-120b-a12b:free、cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、googl… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| OpenRouter | 30 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OpenRouter | 31 \| Free tier + $10 topup → 1K RPD \| 1M \| audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM per IP per model (anonymous, free); 400 RPM with a key (pay-as-you-go) \| Unspecified \| Beta Access \| Llama 3.3 70B Instruct, GPT OSS 20B, GPT OSS 120B, Qwen3.… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) | Free anonymous tier (no API key, no signup): 2 RPM per IP per model. 20+ open-weight models hosted in EU. OpenAI SDK-compatible.｜免费模型 11 个：Qwen3.5-397B-A17B、gpt-oss-120b、gpt-oss-2… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OVHcloud AI Endpoints | 15 \| Registration \| 262K \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
