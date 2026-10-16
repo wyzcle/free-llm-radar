@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-16 12:28 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-16 19:19 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -84,7 +84,7 @@ _暂无条目_
 | Ollama | CLI + API \| 100+ models, GPU acceleration, OpenAI-compatible endpoint `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Ollama Cloud](https://ollama.com/settings/keys) | Free tier with usage limits. 16 cloud model families from the Ollama library. OpenAI SDK-compatible via https://ollama.com/v1.｜免费模型 10 个：deepseek-v4-pro、deepseek-v4-flash、minimax-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 17 \| Registration \| 1M \| code, image, reasoning, text, video, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [Onomeo](https://onomeo.com) | Registration \| 12 requests/minute per key \| 30 free-model calls every 5 hours per account \| Auto (best free model), DeepSeek V4 Flash, DeepSeek V4 Pro, GLM 5.3 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 🆕 |
+| [Onomeo](https://onomeo.com) | Registration \| 12 requests/minute per key \| 30 free-model calls every 5 hours per account \| Auto (best free model), DeepSeek V4 Flash, DeepSeek V4 Pro, GLM 5.3 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
 | OpenCode Zen | 34 \| Registration \| 1M \| audio, reasoning, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 18 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling Small (free)、Thinking Machines: Inkling (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemot… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 17 个：nvidia/nemotron-3-super-120b-a12b:free、cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、googl… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
@@ -99,7 +99,7 @@ _暂无条目_
 | [SiliconFlow](https://cloud.siliconflow.cn/account/ak) | Permanently free models, no credit card required. Identity verification required. 100+ models in the catalog, most of them paid.｜免费模型 1 个：Qwen/Qwen3-8B｜限速: 1,000 RPM, 50,000 TPM | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
 | SiliconFlow | 4 \| Registration \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | Gradio UI \| Highly customizable, advanced local experimentation `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
-| [Token Harbor](https://tokenharbor.ai) | Registration \| Not published \| Free allowance, resets on a rolling 7-day period \| DeepSeek V4.1 Flash, MiMo V2.6 Flash, TH-Rudder | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 🆕 |
+| [Token Harbor](https://tokenharbor.ai) | Registration \| Not published \| Free allowance, resets on a rolling 7-day period \| DeepSeek V4.1 Flash, MiMo V2.6 Flash, TH-Rudder | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
 | [Venice.ai](https://venice.ai/) | Registration \| 10 RPM (free tier) \| Limited daily usage \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Vercel AI Gateway](https://vercel.com/ai-gateway) | Registration \| Rate limited per model (lower than paid tier) \| Monthly free credit (~$5, verify) \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | xAI | 3 \| Registration \| 2M \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
