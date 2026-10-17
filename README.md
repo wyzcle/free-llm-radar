@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-17 12:22 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-17 18:40 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -146,7 +146,7 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [Cerewro: a free Windows desktop client for local and cloud LLMs, looking for fe…](https://discuss.huggingface.co/t/cerewro-a-free-windows-desktop-client-for-local-and-cloud-llms-looking-for-feedback/190605)：Hi all, I’m part of the team behind Cerewro (disclosure up front). It’s a Windows 10/11 app where you can chat with a local model (no API k… | — | rss | 论坛帖 | 国际 | 10-15 🆕 |
+| HF 论坛 | [Cerewro: a free Windows desktop client for local and cloud LLMs, looking for fe…](https://discuss.huggingface.co/t/cerewro-a-free-windows-desktop-client-for-local-and-cloud-llms-looking-for-feedback/190605)：Hi all, I’m part of the team behind Cerewro (disclosure up front). It’s a Windows 10/11 app where you can chat with a local model (no API k… | — | rss | 论坛帖 | 国际 | 10-15 |
 | HF 论坛 | [Inference Providers credits show $0.00 despite no usage](https://discuss.huggingface.co/t/inference-providers-credits-show-0-00-despite-no-usage/190471)：Hello, My Hugging Face account shows $0.00 in Inference Providers credits. My usage dashboard shows no inference requests and $0.00 usage. … | — | rss | 论坛帖 | 国际 | 10-13 |
 | HF 论坛 | [Inference Providers shows no remaining credits despite zero usage](https://discuss.huggingface.co/t/inference-providers-shows-no-remaining-credits-despite-zero-usage/190399)：Hello Hugging Face Support, I am trying to test meta-llama/Llama-4-Scout-17B-16E-Instruct using the model page’s Inference Providers widget… | — | rss | 论坛帖 | 国际 | 10-12 |
 | HF 论坛 | [[Hiring] Full-time ML Engineer - Frontier Image + Video Models](https://discuss.huggingface.co/t/hiring-full-time-ml-engineer-frontier-image-video-models/190242)：Hi everybody! I’m hiring an ML engineer to train, evaluate and refine frontier image + video models. We’re a fast growing startup that proc… | — | rss | 论坛帖 | 国际 | 10-10 |
