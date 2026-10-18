@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-18 12:28 (UTC+8)** ｜ 有效条目：**104** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(40)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-18 19:01 (UTC+8)** ｜ 有效条目：**103** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(39)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(9)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -117,7 +117,7 @@ _暂无条目_
 | [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级。 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新的模型中共享），超出后按每 1,000 次请求 14 美元计费。 ｜ 每月 5,000 个请求（免费，在所有 Gemini 3 及更新的模型中共享），超出后按每 1,000 次搜索查询 14 美元计费。 ｜ 每月 5,000 次免费搜索请… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 
 
-## 新人额度 / 试用（19）
+## 新人额度 / 试用（18）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -130,7 +130,6 @@ _暂无条目_
 | [Fireworks AI](https://fireworks.ai/) | Registration \| $1 \| One-time \| GLM 5.3, DeepSeek V4.1 Flash, Kimi K3 | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Friendli AI](https://friendli.ai/) | Registration \| Trial credits at onboarding (amount not published) \| One-time \| DeepSeek V3.2, Gemma 4 31B, GLM 5.2, GLM 5.3 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Grokified](https://grokified.com) | No \| $5 \| One-time \| grok-4.6, grok-4.3, grok-build-0.1 | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
-| [Hyperbolic](https://app.hyperbolic.xyz/) | Registration \| $1 \| One-time \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Nebius (Token Factory)](https://tokenfactory.nebius.com/) | Registration \| $1 trial credit, valid 30 days (bank card required) \| One-time \| Qwen3 235B A22B Instruct 2507, GLM 5.3, GPT OSS 120B, Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Novita AI](https://novita.ai/) | Registration \| No automatic sign-up credit; $10 per referral (both sides) \| One-time \| GLM 5.3, Kimi K3, DeepSeek V4.1 Flash, Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Nscale](https://www.nscale.com/product/inference) | No \| Minimum $5 top-up to start (no sign-up credit) \| One-time \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
