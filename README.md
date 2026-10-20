@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-20 19:32 (UTC+8)** ｜ 有效条目：**102** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(39)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(8)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-21 01:01 (UTC+8)** ｜ 有效条目：**100** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(39)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(16)、rss(6)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -41,7 +41,7 @@ _暂无条目_
 | [BentoML](https://www.bentoml.com/) | Inference platform \| Deploy any AI/ML model anywhere, production-grade `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Cerebras | 6 \| No \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Chutes.ai | 2 \| Registration \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| Cline | 5 \| Registration \| 0 \| text, vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Cline | 5 \| Registration \| 0 \| text, vision \| - | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) | 2457 neurons per M input tokens ｜ 18252 neurons per M output tokens ｜ 4625 neurons per M input tokens ｜ 30475 neurons per M output tokens ｜ 4119 neurons per M input tokens ｜ 34868… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 | Cloudflare Workers AI | 41 \| No \| 262K \| code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Cohere | 12 \| No \| 256K \| image, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -141,7 +141,7 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（8）
+## 社区动态（6）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -151,8 +151,6 @@ _暂无条目_
 | HF 论坛 | [[Hiring] Full-time ML Engineer - Frontier Image + Video Models](https://discuss.huggingface.co/t/hiring-full-time-ml-engineer-frontier-image-video-models/190242)：Hi everybody! I’m hiring an ML engineer to train, evaluate and refine frontier image + video models. We’re a fast growing startup that proc… | — | rss | 论坛帖 | 国际 | 10-10 |
 | HF 论坛 | [Do you Think Removing the $0.10 Monthly Free Inference Credits Is the Right Dec…](https://discuss.huggingface.co/t/do-you-think-removing-the-0-10-monthly-free-inference-credits-is-the-right-decision/190220)：Hello everyone, I would like to hear your thoughts on Hugging Face’s changes to free Inference access, particularly the monthly $0.10 in fr… | — | rss | 论坛帖 | 国际 | 10-09 |
 | HF 论坛 | [Did HuggingFace remove the credits given to Free Users?](https://discuss.huggingface.co/t/did-huggingface-remove-the-credits-given-to-free-users/189971)：As Titled. The $0.10 credit /m is not given to Free Users anymore. This is correct and not a bug? I’d like confirmation. Haven’t seen anyon… | — | rss | 论坛帖 | 国际 | 10-08 |
-| HF 论坛 | [【Frontier Pet Booking FAQ’s】✈ How to Add a Pet to Your Frontier Airlines? Here’…](https://discuss.huggingface.co/t/frontier-pet-booking-faq-s-how-to-add-a-pet-to-your-frontier-airlines-here-s-the-faq-you-should-know/186685)：To add a pet to an Frontier Air Lines flight 『{++1-}855-264-1722』, you must first book your human passenger ticket and then contact Frontie… | — | rss | 论坛帖 | 国际 | 10-06 |
-| HF 论坛 | [Helping Guide for Coinbase Customer Support Number Official USA Toll Free Conta…](https://discuss.huggingface.co/t/helping-guide-for-coinbase-customer-support-number-official-usa-toll-free-contact-number/186663)：When you need fast assistance, +1-369-220-3969 finding the right support approach can save valuable time +1-369-220-3969 and reduce unneces… | — | rss | 论坛帖 | 国际 | 10-06 |
 
 
 ---
