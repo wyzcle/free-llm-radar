@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-24 05:23 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(43)、open-free-llm-api/awesome-freellm-apis(36)、mnfst/awesome-free-llm-apis(17)、rss(7)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-24 12:33 (UTC+8)** ｜ 有效条目：**107** ｜ 48h 内新增：**3** ｜ 来源：nejib1/Free-LLM(43)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(17)、rss(7)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -29,7 +29,7 @@
 _暂无条目_
 
 
-## 永久免费层（76）
+## 永久免费层（77）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -49,6 +49,7 @@ _暂无条目_
 | [Coze](https://www.coze.com/) | Registration \| Varies by model \| Token-based daily limits \| Resets daily \| GPT-4o (via Coze), Gemini 1.5 Pro (via Coze) | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | DeepSeek | 2 \| Registration \| 128K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Glhf.chat | 2 \| Registration \| 131K \| text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Gonka Broker | 4 \| Registration \| 400K \| image, pdf, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 10-24 🆕 |
 | [Gonka Broker](https://app.gonkabroker.com/signup) | Permanent free tier, no credit card required; phone verification required. ~1M tokens/month (shared, varies by model), resets monthly. Model lineup rotates with network governance… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 10-24 🆕 |
 | [Google AI Studio](https://aistudio.google.com/) | No \| Varies by model (per-model limits are now shown only inside AI Studio) \| Varies by model. Free: Flash, Flash-Lite and Gemini 2.5 Pro; Gemini 3.x Pro models are paid \| Free of… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Google Gemini](https://aistudio.google.com/app/apikey) | Free tier, no credit card. Free-tier prompts may be used by Google to improve products.｜免费模型 11 个：Gemini 3.8 Flash、Gemini 3.7 Flash、Gemini 3.6 Flash、Gemini 3.5 Flash、Gemini 3.5 Fl… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
@@ -67,7 +68,7 @@ _暂无条目_
 | Jan.ai | Desktop app \| Privacy-focused, 100% offline ChatGPT alternative `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Kilo AI Gateway](https://kilo.ai/gateway) | No \| 200 requests/hour per IP on free models (anonymous use allowed) \| Default free models only \| Free plan, no expiry \| Nemotron 3 Nano Omni Reasoning, LFM2.5 2.6B, Dots3-Note Pr… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | [Kilo Code](https://app.kilo.ai/profile) | Free models with no credit card and no API key required. kilo-auto/free auto-router dynamically routes to models in the free pool.｜免费模型 18 个：nvidia/nemotron-3-ultra-550b-a55b:free… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Kilo Code | 23 \| No \| 1M \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Kilo Code | 27 \| No \| 1M \| audio, code, image, reasoning, text, video \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | KoboldCpp | Single executable \| Optimized for creative writing, GGUF `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | llama.cpp | C/C++ engine \| Runs any GGUF, minimal dependencies `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [llamafile](https://github.com/Mozilla-Ocho/llamafile) | Single executable \| Multi-platform, combines llama.cpp + Cosmopolitan Libc `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
@@ -100,7 +101,7 @@ _暂无条目_
 | [Routeway](https://routeway.ai/) | Registration \| 5 RPM on :free models \| 200 requests/day \| Starter plan free, shared queue \| Muse Glimmer 30B, MiniMax M2.7, DeepSeek V4 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | SambaNova | 4 \| Registration \| 128K \| image, reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [SiliconFlow](https://cloud.siliconflow.cn/account/ak) | Permanently free models, no credit card required. Identity verification required. 100+ models in the catalog, most of them paid.｜免费模型 2 个：tencent/Hunyuan-MT-7B、XingChenAGI/Xing4.0… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
-| SiliconFlow | 4 \| Registration \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| SiliconFlow | 6 \| Registration \| 131K \| reasoning, text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | Gradio UI \| Highly customizable, advanced local experimentation `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Token Harbor](https://tokenharbor.ai) | Registration \| 60 requests/min and 1,800/hour per account (100/min, 3,000/hour per IP) \| Free allowance, resets on a rolling 7-day period \| DeepSeek V4.1 Flash, MiMo V2.6 Flash, T… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
 | [Venice.ai](https://venice.ai/) | Registration \| 10 RPM (free tier) \| Limited daily usage \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
