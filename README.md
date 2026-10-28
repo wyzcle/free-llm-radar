@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-28 20:49 (UTC+8)** ｜ 有效条目：**94** ｜ 48h 内新增：**0** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(2)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-29 06:33 (UTC+8)** ｜ 有效条目：**98** ｜ 48h 内新增：**4** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(6)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -139,12 +139,16 @@ _暂无条目_
 | [Upstage](https://console.upstage.ai/) | Registration \| $10 sign-up credit (announced by Upstage; not shown on the pricing page, verify) \| 3 months \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 
 
-## 社区动态（2）
+## 社区动态（6）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [An AI coding agent deleted a live production database during a code freeze](https://discuss.huggingface.co/t/an-ai-coding-agent-deleted-a-live-production-database-during-a-code-freeze/191161)：SaaStr’s Jason Lemkin reported that Replit’s agent ignored explicit instructions not to alter code and deleted the database. It held record… | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
+| HF 论坛 | [Can an AI system reason freely without becoming its own authority?](https://discuss.huggingface.co/t/can-an-ai-system-reason-freely-without-becoming-its-own-authority/191147)：Many discussions of AI safety focus on alignment: whether a model’s behavior matches human intent. I think there is a separate systems ques… | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
+| HF 论坛 | [Little Mungbean • A free, open-source, simple, lightweight AI gateway manager](https://discuss.huggingface.co/t/little-mungbean-a-free-open-source-simple-lightweight-ai-gateway-manager/191137)：Little Mungbean • A free, open-source, simple, lightweight AI gateway manager that lets Codex and Claude clients share a switchable, observ… | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
 | HF 论坛 | [Free account (31 days old, email verified, 0 Spaces) not offered ZeroGPU — Grad…](https://discuss.huggingface.co/t/free-account-31-days-old-email-verified-0-spaces-not-offered-zerogpu-gradio-sdk-gated-as-paid/190930)：My free personal account appears to meet the documented requirements for the free ZeroGPU exception (2 Gradio Spaces on ZeroGPU for persona… | — | rss | 论坛帖 | 国际 | 10-23 |
 | HF 论坛 | [Cerewro: a free Windows desktop client for local and cloud LLMs, looking for fe…](https://discuss.huggingface.co/t/cerewro-a-free-windows-desktop-client-for-local-and-cloud-llms-looking-for-feedback/190605)：Hi all, I’m part of the team behind Cerewro (disclosure up front). It’s a Windows 10/11 app where you can chat with a local model (no API k… | — | rss | 论坛帖 | 国际 | 10-15 |
+| r/LocalLLaMA | [IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia …](https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/)：Anyone want to chip in a cool $60m for me? &#32; submitted by &#32; /u/giveen [link] &#32; [comments] | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
 
 
 ---
