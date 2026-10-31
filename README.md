@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-10-31 06:17 (UTC+8)** ｜ 有效条目：**99** ｜ 48h 内新增：**6** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(7)、official-pages(2)、openrouter(1)
+最后更新：**2026-10-31 13:37 (UTC+8)** ｜ 有效条目：**99** ｜ 48h 内新增：**2** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(7)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -114,7 +114,7 @@ _暂无条目_
 | --- | --- | --- | --- | --- | --- | --- |
 | [Aion Labs](https://www.aionlabs.ai/app/api-keys/) | Permanent free tier, no credit card required. 15 RPM, 20K tokens/day. Specialized for roleplay and storytelling.｜免费模型 4 个：aion-labs/aion-2.0、aion-labs/aion-rp-llama-3.1-8b、aion-la… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://dash.cloudflare.com/profile/api-tokens) | 10,000 Neurons/day free, no credit card required. 60+ models available on the free tier.｜免费模型 8 个：@cf/meta/llama-3.3-70b-instruct-fp8-fast、@cf/meta/llama-4-scout-17b-16e-instruct、… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级。模型处理的每个 token 都会被统计并计费，包括思考 token、内部工具系统指令以及使用接地功能时的函数声明。 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新型号之间共享），超出后按每 1,000 次请求 14 美元计费（ ｜ 每月 5,000 个请求（免费，在所有 Gemini … | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
+| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级。模型处理的每个 token 都会被统计并计费，包括思考 token、内部工具系统指令以及使用接地功能时的函数声明。 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新的模型中共享），超出后按每 1,000 次请求 14 美元计费（ ｜ 每月 5,000 个请求（免费，在所有 Gemini … | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 
 
 ## 新人额度 / 试用（16）
@@ -143,13 +143,13 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [An AI coding agent deleted a live production database during a code freeze](https://discuss.huggingface.co/t/an-ai-coding-agent-deleted-a-live-production-database-during-a-code-freeze/191161)：SaaStr’s Jason Lemkin reported that Replit’s agent ignored explicit instructions not to alter code and deleted the database. It held record… | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
-| HF 论坛 | [Can an AI system reason freely without becoming its own authority?](https://discuss.huggingface.co/t/can-an-ai-system-reason-freely-without-becoming-its-own-authority/191147)：Many discussions of AI safety focus on alignment: whether a model’s behavior matches human intent. I think there is a separate systems ques… | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
-| HF 论坛 | [Little Mungbean • A free, open-source, simple, lightweight AI gateway manager](https://discuss.huggingface.co/t/little-mungbean-a-free-open-source-simple-lightweight-ai-gateway-manager/191137)：Little Mungbean • A free, open-source, simple, lightweight AI gateway manager that lets Codex and Claude clients share a switchable, observ… | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
+| HF 论坛 | [An AI coding agent deleted a live production database during a code freeze](https://discuss.huggingface.co/t/an-ai-coding-agent-deleted-a-live-production-database-during-a-code-freeze/191161)：SaaStr’s Jason Lemkin reported that Replit’s agent ignored explicit instructions not to alter code and deleted the database. It held record… | — | rss | 论坛帖 | 国际 | 10-29 |
+| HF 论坛 | [Can an AI system reason freely without becoming its own authority?](https://discuss.huggingface.co/t/can-an-ai-system-reason-freely-without-becoming-its-own-authority/191147)：Many discussions of AI safety focus on alignment: whether a model’s behavior matches human intent. I think there is a separate systems ques… | — | rss | 论坛帖 | 国际 | 10-29 |
+| HF 论坛 | [Little Mungbean • A free, open-source, simple, lightweight AI gateway manager](https://discuss.huggingface.co/t/little-mungbean-a-free-open-source-simple-lightweight-ai-gateway-manager/191137)：Little Mungbean • A free, open-source, simple, lightweight AI gateway manager that lets Codex and Claude clients share a switchable, observ… | — | rss | 论坛帖 | 国际 | 10-29 |
 | HF 论坛 | [Free account (31 days old, email verified, 0 Spaces) not offered ZeroGPU — Grad…](https://discuss.huggingface.co/t/free-account-31-days-old-email-verified-0-spaces-not-offered-zerogpu-gradio-sdk-gated-as-paid/190930)：My free personal account appears to meet the documented requirements for the free ZeroGPU exception (2 Gradio Spaces on ZeroGPU for persona… | — | rss | 论坛帖 | 国际 | 10-23 |
 | r/LocalLLaMA | [Free web search for my local agent stopped working. What are you paying per 1,0…](https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/)：My research agent ran on a free search API for months until every call started failing last week and the SearXNG box I set up instead keeps… | — | rss | 论坛帖 | 国际 | 10-30 🆕 |
 | r/LocalLLaMA | [5 Frontier LLM's grade 39 local LLM's on 50 prompts](https://www.reddit.com/r/LocalLLaMA/comments/1xi6edm/5_frontier_llms_grade_39_local_llms_on_50_prompts/)：This is just something i had running for about 10-20 hours (kept adding models), various tests/benchmarks and had 4 (Claude kind of graded,… | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
-| r/LocalLLaMA | [IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia …](https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/)：Anyone want to chip in a cool $60m for me? &#32; submitted by &#32; /u/giveen [link] &#32; [comments] | — | rss | 论坛帖 | 国际 | 10-29 🆕 |
+| r/LocalLLaMA | [IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia …](https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/)：Anyone want to chip in a cool $60m for me? &#32; submitted by &#32; /u/giveen [link] &#32; [comments] | — | rss | 论坛帖 | 国际 | 10-29 |
 
 
 ---
