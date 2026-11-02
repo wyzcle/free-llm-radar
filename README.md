@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-02 13:58 (UTC+8)** ｜ 有效条目：**105** ｜ 48h 内新增：**6** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(13)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-02 23:44 (UTC+8)** ｜ 有效条目：**105** ｜ 48h 内新增：**5** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(13)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -143,9 +143,9 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [MWT Voice – A Free AI Text-to-Speech Studio with Kitten TTS, Kokoro TTS & Pocke…](https://discuss.huggingface.co/t/mwt-voice-a-free-ai-text-to-speech-studio-with-kitten-tts-kokoro-tts-pocket-tts/191314)：MWT Voice — A Free, Fully Offline-Capable AI Voice &amp; Audio Production Studio \| 3 TTS Engines, Voice Cloning, Multi-Speaker Podcasts &am… | — | rss | 论坛帖 | 国际 | 11-02 🆕 |
+| HF 论坛 | [MWT Voice – A Free AI Text-to-Speech Studio with Kitten TTS, Kokoro TTS & Pocke…](https://discuss.huggingface.co/t/mwt-voice-a-free-ai-text-to-speech-studio-with-kitten-tts-kokoro-tts-pocket-tts/191314)：MWT Voice – A Free AI Voice and Audio Studio That Works Offline Try the live application: https://voice.mwtlabs.uk/ I’m excited to introduc… | — | rss | 论坛帖 | 国际 | 11-02 🆕 |
 | HF 论坛 | [Freedream-1B-Instruct-V2-preview](https://discuss.huggingface.co/t/freedream-1b-instruct-v2-preview/191301)：Hello guys, This is an preview version for Freedream-1B-Instruct-V2, it is trained based on the Freedream-1B 24B tokens seen base model whe… | — | rss | 论坛帖 | 国际 | 11-02 🆕 |
-| HF 论坛 | [Freedream-1B-Instruct V1.1 from scratch published!](https://discuss.huggingface.co/t/freedream-1b-instruct-v1-1-from-scratch-published/191265)：Hello guys, I am a grade 8 student nicknamed Digilidaahz, this is an 1B model trained from scratch with a single rtx5080 and ddr5 65gb. V1.… | — | rss | 论坛帖 | 国际 | 10-31 🆕 |
+| HF 论坛 | [Freedream-1B-Instruct V1.1 from scratch published!](https://discuss.huggingface.co/t/freedream-1b-instruct-v1-1-from-scratch-published/191265)：Hello guys, I am a grade 8 student nicknamed Digilidaahz, this is an 1B model trained from scratch with a single rtx5080 and ddr5 65gb. V1.… | — | rss | 论坛帖 | 国际 | 10-31 |
 | HF 论坛 | [An AI coding agent deleted a live production database during a code freeze](https://discuss.huggingface.co/t/an-ai-coding-agent-deleted-a-live-production-database-during-a-code-freeze/191161)：SaaStr’s Jason Lemkin reported that Replit’s agent ignored explicit instructions not to alter code and deleted the database. It held record… | — | rss | 论坛帖 | 国际 | 10-29 |
 | HF 论坛 | [Can an AI system reason freely without becoming its own authority?](https://discuss.huggingface.co/t/can-an-ai-system-reason-freely-without-becoming-its-own-authority/191147)：Many discussions of AI safety focus on alignment: whether a model’s behavior matches human intent. I think there is a separate systems ques… | — | rss | 论坛帖 | 国际 | 10-29 |
 | HF 论坛 | [Little Mungbean • A free, open-source, simple, lightweight AI gateway manager](https://discuss.huggingface.co/t/little-mungbean-a-free-open-source-simple-lightweight-ai-gateway-manager/191137)：Little Mungbean • A free, open-source, simple, lightweight AI gateway manager that lets Codex and Claude clients share a switchable, observ… | — | rss | 论坛帖 | 国际 | 10-29 |
