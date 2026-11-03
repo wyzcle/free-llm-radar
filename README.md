@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-03 08:56 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**5** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(14)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-03 22:08 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**4** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(14)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -152,7 +152,7 @@ _暂无条目_
 | HF 论坛 | [Free account (31 days old, email verified, 0 Spaces) not offered ZeroGPU — Grad…](https://discuss.huggingface.co/t/free-account-31-days-old-email-verified-0-spaces-not-offered-zerogpu-gradio-sdk-gated-as-paid/190930)：My free personal account appears to meet the documented requirements for the free ZeroGPU exception (2 Gradio Spaces on ZeroGPU for persona… | — | rss | 论坛帖 | 国际 | 10-23 |
 | r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xmarrf/paper_ridgefill_trainingfree_latelayer_cache_fill/)：We introduce RidgeFill, a training-free way to shorten prefill by not computing most of a model's upper layers for the prompt. The lower la… | — | rss | 论坛帖 | 国际 | 11-03 🆕 |
 | r/LocalLLaMA | [I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open W…](https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/)：https://i.redd.it/97has5lk21zh1.gif I've been running local LLMs through Open WebUI for a while now, and one thing I've always wished it ha… | — | rss | 论坛帖 | 国际 | 11-02 🆕 |
-| r/LocalLLaMA | [Agentic AI w/frontier models??](https://www.reddit.com/r/LocalLLaMA/comments/1xkox4q/agentic_ai_wfrontier_models/)：If you watch much Youtube around AI, you'll see a bunch of people setting up these complex agentic workflows (or, even worse, &quot;Jarvis&… | — | rss | 论坛帖 | 国际 | 11-01 🆕 |
+| r/LocalLLaMA | [Agentic AI w/frontier models??](https://www.reddit.com/r/LocalLLaMA/comments/1xkox4q/agentic_ai_wfrontier_models/)：If you watch much Youtube around AI, you'll see a bunch of people setting up these complex agentic workflows (or, even worse, &quot;Jarvis&… | — | rss | 论坛帖 | 国际 | 11-01 |
 | r/LocalLLaMA | [[Release] Morgana 1.2: A photography-focused FLUX.2 Klein 4B finetune for reali…](https://www.reddit.com/r/LocalLLaMA/comments/1xkgbhu/release_morgana_12_a_photographyfocused_flux2/)：Morgana 1.2 is Kitani‘s photography focused finetune of Flux.2 Klein 4b. Our goal for the fine tune was for Klein to make images that don’t… | — | rss | 论坛帖 | 国际 | 11-01 |
 | r/LocalLLaMA | [Free web search for my local agent stopped working. What are you paying per 1,0…](https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/)：My research agent ran on a free search API for months until every call started failing last week and the SearXNG box I set up instead keeps… | — | rss | 论坛帖 | 国际 | 10-30 |
 | r/LocalLLaMA | [5 Frontier LLM's grade 39 local LLM's on 50 prompts](https://www.reddit.com/r/LocalLLaMA/comments/1xi6edm/5_frontier_llms_grade_39_local_llms_on_50_prompts/)：This is just something i had running for about 10-20 hours (kept adding models), various tests/benchmarks and had 4 (Claude kind of graded,… | — | rss | 论坛帖 | 国际 | 10-29 |
