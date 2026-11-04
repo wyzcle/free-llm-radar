@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-04 07:19 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**1** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(14)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-04 14:13 (UTC+8)** ｜ 有效条目：**106** ｜ 48h 内新增：**1** ｜ 来源：open-free-llm-api/awesome-freellm-apis(37)、nejib1/Free-LLM(35)、mnfst/awesome-free-llm-apis(17)、rss(14)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
