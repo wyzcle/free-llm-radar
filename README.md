@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-05 07:39 (UTC+8)** ｜ 有效条目：**142** ｜ 48h 内新增：**36** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(17)、rss(14)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-05 14:41 (UTC+8)** ｜ 有效条目：**143** ｜ 48h 内新增：**36** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(17)、rss(15)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -175,7 +175,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 🆕 |
 
 
-## 社区动态（14）
+## 社区动态（15）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -186,7 +186,8 @@ _暂无条目_
 | HF 论坛 | [Can an AI system reason freely without becoming its own authority?](https://discuss.huggingface.co/t/can-an-ai-system-reason-freely-without-becoming-its-own-authority/191147)：Many discussions of AI safety focus on alignment: whether a model’s behavior matches human intent. I think there is a separate systems ques… | — | rss | 论坛帖 | 国际 | 10-29 |
 | HF 论坛 | [Little Mungbean • A free, open-source, simple, lightweight AI gateway manager](https://discuss.huggingface.co/t/little-mungbean-a-free-open-source-simple-lightweight-ai-gateway-manager/191137)：Little Mungbean • A free, open-source, simple, lightweight AI gateway manager that lets Codex and Claude clients share a switchable, observ… | — | rss | 论坛帖 | 国际 | 10-29 |
 | HF 论坛 | [Free account (31 days old, email verified, 0 Spaces) not offered ZeroGPU — Grad…](https://discuss.huggingface.co/t/free-account-31-days-old-email-verified-0-spaces-not-offered-zerogpu-gradio-sdk-gated-as-paid/190930)：My free personal account appears to meet the documented requirements for the free ZeroGPU exception (2 Gradio Spaces on ZeroGPU for persona… | — | rss | 论坛帖 | 国际 | 10-23 |
-| r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xmarrf/paper_ridgefill_trainingfree_latelayer_cache_fill/)：We introduce RidgeFill, a training-free way to shorten prefill by not computing most of a model's upper layers for the prompt. The lower la… | — | rss | 论坛帖 | 国际 | 11-03 🆕 |
+| r/LocalLLaMA | [The next frontier is integrating memory in a useful, human way.](https://www.reddit.com/r/LocalLLaMA/comments/1xo9eol/the_next_frontier_is_integrating_memory_in_a/)：IE, even for as trivial a use case as, if you mention you're a vegetarian in one chat, it never suggests a recipe with meat ever again, bec… | — | rss | 论坛帖 | 国际 | 11-05 🆕 |
+| r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xmarrf/paper_ridgefill_trainingfree_latelayer_cache_fill/)：We introduce RidgeFill, a training-free way to shorten prefill by not computing most of a model's upper layers for the prompt. The lower la… | — | rss | 论坛帖 | 国际 | 11-03 |
 | r/LocalLLaMA | [I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open W…](https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/)：https://i.redd.it/97has5lk21zh1.gif I've been running local LLMs through Open WebUI for a while now, and one thing I've always wished it ha… | — | rss | 论坛帖 | 国际 | 11-02 |
 | r/LocalLLaMA | [Agentic AI w/frontier models??](https://www.reddit.com/r/LocalLLaMA/comments/1xkox4q/agentic_ai_wfrontier_models/)：If you watch much Youtube around AI, you'll see a bunch of people setting up these complex agentic workflows (or, even worse, &quot;Jarvis&… | — | rss | 论坛帖 | 国际 | 11-01 |
 | r/LocalLLaMA | [[Release] Morgana 1.2: A photography-focused FLUX.2 Klein 4B finetune for reali…](https://www.reddit.com/r/LocalLLaMA/comments/1xkgbhu/release_morgana_12_a_photographyfocused_flux2/)：Morgana 1.2 is Kitani‘s photography focused finetune of Flux.2 Klein 4b. Our goal for the fine tune was for Klein to make images that don’t… | — | rss | 论坛帖 | 国际 | 11-01 |
