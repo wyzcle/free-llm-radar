@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T05:55:26+00:00",
-  "count": 190,
+  "updated_at": "2026-11-07T12:56:19+00:00",
+  "count": 212,
   "items": [
     {
       "id": "572986645cc0",
@@ -17,7 +17,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -68,7 +68,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -119,7 +119,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -136,7 +136,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -170,7 +170,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -187,7 +187,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -204,7 +204,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -221,7 +221,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -255,7 +255,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -272,7 +272,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -289,7 +289,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -297,7 +297,7 @@
       "title": "NVIDIA NIM｜Permanent Free Tiers",
       "platform": "NVIDIA NIM",
       "kind": "permanent",
-      "quota": "134 | Phone verification | 1M | audio, embedding, image, pdf, reasoning, rerank, text, video, vision | →",
+      "quota": "139 | Phone verification | 1M | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -306,7 +306,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -314,7 +314,7 @@
       "title": "ModelScope｜Permanent Free Tiers",
       "platform": "ModelScope",
       "kind": "permanent",
-      "quota": "61 | Registration | 1M | audio, image, reasoning, text, video, vision | →",
+      "quota": "61 | Registration | 1M | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -323,7 +323,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -331,7 +331,7 @@
       "title": "Cloudflare Workers AI｜Permanent Free Tiers",
       "platform": "Cloudflare Workers AI",
       "kind": "permanent",
-      "quota": "41 | No | 262K | code, image, reasoning, text, video | →",
+      "quota": "46 | No | 262K | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -340,7 +340,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -348,7 +348,7 @@
       "title": "Google Gemini｜Permanent Free Tiers",
       "platform": "Google Gemini",
       "kind": "permanent",
-      "quota": "19 | No | 1M | audio, image, pdf, reasoning, text, video, vision | →",
+      "quota": "19 | No | 1M | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -357,7 +357,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -382,7 +382,7 @@
       "title": "LLM7.io｜Permanent Free Tiers",
       "platform": "LLM7.io",
       "kind": "permanent",
-      "quota": "24 | No | 1M | audio, code, image, pdf, reasoning, text, video, vision | →",
+      "quota": "26 | No | 1M | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -391,7 +391,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -399,7 +399,7 @@
       "title": "OVHcloud AI Endpoints｜Permanent Free Tiers",
       "platform": "OVHcloud AI Endpoints",
       "kind": "permanent",
-      "quota": "15 | Registration | 262K | audio, code, image, reasoning, text, video | →",
+      "quota": "15 | Registration | 262K | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -408,7 +408,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -416,7 +416,7 @@
       "title": "Ollama Cloud｜Permanent Free Tiers",
       "platform": "Ollama Cloud",
       "kind": "permanent",
-      "quota": "17 | Registration | 1M | code, image, reasoning, text, video, vision | →",
+      "quota": "17 | Registration | 1M | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -425,7 +425,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -433,7 +433,7 @@
       "title": "OpenCode Zen｜Permanent Free Tiers",
       "platform": "OpenCode Zen",
       "kind": "permanent",
-      "quota": "34 | Registration | 1M | audio, reasoning, vision | →",
+      "quota": "34 | Registration | 1M | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -442,7 +442,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -450,7 +450,7 @@
       "title": "Groq｜Permanent Free Tiers",
       "platform": "Groq",
       "kind": "permanent",
-      "quota": "12 | No | 262K | image, reasoning, text, video | →",
+      "quota": "12 | No | 262K | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -459,7 +459,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -467,7 +467,7 @@
       "title": "Mistral AI｜Permanent Free Tiers",
       "platform": "Mistral AI",
       "kind": "permanent",
-      "quota": "15 | No | 256K | code, image, pdf, reasoning, text | →",
+      "quota": "15 | No | 256K | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -476,7 +476,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -484,7 +484,7 @@
       "title": "Cohere｜Permanent Free Tiers",
       "platform": "Cohere",
       "kind": "permanent",
-      "quota": "12 | No | 256K | image, text | →",
+      "quota": "12 | No | 256K | Text, Vision | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -493,7 +493,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -501,7 +501,7 @@
       "title": "Kilo Code｜Permanent Free Tiers",
       "platform": "Kilo Code",
       "kind": "permanent",
-      "quota": "23 | No | 1M | audio, code, image, reasoning, text, video | →",
+      "quota": "29 | No | 1M | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -510,7 +510,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -518,7 +518,7 @@
       "title": "Aion Labs｜Permanent Free Tiers",
       "platform": "Aion Labs",
       "kind": "permanent",
-      "quota": "11 | Registration | 131K | reasoning, text | →",
+      "quota": "11 | Registration | 131K | Text, Reasoning | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -527,7 +527,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -535,7 +535,7 @@
       "title": "Hugging Face｜Permanent Free Tiers",
       "platform": "Hugging Face",
       "kind": "permanent",
-      "quota": "9 | No | 131K | code, image, text | →",
+      "quota": "9 | No | 131K | Text, Vision, Code | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -544,7 +544,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -552,7 +552,7 @@
       "title": "Cerebras｜Permanent Free Tiers",
       "platform": "Cerebras",
       "kind": "permanent",
-      "quota": "6 | No | 131K | reasoning, text | →",
+      "quota": "6 | No | 131K | Text, Reasoning | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -561,7 +561,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -569,7 +569,7 @@
       "title": "Agnes AI｜Permanent Free Tiers",
       "platform": "Agnes AI",
       "kind": "permanent",
-      "quota": "5 | Registration | 256K | image, reasoning, text, video, vision | →",
+      "quota": "5 | Registration | 256K | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -578,7 +578,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -586,7 +586,7 @@
       "title": "Alibaba Cloud Model Studio｜Permanent Free Tiers",
       "platform": "Alibaba Cloud Model Studio",
       "kind": "permanent",
-      "quota": "5 | Registration | 1M | code, image, text | →",
+      "quota": "5 | Registration | 1M | Text, Vision, Code | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -595,7 +595,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -603,7 +603,7 @@
       "title": "Z AI (Zhipu AI)｜Permanent Free Tiers",
       "platform": "Z AI (Zhipu AI)",
       "kind": "permanent",
-      "quota": "8 | No | 200K | image, reasoning, text, video | →",
+      "quota": "8 | No | 200K | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -612,7 +612,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -620,7 +620,7 @@
       "title": "SambaNova｜Permanent Free Tiers",
       "platform": "SambaNova",
       "kind": "permanent",
-      "quota": "4 | Registration | 128K | image, reasoning, text | →",
+      "quota": "4 | Registration | 128K | Text, Vision, Reasoning | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -629,7 +629,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -637,7 +637,7 @@
       "title": "Cline｜Permanent Free Tiers",
       "platform": "Cline",
       "kind": "permanent",
-      "quota": "5 | Registration | 0 | text, vision | -",
+      "quota": "4 | Registration | 0 | Text, Vision | -",
       "expires": null,
       "howto": null,
       "url": "",
@@ -646,7 +646,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -654,7 +654,7 @@
       "title": "SiliconFlow｜Permanent Free Tiers",
       "platform": "SiliconFlow",
       "kind": "permanent",
-      "quota": "4 | Registration | 131K | reasoning, text | →",
+      "quota": "6 | Registration | 131K | Text, Reasoning | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -663,7 +663,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -671,7 +671,7 @@
       "title": "xAI｜Permanent Free Tiers",
       "platform": "xAI",
       "kind": "permanent",
-      "quota": "3 | Registration | 2M | text | →",
+      "quota": "3 | Registration | 2M | Text | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -680,7 +680,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -688,7 +688,7 @@
       "title": "Chutes.ai｜Permanent Free Tiers",
       "platform": "Chutes.ai",
       "kind": "permanent",
-      "quota": "2 | Registration | 131K | reasoning, text | →",
+      "quota": "2 | Registration | 131K | Text, Reasoning | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -697,7 +697,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -705,7 +705,7 @@
       "title": "Glhf.chat｜Permanent Free Tiers",
       "platform": "Glhf.chat",
       "kind": "permanent",
-      "quota": "2 | Registration | 131K | text | →",
+      "quota": "2 | Registration | 131K | Text | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -714,7 +714,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -722,7 +722,7 @@
       "title": "Grok (xAI)｜Permanent Free Tiers",
       "platform": "Grok (xAI)",
       "kind": "permanent",
-      "quota": "2 | Registration | 131K | text | →",
+      "quota": "2 | Registration | 131K | Text | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -731,7 +731,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -739,7 +739,7 @@
       "title": "AI21 Labs｜Permanent Free Tiers",
       "platform": "AI21 Labs",
       "kind": "permanent",
-      "quota": "2 | Registration | 256K | text | →",
+      "quota": "2 | Registration | 256K | Text | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -748,7 +748,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -756,7 +756,7 @@
       "title": "DeepSeek｜Permanent Free Tiers",
       "platform": "DeepSeek",
       "kind": "permanent",
-      "quota": "2 | Registration | 128K | text | →",
+      "quota": "2 | Registration | 128K | Text | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -765,7 +765,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -773,7 +773,7 @@
       "title": "Nscale｜Permanent Free Tiers",
       "platform": "Nscale",
       "kind": "permanent",
-      "quota": "2 | Registration | 128K | text | →",
+      "quota": "2 | Registration | 128K | Text | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -782,7 +782,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -790,7 +790,7 @@
       "title": "Nebius｜Permanent Free Tiers",
       "platform": "Nebius",
       "kind": "permanent",
-      "quota": "1 | Registration | 128K | text | →",
+      "quota": "1 | Registration | 128K | Text | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -799,7 +799,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -807,7 +807,7 @@
       "title": "OpenRouter｜Renewable Credits",
       "platform": "OpenRouter",
       "kind": "permanent",
-      "quota": "33 | Free tier + $10 topup → 1K RPD | 1M | audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video | →",
+      "quota": "36 | Free tier + $10 topup → 1K RPD | 1M | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -816,7 +816,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -835,7 +835,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -854,7 +854,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -873,7 +873,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -892,7 +892,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -911,7 +911,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -930,7 +930,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -947,7 +947,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -964,7 +964,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -998,7 +998,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1032,7 +1032,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1049,7 +1049,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1066,7 +1066,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1083,7 +1083,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1134,7 +1134,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1185,7 +1185,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1202,7 +1202,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1236,7 +1236,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1270,7 +1270,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1287,7 +1287,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1304,7 +1304,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1321,7 +1321,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1355,7 +1355,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1389,7 +1389,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1423,7 +1423,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1459,7 +1459,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1478,7 +1478,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1497,7 +1497,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -1786,7 +1786,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2024,7 +2024,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-04T12:19:25+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2041,7 +2041,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-04T12:19:25+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2058,7 +2058,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-04T12:19:25+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2075,7 +2075,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-04T12:19:25+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2092,7 +2092,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-04T12:19:25+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2245,7 +2245,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-14T04:50:17+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2296,7 +2296,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-21T04:42:58+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2313,7 +2313,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-21T04:42:58+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2330,7 +2330,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-21T04:42:58+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2364,7 +2364,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-23T17:04:48+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2372,7 +2372,7 @@
       "title": "Gonka Broker｜Permanent Free Tiers",
       "platform": "Gonka Broker",
       "kind": "permanent",
-      "quota": "4 | Registration | 400K | image, pdf, reasoning, text, video | →",
+      "quota": "4 | Registration | 400K | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -2381,7 +2381,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-24T04:33:24+00:00",
-      "last_seen": "2026-10-26T22:39:00+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2619,7 +2619,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2636,7 +2636,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2653,7 +2653,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2670,7 +2670,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2687,7 +2687,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2704,7 +2704,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2721,7 +2721,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2738,7 +2738,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2755,7 +2755,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2772,7 +2772,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2789,7 +2789,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2806,7 +2806,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2823,7 +2823,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2840,7 +2840,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2857,7 +2857,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2874,7 +2874,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2891,7 +2891,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2908,7 +2908,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2925,7 +2925,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2942,7 +2942,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2959,7 +2959,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2976,7 +2976,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -2993,7 +2993,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3010,7 +3010,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3027,7 +3027,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3044,7 +3044,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3061,7 +3061,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3078,7 +3078,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3095,7 +3095,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3112,7 +3112,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3129,7 +3129,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3146,7 +3146,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3163,7 +3163,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3180,7 +3180,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3197,7 +3197,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-04T23:39:21+00:00",
-      "last_seen": "2026-11-07T05:55:26+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     },
     {
@@ -3249,6 +3249,380 @@
       "tags": [],
       "discovered_at": "2026-11-07T05:55:26+00:00",
       "last_seen": "2026-11-07T05:55:26+00:00",
+      "status": "active"
+    },
+    {
+      "id": "76e382cb554f",
+      "title": "【破晓 API】充值 1:1｜GPT 0.09 倍率不降智 ！｜0.2官key 95%缓存｜进群送 5 刀 反馈3刀 首次签到3刀 活动持续派送中~｜用破晓 无套路 不烧心！",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3081143",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "cc734df1abad",
+      "title": "佬友们，看额度的软件是哪个？",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3137347",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "3d80b1f43ebe",
+      "title": "Google one免费24个月 Gemini pro会员后续（注册机+网页拓展版本）开源",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3127175",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "93c26cd3db2e",
+      "title": "【富可敌国】【91Token】开启，Claude、GPT、Gemini、Seedance、GLM塞进了一个 Key，诚邀各位佬友体验",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3131808",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "87953210f1f9",
+      "title": "新人报道;gemini反代封号后,还有什么免费好用的AI吗!",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3137394",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "f36d487fb615",
+      "title": "【PM-Plan】Lite套餐可用的Free DS欸",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3137067",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "fdbd4758b815",
+      "title": "OrinX智能驾驶域控制的LLM+ComfyUI+源码+工作流AI辅助全自动部署包",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/2974933",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "6c525089e960",
+      "title": "Vibe了一个基于ChKSz API的网易云音乐下载器",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3137404",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "828e7f2fda57",
+      "title": "免费薅了一年的Google AI Pro，现在需要重新认证怎么处理？",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3137280",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "2a251a1886cb",
+      "title": "香港支付宝 Apple 商店赠送 20 港币。",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3136966",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "70e6c1aa62f5",
+      "title": "Qoder送 2000 Credits sonus额度 ，测试了一下好像是 gpt-6-astra",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3136663",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "44c5fd076b0a",
+      "title": "Google Colab免费获取GPU环境",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3135186",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "d324526630e7",
+      "title": "switch可免费领取巫师3和双人成行",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3133770",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "2b0732ba988e",
+      "title": "[EPIC 喜加一] 《GMH - Good Morning Human》厂商限免",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3133559",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "36b65667a5fd",
+      "title": "IOS 订阅管理与追踪 软件限免",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3133418",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "ec66679a4d39",
+      "title": "【智谱又发5亿token了】这次是周末限定活动，连着领token快一周了",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3133253",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "0b2b6531d2bb",
+      "title": "别忘记使用Linear AI额度 LennysProductPass , Linear Business +",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3133137",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "c7390add45de",
+      "title": "krio的opus5.5免费蹬（已结束）",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3132590",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "90b0ad8c3b92",
+      "title": "宝可梦机场之十一月庆典免费兑换码之猜猜我是谁",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3103825",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "61126dddf246",
+      "title": "大 Vibe coding 时代，Token 拿来吧你～",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3110232",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "81c5739fdae9",
+      "title": "Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3123997",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
+      "status": "active"
+    },
+    {
+      "id": "a16f1a680f77",
+      "title": "大 Vibe coding 时代，Token 也不白烧",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3131422",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-07T12:56:19+00:00",
+      "last_seen": "2026-11-07T12:56:19+00:00",
       "status": "active"
     }
   ]
