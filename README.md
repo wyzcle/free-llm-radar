@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-07 20:56 (UTC+8)** ｜ 有效条目：**167** ｜ 48h 内新增：**24** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(22)、rss(17)、mnfst/awesome-free-llm-apis(17)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-08 05:47 (UTC+8)** ｜ 有效条目：**167** ｜ 48h 内新增：**23** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(22)、rss(17)、mnfst/awesome-free-llm-apis(17)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -209,7 +209,7 @@ _暂无条目_
 | linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
 | r/LocalLLaMA | [We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new…](https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/)：Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI … | — | rss | 论坛帖 | 国际 | 11-07 🆕 |
-| r/LocalLLaMA | [[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Pe…](https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/)：We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achie… | — | rss | 论坛帖 | 国际 | 11-06 🆕 |
+| r/LocalLLaMA | [[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Pe…](https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/)：We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achie… | — | rss | 论坛帖 | 国际 | 11-06 |
 | r/LocalLLaMA | [The next frontier is integrating memory in a useful, human way.](https://www.reddit.com/r/LocalLLaMA/comments/1xo9eol/the_next_frontier_is_integrating_memory_in_a/)：IE, even for as trivial a use case as, if you mention you're a vegetarian in one chat, it never suggests a recipe with meat ever again, bec… | — | rss | 论坛帖 | 国际 | 11-05 |
 | r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xmarrf/paper_ridgefill_trainingfree_latelayer_cache_fill/)：We introduce RidgeFill, a training-free way to shorten prefill by not computing most of a model's upper layers for the prompt. The lower la… | — | rss | 论坛帖 | 国际 | 11-03 |
 | r/LocalLLaMA | [I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open W…](https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/)：https://i.redd.it/97has5lk21zh1.gif I've been running local LLMs through Open WebUI for a while now, and one thing I've always wished it ha… | — | rss | 论坛帖 | 国际 | 11-02 |
