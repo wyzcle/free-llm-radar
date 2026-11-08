@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-08 21:19 (UTC+8)** ｜ 有效条目：**167** ｜ 48h 内新增：**24** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(22)、rss(17)、mnfst/awesome-free-llm-apis(17)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-09 06:01 (UTC+8)** ｜ 有效条目：**167** ｜ 48h 内新增：**25** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(22)、rss(18)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -29,7 +29,7 @@
 _暂无条目_
 
 
-## 永久免费层（96）
+## 永久免费层（95）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -67,7 +67,6 @@ _暂无条目_
 | [Groq](https://console.groq.com/keys) | Free tier, no credit card. Ultra-fast LPU inference.｜免费模型 3 个：openai/gpt-oss-120b、openai/gpt-oss-20b、qwen/qwen3.8-27b｜限速: 30 RPM, 1,000 RPD | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Groq | 12 \| No \| 262K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Hetzner Inference API](https://experiments.hetzner.com/inference) | Card required \| 10 requests, 4M input / 100K output tokens per 60s (per API key) \| No daily cap published (free while the API is experimental); a Hetzner account with billing deta… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
-| [Hugging Face](https://huggingface.co/settings/tokens) | $0.10/month in Inference Provider credits for free users (subject to change). Routes to Fireworks, Together, Hyperbolic, Nebius, Novita, DeepInfra and others. Thousands of models.… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Hugging Face | 9 \| No \| 131K \| Text, Vision, Code \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [IBM watsonx.ai (Lite plan)](https://www.ibm.com/products/watsonx-ai/pricing) | Card required \| About 2 requests/second (Lite) \| 300,000 tokens/month + 20 CUH/month \| Granite 4 H Small, Llama 3.3 70B Instruct, Llama 4 Maverick, GPT-OSS 120B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [iFlytek Spark Lite](https://www.xfyun.cn/doc/spark/HTTP调用文档.html) | Phone verification \| Not published on the HTTP doc \| Not published (Lite is free) \| — \| Spark Lite | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -175,7 +174,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（39）
+## 社区动态（40）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -207,6 +206,7 @@ _暂无条目_
 | linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
 | linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
+| r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 🆕 |
 | r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 🆕 |
 | r/LocalLLaMA | [We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new…](https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/)：Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI … | — | rss | 论坛帖 | 国际 | 11-07 🆕 |
 | r/LocalLLaMA | [[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Pe…](https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/)：We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achie… | — | rss | 论坛帖 | 国际 | 11-06 |
