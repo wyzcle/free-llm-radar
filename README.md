@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-09 14:19 (UTC+8)** ｜ 有效条目：**175** ｜ 48h 内新增：**32** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(18)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-10 06:18 (UTC+8)** ｜ 有效条目：**175** ｜ 48h 内新增：**10** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(18)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -102,7 +102,7 @@ _暂无条目_
 | Ollama Cloud | 17 \| Registration \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Onomeo](https://onomeo.com) | Registration \| 12 requests/minute per key \| 30 free-model calls every 5 hours per account \| Glyph Cluster (stealth), Gemini 3.5 Flash-Lite, Muse Glimmer 30B, GLM-4.6V Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
 | OpenCode Zen | 34 \| Registration \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 16 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Crouton Alpha、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemotron 3.5 Super VL (free)、NVIDIA: Nemotron 3.5 Lightning (free… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 16 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling 2 Small (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemotron 3.5 Super VL (free)、NVIDIA: … | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 11 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 36 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenTyphoon (Typhoon API)](https://opentyphoon.ai) | No \| 5 requests/second, 200 RPM (text models); 20 RPM for OCR \| No daily cap published \| — \| Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5 | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -192,28 +192,28 @@ _暂无条目_
 | linux.do | [Apple music免费三个月羊毛](https://linux.do/t/topic/3142652) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
 | linux.do | [【富可敌国】【4Z API】11/8｜GPT Image 2.6、Muse 与 Eleven 新模型接入](https://linux.do/t/topic/3140235) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
 | linux.do | [给支付宝阿宝发“免费送我一度电” 获取生活缴费红包，【不一定有】](https://linux.do/t/topic/3139754) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
-| linux.do | [【破晓 API】充值 1:1｜GPT 0.09 倍率不降智 ！｜0.2官key 95%缓存｜进群送 5 刀 反馈3刀 首次签到3刀 活动持续派送中~｜用破晓 …](https://linux.do/t/topic/3081143) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [佬友们，看额度的软件是哪个？](https://linux.do/t/topic/3137347) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [Google one免费24个月 Gemini pro会员后续（注册机+网页拓展版本）开源](https://linux.do/t/topic/3127175) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [【富可敌国】【91Token】开启，Claude、GPT、Gemini、Seedance、GLM塞进了一个 Key，诚邀各位佬友体验](https://linux.do/t/topic/3131808) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [新人报道;gemini反代封号后,还有什么免费好用的AI吗!](https://linux.do/t/topic/3137394) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [【PM-Plan】Lite套餐可用的Free DS欸](https://linux.do/t/topic/3137067) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [OrinX智能驾驶域控制的LLM+ComfyUI+源码+工作流AI辅助全自动部署包](https://linux.do/t/topic/2974933) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [Vibe了一个基于ChKSz API的网易云音乐下载器](https://linux.do/t/topic/3137404) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [免费薅了一年的Google AI Pro，现在需要重新认证怎么处理？](https://linux.do/t/topic/3137280) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [香港支付宝 Apple 商店赠送 20 港币。](https://linux.do/t/topic/3136966) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [Qoder送 2000 Credits sonus额度 ，测试了一下好像是 gpt-6-astra](https://linux.do/t/topic/3136663) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [Google Colab免费获取GPU环境](https://linux.do/t/topic/3135186) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [switch可免费领取巫师3和双人成行](https://linux.do/t/topic/3133770) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [[EPIC 喜加一] 《GMH - Good Morning Human》厂商限免](https://linux.do/t/topic/3133559) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [IOS 订阅管理与追踪 软件限免](https://linux.do/t/topic/3133418) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [【智谱又发5亿token了】这次是周末限定活动，连着领token快一周了](https://linux.do/t/topic/3133253) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [别忘记使用Linear AI额度 LennysProductPass , Linear Business +](https://linux.do/t/topic/3133137) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [krio的opus5.5免费蹬（已结束）](https://linux.do/t/topic/3132590) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [宝可梦机场之十一月庆典免费兑换码之猜猜我是谁](https://linux.do/t/topic/3103825) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
-| linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
+| linux.do | [【破晓 API】充值 1:1｜GPT 0.09 倍率不降智 ！｜0.2官key 95%缓存｜进群送 5 刀 反馈3刀 首次签到3刀 活动持续派送中~｜用破晓 …](https://linux.do/t/topic/3081143) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [佬友们，看额度的软件是哪个？](https://linux.do/t/topic/3137347) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [Google one免费24个月 Gemini pro会员后续（注册机+网页拓展版本）开源](https://linux.do/t/topic/3127175) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [【富可敌国】【91Token】开启，Claude、GPT、Gemini、Seedance、GLM塞进了一个 Key，诚邀各位佬友体验](https://linux.do/t/topic/3131808) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [新人报道;gemini反代封号后,还有什么免费好用的AI吗!](https://linux.do/t/topic/3137394) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [【PM-Plan】Lite套餐可用的Free DS欸](https://linux.do/t/topic/3137067) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [OrinX智能驾驶域控制的LLM+ComfyUI+源码+工作流AI辅助全自动部署包](https://linux.do/t/topic/2974933) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [Vibe了一个基于ChKSz API的网易云音乐下载器](https://linux.do/t/topic/3137404) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [免费薅了一年的Google AI Pro，现在需要重新认证怎么处理？](https://linux.do/t/topic/3137280) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [香港支付宝 Apple 商店赠送 20 港币。](https://linux.do/t/topic/3136966) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [Qoder送 2000 Credits sonus额度 ，测试了一下好像是 gpt-6-astra](https://linux.do/t/topic/3136663) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [Google Colab免费获取GPU环境](https://linux.do/t/topic/3135186) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [switch可免费领取巫师3和双人成行](https://linux.do/t/topic/3133770) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [[EPIC 喜加一] 《GMH - Good Morning Human》厂商限免](https://linux.do/t/topic/3133559) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [IOS 订阅管理与追踪 软件限免](https://linux.do/t/topic/3133418) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [【智谱又发5亿token了】这次是周末限定活动，连着领token快一周了](https://linux.do/t/topic/3133253) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [别忘记使用Linear AI额度 LennysProductPass , Linear Business +](https://linux.do/t/topic/3133137) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [krio的opus5.5免费蹬（已结束）](https://linux.do/t/topic/3132590) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [宝可梦机场之十一月庆典免费兑换码之猜猜我是谁](https://linux.do/t/topic/3103825) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 🆕 |
 | r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 🆕 |
 | r/LocalLLaMA | [We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new…](https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/)：Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI … | — | rss | 论坛帖 | 国际 | 11-07 |
