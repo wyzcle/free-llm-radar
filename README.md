@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-09 06:01 (UTC+8)** ｜ 有效条目：**167** ｜ 48h 内新增：**25** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(22)、rss(18)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-09 14:19 (UTC+8)** ｜ 有效条目：**175** ｜ 48h 内新增：**32** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(18)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -174,7 +174,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（40）
+## 社区动态（48）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -184,6 +184,14 @@ _暂无条目_
 | HF 论坛 | [An AI coding agent deleted a live production database during a code freeze](https://discuss.huggingface.co/t/an-ai-coding-agent-deleted-a-live-production-database-during-a-code-freeze/191161)：SaaStr’s Jason Lemkin reported that Replit’s agent ignored explicit instructions not to alter code and deleted the database. It held record… | — | rss | 论坛帖 | 国际 | 10-29 |
 | HF 论坛 | [Can an AI system reason freely without becoming its own authority?](https://discuss.huggingface.co/t/can-an-ai-system-reason-freely-without-becoming-its-own-authority/191147)：Many discussions of AI safety focus on alignment: whether a model’s behavior matches human intent. I think there is a separate systems ques… | — | rss | 论坛帖 | 国际 | 10-29 |
 | HF 论坛 | [Little Mungbean • A free, open-source, simple, lightweight AI gateway manager](https://discuss.huggingface.co/t/little-mungbean-a-free-open-source-simple-lightweight-ai-gateway-manager/191137)：Little Mungbean • A free, open-source, simple, lightweight AI gateway manager that lets Codex and Claude clients share a switchable, observ… | — | rss | 论坛帖 | 国际 | 10-29 |
+| linux.do | [【富可敌国】ZeroCat 双 11 活动第二弹 \| 纯血 Claude 2 折起，企业 Coding 首选 \| 不降智 GPT 评论免费用 \| 活动期间充值…](https://linux.do/t/topic/3140286) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
+| linux.do | [🦐免费的虾蹬图床 · 公益图床](https://linux.do/t/topic/3144147) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
+| linux.do | [【富可敌国】ZeroCat 正式上线 \| 国模 2 折起 \| 自营Claude 满血不掺水 \| 评论送 $5 额度 \| 更有 L 站专属福利套餐](https://linux.do/t/topic/2845144) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
+| linux.do | [今天阿里发Token Plan额度上调70%以上，有买的必要吗？](https://linux.do/t/topic/3144179) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
+| linux.do | [Github免费短剧神器，手机电视电脑TV都能装](https://linux.do/t/topic/3143900) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
+| linux.do | [Apple music免费三个月羊毛](https://linux.do/t/topic/3142652) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
+| linux.do | [【富可敌国】【4Z API】11/8｜GPT Image 2.6、Muse 与 Eleven 新模型接入](https://linux.do/t/topic/3140235) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
+| linux.do | [给支付宝阿宝发“免费送我一度电” 获取生活缴费红包，【不一定有】](https://linux.do/t/topic/3139754) | — | linux.do | 论坛帖 | 国内 | 11-09 🆕 |
 | linux.do | [【破晓 API】充值 1:1｜GPT 0.09 倍率不降智 ！｜0.2官key 95%缓存｜进群送 5 刀 反馈3刀 首次签到3刀 活动持续派送中~｜用破晓 …](https://linux.do/t/topic/3081143) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
 | linux.do | [佬友们，看额度的软件是哪个？](https://linux.do/t/topic/3137347) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
 | linux.do | [Google one免费24个月 Gemini pro会员后续（注册机+网页拓展版本）开源](https://linux.do/t/topic/3127175) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
@@ -208,7 +216,7 @@ _暂无条目_
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 🆕 |
 | r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 🆕 |
 | r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 🆕 |
-| r/LocalLLaMA | [We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new…](https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/)：Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI … | — | rss | 论坛帖 | 国际 | 11-07 🆕 |
+| r/LocalLLaMA | [We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new…](https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/)：Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI … | — | rss | 论坛帖 | 国际 | 11-07 |
 | r/LocalLLaMA | [[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Pe…](https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/)：We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achie… | — | rss | 论坛帖 | 国际 | 11-06 |
 | r/LocalLLaMA | [The next frontier is integrating memory in a useful, human way.](https://www.reddit.com/r/LocalLLaMA/comments/1xo9eol/the_next_frontier_is_integrating_memory_in_a/)：IE, even for as trivial a use case as, if you mention you're a vegetarian in one chat, it never suggests a recipe with meat ever again, bec… | — | rss | 论坛帖 | 国际 | 11-05 |
 | r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xmarrf/paper_ridgefill_trainingfree_latelayer_cache_fill/)：We introduce RidgeFill, a training-free way to shorten prefill by not computing most of a model's upper layers for the prompt. The lower la… | — | rss | 论坛帖 | 国际 | 11-03 |
