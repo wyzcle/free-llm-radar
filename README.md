@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-10 15:13 (UTC+8)** ｜ 有效条目：**176** ｜ 48h 内新增：**11** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(19)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-11 03:42 (UTC+8)** ｜ 有效条目：**177** ｜ 48h 内新增：**11** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(20)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -104,7 +104,7 @@ _暂无条目_
 | OpenCode Zen | 34 \| Registration \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 16 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling 2 Small (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、NVIDIA: Nemotron 3.5 Super VL (free)、NVIDIA: … | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 11 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| OpenRouter | 36 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OpenRouter | 37 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenTyphoon (Typhoon API)](https://opentyphoon.ai) | No \| 5 requests/second, 200 RPM (text models); 20 RPM for OCR \| No daily cap published \| — \| Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5 | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM per IP per model (anonymous, free); 400 RPM with a key (pay-as-you-go) \| Unspecified \| Beta Access \| GPT OSS 120B, BGE-M3 (embeddings), Whisper Large v3 Turbo… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) | Free anonymous tier (no API key, no signup): 2 RPM per IP per model. 20+ open-weight models hosted in EU. OpenAI SDK-compatible.｜免费模型 9 个：Qwen3.5-397B-A17B、gpt-oss-120b、gpt-oss-20… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
@@ -174,7 +174,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（49）
+## 社区动态（50）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -214,13 +214,14 @@ _暂无条目_
 | linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| r/LocalLLaMA | [Comparisons to previous Gen "Frontier"?](https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier/)：There are a lot of comparisons of open-weight models to the current frontier, especially comparisons to Fable/Opus 5.5. I have been stickin… | — | rss | 论坛帖 | 国际 | 11-11 🆕 |
 | r/LocalLLaMA | [Free, open-source voice typing for any app on Android and iPhone: the speech mo…](https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/)：I wanted voice typing that doesn't send my voice to a server, so I built ThumbFree. It runs NVIDIA's Parakeet 0.6B speech model right on th… | — | rss | 论坛帖 | 国际 | 11-10 🆕 |
 | r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 🆕 |
-| r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 🆕 |
+| r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 |
 | r/LocalLLaMA | [We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new…](https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/)：Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI … | — | rss | 论坛帖 | 国际 | 11-07 |
 | r/LocalLLaMA | [[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Pe…](https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/)：We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achie… | — | rss | 论坛帖 | 国际 | 11-06 |
 | r/LocalLLaMA | [The next frontier is integrating memory in a useful, human way.](https://www.reddit.com/r/LocalLLaMA/comments/1xo9eol/the_next_frontier_is_integrating_memory_in_a/)：IE, even for as trivial a use case as, if you mention you're a vegetarian in one chat, it never suggests a recipe with meat ever again, bec… | — | rss | 论坛帖 | 国际 | 11-05 |
-| r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xmarrf/paper_ridgefill_trainingfree_latelayer_cache_fill/)：We introduce RidgeFill, a training-free way to shorten prefill by not computing most of a model's upper layers for the prompt. The lower la… | — | rss | 论坛帖 | 国际 | 11-03 |
+| r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xsvm7b/paper_ridgefill_trainingfree_latelayer_cache_fill/)：RidgeFill is a training-free speculative prefill method that cuts the wait before a model starts answering. On Qwen3.8-27B, we get 1.25–1.3… | — | rss | 论坛帖 | 国际 | 11-03 |
 | r/LocalLLaMA | [I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open W…](https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/)：https://i.redd.it/97has5lk21zh1.gif I've been running local LLMs through Open WebUI for a while now, and one thing I've always wished it ha… | — | rss | 论坛帖 | 国际 | 11-02 |
 | r/LocalLLaMA | [Agentic AI w/frontier models??](https://www.reddit.com/r/LocalLLaMA/comments/1xkox4q/agentic_ai_wfrontier_models/)：If you watch much Youtube around AI, you'll see a bunch of people setting up these complex agentic workflows (or, even worse, &quot;Jarvis&… | — | rss | 论坛帖 | 国际 | 11-01 |
 | r/LocalLLaMA | [[Release] Morgana 1.2: A photography-focused FLUX.2 Klein 4B finetune for reali…](https://www.reddit.com/r/LocalLLaMA/comments/1xkgbhu/release_morgana_12_a_photographyfocused_flux2/)：Morgana 1.2 is Kitani‘s photography focused finetune of Flux.2 Klein 4b. Our goal for the fine tune was for Klein to make images that don’t… | — | rss | 论坛帖 | 国际 | 11-01 |
