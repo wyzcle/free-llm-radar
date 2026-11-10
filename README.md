@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-10 06:18 (UTC+8)** ｜ 有效条目：**175** ｜ 48h 内新增：**10** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(18)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-10 15:13 (UTC+8)** ｜ 有效条目：**176** ｜ 48h 内新增：**11** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(19)、mnfst/awesome-free-llm-apis(16)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -174,7 +174,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（48）
+## 社区动态（49）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -214,6 +214,7 @@ _暂无条目_
 | linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| r/LocalLLaMA | [Free, open-source voice typing for any app on Android and iPhone: the speech mo…](https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/)：I wanted voice typing that doesn't send my voice to a server, so I built ThumbFree. It runs NVIDIA's Parakeet 0.6B speech model right on th… | — | rss | 论坛帖 | 国际 | 11-10 🆕 |
 | r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 🆕 |
 | r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 🆕 |
 | r/LocalLLaMA | [We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new…](https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/)：Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI … | — | rss | 论坛帖 | 国际 | 11-07 |
