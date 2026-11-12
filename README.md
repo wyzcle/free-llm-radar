@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-12 23:09 (UTC+8)** ｜ 有效条目：**177** ｜ 48h 内新增：**4** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(21)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-13 07:36 (UTC+8)** ｜ 有效条目：**178** ｜ 48h 内新增：**4** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(22)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -101,7 +101,7 @@ _暂无条目_
 | Ollama Cloud | 17 \| Registration \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Onomeo](https://onomeo.com) | Registration \| 12 requests/minute per key \| 30 free-model calls every 5 hours per account \| Glyph Cluster (stealth), Gemini 3.5 Flash-Lite, Muse Glimmer 30B, GLM-4.6V Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
 | OpenCode Zen | 34 \| Registration \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 16 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling 2 Small (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Baidu: ERNIE-5.5-Flash-Preview (free)、NVIDIA:… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 18 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Thinking Machines: Inkling 2 Small (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Baidu: ERNIE-5… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 11 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 38 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenTyphoon (Typhoon API)](https://opentyphoon.ai) | No \| 5 requests/second, 200 RPM (text models); 20 RPM for OCR \| No daily cap published \| — \| Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5 | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -173,7 +173,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（51）
+## 社区动态（52）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -216,7 +216,8 @@ _暂无条目_
 | linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| r/LocalLLaMA | [Comparisons to previous Gen "Frontier"?](https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier/)：There are a lot of comparisons of open-weight models to the current frontier, especially comparisons to Fable/Opus 5.5. I have been stickin… | — | rss | 论坛帖 | 国际 | 11-11 🆕 |
+| r/LocalLLaMA | [2.8 hours of inference for 30 seconds of simulated walking: do robots still nee…](https://www.reddit.com/r/LocalLLaMA/comments/1xumnei/28_hours_of_inference_for_30_seconds_of_simulated/)：The question keeps coming up: are frontier multimodal models going to make dedicated robot models (VLAs, world models, the whole embodied s… | — | rss | 论坛帖 | 国际 | 11-13 🆕 |
+| r/LocalLLaMA | [Comparisons to previous Gen "Frontier"?](https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier/)：There are a lot of comparisons of open-weight models to the current frontier, especially comparisons to Fable/Opus 5.5. I have been stickin… | — | rss | 论坛帖 | 国际 | 11-11 |
 | r/LocalLLaMA | [Free, open-source voice typing for any app on Android and iPhone: the speech mo…](https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/)：I wanted voice typing that doesn't send my voice to a server, so I built ThumbFree. It runs NVIDIA's Parakeet 0.6B speech model right on th… | — | rss | 论坛帖 | 国际 | 11-10 |
 | r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 |
 | r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 |
