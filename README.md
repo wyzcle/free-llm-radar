@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-13 07:36 (UTC+8)** ｜ 有效条目：**178** ｜ 48h 内新增：**4** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(22)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-13 14:39 (UTC+8)** ｜ 有效条目：**176** ｜ 48h 内新增：**4** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(20)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -173,7 +173,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（52）
+## 社区动态（50）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -185,7 +185,6 @@ _暂无条目_
 | HF 论坛 | [Freedream-1B-Instruct V1.1 from scratch published!](https://discuss.huggingface.co/t/freedream-1b-instruct-v1-1-from-scratch-published/191265)：Hello guys, I am a grade 8 student nicknamed Digilidaahz, this is an 1B model trained from scratch with a single rtx5080 and ddr5 65gb. V1.… | — | rss | 论坛帖 | 国际 | 10-31 |
 | HF 论坛 | [An AI coding agent deleted a live production database during a code freeze](https://discuss.huggingface.co/t/an-ai-coding-agent-deleted-a-live-production-database-during-a-code-freeze/191161)：SaaStr’s Jason Lemkin reported that Replit’s agent ignored explicit instructions not to alter code and deleted the database. It held record… | — | rss | 论坛帖 | 国际 | 10-29 |
 | HF 论坛 | [Can an AI system reason freely without becoming its own authority?](https://discuss.huggingface.co/t/can-an-ai-system-reason-freely-without-becoming-its-own-authority/191147)：Many discussions of AI safety focus on alignment: whether a model’s behavior matches human intent. I think there is a separate systems ques… | — | rss | 论坛帖 | 国际 | 10-29 |
-| HF 论坛 | [Little Mungbean • A free, open-source, simple, lightweight AI gateway manager](https://discuss.huggingface.co/t/little-mungbean-a-free-open-source-simple-lightweight-ai-gateway-manager/191137)：Little Mungbean • A free, open-source, simple, lightweight AI gateway manager that lets Codex and Claude clients share a switchable, observ… | — | rss | 论坛帖 | 国际 | 10-29 |
 | linux.do | [【富可敌国】ZeroCat 双 11 活动第二弹 \| 纯血 Claude 2 折起，企业 Coding 首选 \| 不降智 GPT 评论免费用 \| 活动期间充值…](https://linux.do/t/topic/3140286) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [🦐免费的虾蹬图床 · 公益图床](https://linux.do/t/topic/3144147) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [【富可敌国】ZeroCat 正式上线 \| 国模 2 折起 \| 自营Claude 满血不掺水 \| 评论送 $5 额度 \| 更有 L 站专属福利套餐](https://linux.do/t/topic/2845144) | — | linux.do | 论坛帖 | 国内 | 11-09 |
@@ -228,7 +227,6 @@ _暂无条目_
 | r/LocalLLaMA | [I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open W…](https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/)：https://i.redd.it/97has5lk21zh1.gif I've been running local LLMs through Open WebUI for a while now, and one thing I've always wished it ha… | — | rss | 论坛帖 | 国际 | 11-02 |
 | r/LocalLLaMA | [Agentic AI w/frontier models??](https://www.reddit.com/r/LocalLLaMA/comments/1xkox4q/agentic_ai_wfrontier_models/)：If you watch much Youtube around AI, you'll see a bunch of people setting up these complex agentic workflows (or, even worse, &quot;Jarvis&… | — | rss | 论坛帖 | 国际 | 11-01 |
 | r/LocalLLaMA | [[Release] Morgana 1.2: A photography-focused FLUX.2 Klein 4B finetune for reali…](https://www.reddit.com/r/LocalLLaMA/comments/1xkgbhu/release_morgana_12_a_photographyfocused_flux2/)：Morgana 1.2 is Kitani‘s photography focused finetune of Flux.2 Klein 4b. Our goal for the fine tune was for Klein to make images that don’t… | — | rss | 论坛帖 | 国际 | 11-01 |
-| r/LocalLLaMA | [Free web search for my local agent stopped working. What are you paying per 1,0…](https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/)：My research agent ran on a free search API for months until every call started failing last week and the SearXNG box I set up instead keeps… | — | rss | 论坛帖 | 国际 | 10-30 |
 
 
 ---
