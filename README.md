@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-14 21:34 (UTC+8)** ｜ 有效条目：**177** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(21)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-15 06:21 (UTC+8)** ｜ 有效条目：**177** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(21)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -33,11 +33,11 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Agnes AI | 5 \| Registration \| 256K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Agnes AI | 6 \| No \| 256K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [AI Horde (OpenAI-compatible front)](https://aihorde.net) | No \| Queue-based; anonymous requests have the lowest priority, registered users earn kudos for priority \| No fixed cap (volunteer capacity) \| — \| Gemma 4 E4B IT, Qwen3 4B, Llama 3… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | AI21 Labs | 2 \| Registration \| 256K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [AIHubMix (free models)](https://aihubmix.com) | Registration \| 5 RPM per account on most *-free routes \| 100 requests/day and 1M tokens/day per account (500 RPD on some, e.g. glm-4.7-flash-free, coding-minimax-m3-free) \| Coding… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
-| Aion Labs | 11 \| Registration \| 131K \| Text, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Aion Labs | 4 \| No \| 128K \| Text, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Alibaba Cloud Model Studio | 5 \| Registration \| 1M \| Text, Vision, Code \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [AnyAPI](https://anyapi.ai) | No \| Limited API calls on the Free plan (exact RPM not published) \| 100K ANY tokens per day, free models only \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Api.Airforce](https://api.airforce/) | No \| 1 RPM \| 1,000 requests/day \| Free plan, $0/month \| GPT-OSS 20B, GLM-4.7 Flash, Essential AI RNJ 1, Kimi K2.7 Code | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
@@ -46,26 +46,26 @@ _暂无条目_
 | [BentoML](https://www.bentoml.com/) | Inference platform \| Deploy any AI/ML model anywhere, production-grade `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Bytez](https://docs.bytez.com/model-api/docs/billing) | Registration \| 1 concurrent request (open models); 10 requests/second (closed models) \| $1 free credits, refreshed every 4 weeks \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | Cerebras | 6 \| No \| 131K \| Text, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| Chutes.ai | 2 \| Registration \| 131K \| Text, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Chutes.ai | 2 \| No \| 131K \| Text, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Cline | 3 \| Registration \| 0 \| Text, Vision \| - | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) | 2457 neurons per M input tokens ｜ 18252 neurons per M output tokens ｜ 4625 neurons per M input tokens ｜ 30475 neurons per M output tokens ｜ 4119 neurons per M input tokens ｜ 34868… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
-| Cloudflare Workers AI | 47 \| No \| 262K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| Cohere | 12 \| No \| 256K \| Text, Vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Cloudflare Workers AI | 41 \| No \| 262K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Cohere | 10 \| No \| 256K \| Text, Vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Coze](https://www.coze.com/) | Registration \| Varies by model \| Token-based daily limits \| Resets daily \| GPT-4o (via Coze), Gemini 1.5 Pro (via Coze) | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | DeepSeek | 2 \| Registration \| 128K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Experiential Labs](https://www.experientiallabs.ai/pricing) | Card required \| 10 RPM and 250K TPM per free core model \| 1M input+output tokens/day shared across free core models, reset 00:00 UTC \| GPT-6 Luna, DeepSeek V4.1 Flash 1017, Clef F… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [FreeInference](https://freeinference.org) | No \| Not published ("generous quota"; HTTP 429 when rate-limited) \| No published daily cap \| — \| GLM-5.3 Flash, DeepSeek V4 Flash, MiniMax M3, Qwen3.6 35B A3B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
-| Glhf.chat | 2 \| Registration \| 131K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Glhf.chat | 2 \| No \| 131K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Gonka Broker](https://gonkabroker.com) | Phone verification \| Network limits (see docs.gonkabroker.com Limits & Quotas) \| Monthly free token grant after SMS verification (does not accumulate) \| GLM-5.3 Flash, DeepSeek V4… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
-| Gonka Broker | 4 \| Registration \| 400K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 10-24 |
+| Gonka Broker | 4 \| No \| 400K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 10-24 |
 | [Gonka Broker](https://app.gonkabroker.com/signup) | Permanent free tier, no credit card required; phone verification required. ~1M tokens/month (shared, varies by model), resets monthly. Model lineup rotates with network governance… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 10-24 |
 | [Google AI Studio](https://aistudio.google.com/) | No \| Varies by model (per-model limits are now shown only inside AI Studio) \| Varies by model. Free: Gemini 3.x Flash / Flash-Lite and Gemini 2.5 Pro/Flash (2.5 redirect to 3.x on… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Google Gemini](https://aistudio.google.com/app/apikey) | Free tier, no credit card. Free-tier prompts may be used by Google to improve products. Native API base URL: https://generativelanguage.googleapis.com/v1beta OpenAI-compatible bas… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Google Gemini | 20 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Google Gemini | 12 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | GPT4All | Desktop app \| CPU-only, no GPU required, open source `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Grok (xAI) | 2 \| Registration \| 131K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Groq](https://console.groq.com/keys) | Free tier, no credit card. Ultra-fast LPU inference.｜免费模型 3 个：openai/gpt-oss-120b、openai/gpt-oss-20b、qwen/qwen3.8-27b｜限速: 30 RPM, 1,000 RPD, 8,000 TPM, 200,000 TPD | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Groq | 15 \| No \| 262K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Groq | 6 \| No \| 131K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Hetzner Inference API](https://experiments.hetzner.com/inference) | Card required \| 10 requests, 4M input / 100K output tokens per 60s (per API key) \| No daily cap published (free while the API is experimental); a Hetzner account with billing deta… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Hugging Face | 9 \| No \| 131K \| Text, Vision, Code \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [IBM watsonx.ai (Lite plan)](https://www.ibm.com/products/watsonx-ai/pricing) | Card required \| About 2 requests/second (Lite) \| 300,000 tokens/month + 20 CUH/month \| Granite 4 H Small, Llama 3.3 70B Instruct, Llama 4 Maverick, GPT-OSS 120B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -75,39 +75,39 @@ _暂无条目_
 | Jan.ai | Desktop app \| Privacy-focused, 100% offline ChatGPT alternative `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Kilo AI Gateway](https://kilo.ai/gateway) | No \| 200 requests/hour per IP on free models (anonymous use allowed) \| Default free models only \| Free plan, no expiry \| Nemotron 3.5 Lightning, Nemotron 3 Nano Omni Reasoning, Do… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | [Kilo Code](https://app.kilo.ai/profile) | Free models with no credit card and no API key required. kilo-auto/free auto-router dynamically routes to models in the free pool.｜免费模型 9 个：nvidia/nemotron-3-ultra-550b-a55b:free、… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Kilo Code | 29 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Kilo Code | 16 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Kiosapi.id](https://kiosapi.id/pricing) | Registration \| 5 requests/minute (free models) \| 50 requests/day per account shared across free models, reset 07:00 WIB \| GLM 4.7 Flash, Qwen3 30B, Gemma 4 26B, Llama 3.1 8B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | KoboldCpp | Single executable \| Optimized for creative writing, GGUF `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | llama.cpp | C/C++ engine \| Runs any GGUF, minimal dependencies `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [llamafile](https://github.com/mozilla-ai/llamafile) | Single executable \| Multi-platform, combines llama.cpp + Cosmopolitan Libc `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [LLM.kiwi](https://llm.kiwi/pricing) | Registration \| Baseline rate limits (figures not published) \| Not published \| — \| Auto router, MiniMax M3, Nemotron 3 Ultra, Nemotron 3 Super | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [LLM7.io](https://token.llm7.io) | API gateway with a free tier. Anonymous access needs no key and reaches the turbo models; a free token from token.llm7.io raises the rate and token limits but reaches the same mod… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| LLM7.io | 24 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| LLM7.io | 4 \| No \| 1M \| Text, Code, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | LM Studio | Desktop GUI \| Any GGUF model, built-in model browser, offline `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [MegaNova AI](https://docs.meganova.ai/tiers) | No \| Tier 1 (free): 20-200 RPM \| Tier 1: 50-500 free-model requests/day (varies by model) \| Manta Pro 1.0, Manta Flash 1.0, Manta Mini 1.0, Mistral Small 3.2 24B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Mistral (La Plateforme)](https://console.mistral.ai/) | Phone verification \| 1 request/second \| - \| Free \| Mistral Small, Mistral Large 4 (Preview), Codestral 2508, Ministral 3 8B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Mistral AI](https://console.mistral.ai/api-keys) | Free mode, enabled by default, no credit card required. Free-mode prompts may be used to train Mistral models unless you opt out.｜免费模型 7 个：Mistral Medium 3.5 (128B)、Mistral Small … | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Mistral AI | 15 \| No \| 256K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Mistral AI | 10 \| No \| 256K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Mixlayer](https://docs.mixlayer.com/credits-and-limits) | Registration \| Per-organization, per-model RPM/TPM (values shown in console only) \| Not published \| — \| Qwen3.5 4B (free) | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Moark (Gitee AI)](https://moark.com/docs/FAQ) | Phone verification \| Not published \| 100 free calls/day per user (free experience access token) \| DeepSeek V4 Flash 0731, GLM 5.3 Flash, Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [ModelScope](https://modelscope.cn/my/myaccesstoken) | Free API-Inference for registered users. Requires Alibaba Cloud account binding + real-name verification.｜免费模型 3 个：Qwen/Qwen3.5-35B-A3B、Qwen/Qwen3.5-27B、+ API-Inference-enabled mo… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
-| ModelScope | 61 \| Registration \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| ModelScope | 33 \| Registration \| 1M \| Vision, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Nebius | 1 \| Registration \| 128K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Nous Portal](https://portal.nousresearch.com) | Card required \| Standard rate limits (figures not published) \| Free models only (no monthly credit) \| Free tier: $0/month. A GitHub user reported (14 Sep 2026) that a payment meth… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | Nscale | 2 \| Registration \| 128K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [NVIDIA NIM](https://build.nvidia.com/explore/discover) | Free with NVIDIA Developer Program membership. 100+ models. Rate-limited per model.｜免费模型 3 个：nvidia/nemotron-3-ultra-550b-a55b、openai/gpt-oss-20b、+ 92 more models | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| NVIDIA NIM | 139 \| Phone verification \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| NVIDIA NIM | 81 \| Phone verification \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama | CLI + API \| 100+ models, GPU acceleration, OpenAI-compatible endpoint `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| Ollama Cloud | 17 \| Registration \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Ollama Cloud | 8 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Onomeo](https://onomeo.com) | Registration \| 12 requests/minute per key \| 30 free-model calls every 5 hours per account \| Glyph Cluster (stealth), Gemini 3.5 Flash-Lite, Muse Glimmer 30B, GLM-4.6V Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
-| OpenCode Zen | 34 \| Registration \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OpenCode Zen | 22 \| Registration \| 1M \| Vision, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 17 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：inclusionAI: Ling 3.2 Flash (free)、Thinking Machines: Inkling 2 Small (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: … | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 10 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| OpenRouter | 40 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OpenRouter | 21 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenTyphoon (Typhoon API)](https://opentyphoon.ai) | No \| 5 requests/second, 200 RPM (text models); 20 RPM for OCR \| No daily cap published \| — \| Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5 | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM per IP per model (anonymous, free); 400 RPM with a key (pay-as-you-go) \| Unspecified \| Beta Access \| GPT OSS 120B, BGE-M3 (embeddings), Whisper Large v3 Turbo… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) | Free anonymous tier (no API key, no signup): 2 RPM per IP per model. 20+ open-weight models hosted in EU. OpenAI SDK-compatible.｜免费模型 9 个：Qwen3.5-397B-A17B、gpt-oss-120b、gpt-oss-20… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| OVHcloud AI Endpoints | 16 \| Registration \| 262K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| OVHcloud AI Endpoints | 8 \| No \| 262K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Pollinations.ai](https://pollinations.ai) | No \| API key required (anonymous access removed); no card \| Free usage paid from Quest Pollen earned in the dashboard \| Free, no billing system \| GPT-OSS 20B, Mistral Large 3, Kim… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Requesty](https://requesty.ai/) | No \| 20 RPM on free models (60 RPM for paying orgs) \| 200 requests/day (new orgs) / 1,000/day (paying orgs), shared across free models \| Gemma 4 31B IT, Ling 3.0 Tiny, Nemotron 3 … | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Routeway](https://routeway.ai/) | Registration \| 5 RPM on :free models \| 200 requests/day \| Starter plan free, shared queue \| DeepSeek V4.1 Flash (free), MiniMax M3.1 Flash (free), Muse Glimmer 30B | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
@@ -116,14 +116,14 @@ _暂无条目_
 | [SEA-LION API](https://docs.sea-lion.ai/guides/inferencing/api) | Registration \| 10 requests/minute per user (increase on request: sealion@aisingapore.org) \| Not published \| — \| Qwen SEA-LION v4.5 27B Instruct, Llama SEA-LION v3.5 70B Reasoning,… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [SenseNova (SenseTime)](https://www.sensenova.cn/token-plan) | Phone verification \| Not published \| Not published (\"限时放量\" during public beta) \| — \| SenseNova 6.8 Flash Lite | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [SiliconFlow](https://cloud.siliconflow.cn/account/ak) | Permanently free models, no credit card required. Identity verification required. 100+ models in the catalog, most of them paid.｜免费模型 2 个：tencent/Hunyuan-MT-7B、XingChenAGI/Xing4.0… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
-| SiliconFlow | 6 \| Registration \| 131K \| Text, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| SiliconFlow | 2 \| No \| 0 \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [SimpleLLM](https://simplellm.eu/docs/) | Registration \| Account-specific (read via GET /v1/rate-limit) \| Free-model hourly/daily request and token allowances (values per account, not published) \| Llama 3.1 8B Free, Gemma… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Text Generation WebUI](https://github.com/oobabooga/textgen) | Gradio UI \| Highly customizable, advanced local experimentation `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Token Harbor](https://tokenharbor.ai) | Registration \| 60 requests/min and 1,800/hour per account (100/min, 3,000/hour per IP) \| Free allowance, resets on a rolling 7-day period \| DeepSeek V4.1 Flash, MiMo V2.6 Flash, T… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
 | [Vercel AI Gateway](https://vercel.com/ai-gateway) | Registration \| Lower per-model limits than the paid tier (429 on excess) \| $5/month \| Nemotron 3.5 Lightning (free), Llama 3.3 70B, MiniMax M3.1 Flash, GLM-4.7 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | xAI | 3 \| Registration \| 2M \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Z AI (Zhipu AI)](https://open.bigmodel.cn/usercenter/apikeys) | Permanent free models, no credit card required.｜免费模型 3 个：GLM-4.7-Flash、GLM-4.5-Flash (retirement announced)、GLM-4.6V-Flash｜限速: 1 concurrent request | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国内 | 09-03 |
-| Z AI (Zhipu AI) | 8 \| No \| 200K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Z AI (Zhipu AI) | 4 \| No \| 200K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Z.AI (GLM)](https://z.ai/) | Registration \| ~1 request/second (Flash models) \| ~1,000 requests/day (Flash tier) \| Free tier ongoing, subject to change \| GLM-4.6V-Flash (vision), GLM-4.5-Flash, GLM-4.7-Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Zhipu BigModel (China)](https://docs.bigmodel.cn/cn/guide/start/model-overview) | Phone verification \| Low concurrency on free Flash models (GLM-4.7-Flash reported at 1 concurrent request) \| Not published \| — \| GLM-4.7-Flash, GLM-4.5-Flash, GLM-4-Flash-250414, … | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Zro (MoonMath)](https://zro.moonmath.ai) | Registration \| Daily usage allowance (amount not published) \| Resets every day (Flash models only) \| GLM-5.3 Flash, DeepSeek V4.1 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -177,7 +177,7 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [Build a Gradio Contact Sheet for Clips From a Free AI Video Generator](https://discuss.huggingface.co/t/build-a-gradio-contact-sheet-for-clips-from-a-free-ai-video-generator/191765)：Two versions of a five-second clip can look similar in the player. Put their opening, midpoint, and ending on a contact sheet and a reviewe… | — | rss | 论坛帖 | 国际 | 11-12 🆕 |
+| HF 论坛 | [Build a Gradio Contact Sheet for Clips From a Free AI Video Generator](https://discuss.huggingface.co/t/build-a-gradio-contact-sheet-for-clips-from-a-free-ai-video-generator/191765)：Two versions of a five-second clip can look similar in the player. Put their opening, midpoint, and ending on a contact sheet and a reviewe… | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Will certificate of completion of this course will be provided in free](https://discuss.huggingface.co/t/will-certificate-of-completion-of-this-course-will-be-provided-in-free/191759)：Will certificate of completion of this course will be provided in free 1 post - 1 participant Read full topic | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Coding or Cheating? An Investigation of Frontier Coding LLMs](https://discuss.huggingface.co/t/coding-or-cheating-an-investigation-of-frontier-coding-llms/191752)：Hi, let me introduce our recent work here: Read full: Paper page - Coding or Cheating? An Investigation of Frontier Coding LLMs Read arxiv:… | — | rss | 论坛帖 | 国际 | 11-11 |
 | HF 论坛 | [MWT Voice – A Free AI Text-to-Speech Studio with Kitten TTS, Kokoro TTS & Pocke…](https://discuss.huggingface.co/t/mwt-voice-a-free-ai-text-to-speech-studio-with-kitten-tts-kokoro-tts-pocket-tts/191314)：MWT Voice – A Free AI Voice and Audio Studio That Works Offline Try the live application: https://voice.mwtlabs.uk/ I’m excited to introduc… | — | rss | 论坛帖 | 国际 | 11-02 |
@@ -213,6 +213,7 @@ _暂无条目_
 | linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 |
+| r/LocalLLaMA | [Hot take: frontier models haven’t actually become much smarter](https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/)：I know this is a controversial take, but I would like to hear others’ opinions: LLMs have become much more useful, but I’m not convinced th… | — | rss | 论坛帖 | 国际 | 11-15 🆕 |
 | r/LocalLLaMA | [🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Ag…](https://www.reddit.com/r/LocalLLaMA/comments/1xvujf1/harborrl_update_elastic_scaling_sshfree_cluster/)：🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Agentic RL Training We’ve recently updated HarborRL , an open-… | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
 | r/LocalLLaMA | [Do you believe there will be a divergence between local and frontier model powe…](https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/)：Right now, local models have somewhat kept up with frontier, being months behind last frontier models. The issue is, I think the divide is … | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
 | r/LocalLLaMA | [Are any of the other 'free' models worth using?](https://www.reddit.com/r/LocalLLaMA/comments/1xvlgkh/are_any_of_the_other_free_models_worth_using/)：When I was using opencode, I would just use the daily free Deepseek 4.1 allowance for when I wanted to test something using a bigger/better… | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
@@ -227,7 +228,6 @@ _暂无条目_
 | r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xsvm7b/paper_ridgefill_trainingfree_latelayer_cache_fill/)：RidgeFill is a training-free speculative prefill method that cuts the wait before a model starts answering. On Qwen3.8-27B, we get 1.25–1.3… | — | rss | 论坛帖 | 国际 | 11-03 |
 | r/LocalLLaMA | [I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open W…](https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/)：https://i.redd.it/97has5lk21zh1.gif I've been running local LLMs through Open WebUI for a while now, and one thing I've always wished it ha… | — | rss | 论坛帖 | 国际 | 11-02 |
 | r/LocalLLaMA | [Agentic AI w/frontier models??](https://www.reddit.com/r/LocalLLaMA/comments/1xkox4q/agentic_ai_wfrontier_models/)：If you watch much Youtube around AI, you'll see a bunch of people setting up these complex agentic workflows (or, even worse, &quot;Jarvis&… | — | rss | 论坛帖 | 国际 | 11-01 |
-| r/LocalLLaMA | [[Release] Morgana 1.2: A photography-focused FLUX.2 Klein 4B finetune for reali…](https://www.reddit.com/r/LocalLLaMA/comments/1xkgbhu/release_morgana_12_a_photographyfocused_flux2/)：Morgana 1.2 is Kitani‘s photography focused finetune of Flux.2 Klein 4b. Our goal for the fine tune was for Klein to make images that don’t… | — | rss | 论坛帖 | 国际 | 11-01 |
 
 
 ---
