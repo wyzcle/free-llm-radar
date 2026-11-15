@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-15 06:21 (UTC+8)** ｜ 有效条目：**177** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(21)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-15 14:24 (UTC+8)** ｜ 有效条目：**178** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(22)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -173,10 +173,11 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（51）
+## 社区动态（52）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [MiniLab LLM — Free French course to understand how LLMs and Transformers work](https://discuss.huggingface.co/t/minilab-llm-free-french-course-to-understand-how-llms-and-transformers-work/191867)：Hi everyone! I’d like to share MiniLab LLM , a free educational project I’ve been building to help French-speaking developers and students … | — | rss | 论坛帖 | 国际 | 11-15 🆕 |
 | HF 论坛 | [Build a Gradio Contact Sheet for Clips From a Free AI Video Generator](https://discuss.huggingface.co/t/build-a-gradio-contact-sheet-for-clips-from-a-free-ai-video-generator/191765)：Two versions of a five-second clip can look similar in the player. Put their opening, midpoint, and ending on a contact sheet and a reviewe… | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Will certificate of completion of this course will be provided in free](https://discuss.huggingface.co/t/will-certificate-of-completion-of-this-course-will-be-provided-in-free/191759)：Will certificate of completion of this course will be provided in free 1 post - 1 participant Read full topic | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Coding or Cheating? An Investigation of Frontier Coding LLMs](https://discuss.huggingface.co/t/coding-or-cheating-an-investigation-of-frontier-coding-llms/191752)：Hi, let me introduce our recent work here: Read full: Paper page - Coding or Cheating? An Investigation of Frontier Coding LLMs Read arxiv:… | — | rss | 论坛帖 | 国际 | 11-11 |
@@ -217,7 +218,7 @@ _暂无条目_
 | r/LocalLLaMA | [🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Ag…](https://www.reddit.com/r/LocalLLaMA/comments/1xvujf1/harborrl_update_elastic_scaling_sshfree_cluster/)：🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Agentic RL Training We’ve recently updated HarborRL , an open-… | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
 | r/LocalLLaMA | [Do you believe there will be a divergence between local and frontier model powe…](https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/)：Right now, local models have somewhat kept up with frontier, being months behind last frontier models. The issue is, I think the divide is … | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
 | r/LocalLLaMA | [Are any of the other 'free' models worth using?](https://www.reddit.com/r/LocalLLaMA/comments/1xvlgkh/are_any_of_the_other_free_models_worth_using/)：When I was using opencode, I would just use the daily free Deepseek 4.1 allowance for when I wanted to test something using a bigger/better… | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
-| r/LocalLLaMA | [2.8 hours of inference for 30 seconds of simulated walking: do robots still nee…](https://www.reddit.com/r/LocalLLaMA/comments/1xumnei/28_hours_of_inference_for_30_seconds_of_simulated/)：The question keeps coming up: are frontier multimodal models going to make dedicated robot models (VLAs, world models, the whole embodied s… | — | rss | 论坛帖 | 国际 | 11-13 🆕 |
+| r/LocalLLaMA | [2.8 hours of inference for 30 seconds of simulated walking: do robots still nee…](https://www.reddit.com/r/LocalLLaMA/comments/1xumnei/28_hours_of_inference_for_30_seconds_of_simulated/)：The question keeps coming up: are frontier multimodal models going to make dedicated robot models (VLAs, world models, the whole embodied s… | — | rss | 论坛帖 | 国际 | 11-13 |
 | r/LocalLLaMA | [Comparisons to previous Gen "Frontier"?](https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier/)：There are a lot of comparisons of open-weight models to the current frontier, especially comparisons to Fable/Opus 5.5. I have been stickin… | — | rss | 论坛帖 | 国际 | 11-11 |
 | r/LocalLLaMA | [Free, open-source voice typing for any app on Android and iPhone: the speech mo…](https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/)：I wanted voice typing that doesn't send my voice to a server, so I built ThumbFree. It runs NVIDIA's Parakeet 0.6B speech model right on th… | — | rss | 论坛帖 | 国际 | 11-10 |
 | r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 |
