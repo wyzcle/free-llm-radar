@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-16 14:22 (UTC+8)** ｜ 有效条目：**176** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(20)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-17 05:59 (UTC+8)** ｜ 有效条目：**174** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(19)、mnfst/awesome-free-llm-apis(15)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -129,13 +129,12 @@ _暂无条目_
 | [Zro (MoonMath)](https://zro.moonmath.ai) | Registration \| Daily usage allowance (amount not published) \| Resets every day (Flash models only) \| GLM-5.3 Flash, DeepSeek V4.1 Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 每日赠送（3）
+## 每日赠送（2）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Aion Labs](https://www.aionlabs.ai/app/api-keys/) | Permanent free tier, no credit card required. 15 RPM, 20K tokens/day. Specialized for roleplay and storytelling.｜免费模型 4 个：aion-labs/aion-2.0、aion-labs/aion-rp-llama-3.1-8b、aion-la… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | [Cloudflare Workers AI](https://dash.cloudflare.com/profile/api-tokens) | 10,000 Neurons/day free, no credit card required. 60+ models available on the free tier. Native API base URL: https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run Ope… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| [Google AI Studio (Gemini)](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 4 Argon 不适用于免费层级。模型处理的每个 token 都会被统计并计费，包括思考 token、内部工具系统指令以及使用接地功能时的函数声明。 ｜ 每月 5,000 次免费搜索请求（在所有 Gemini 3 及更新的模型中共享），超出后按每 1,000 次请求 14 美元计费（ ｜ 每月 5,000 个请求（免费，在所有 Gemini … | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 
 
 ## 新人额度 / 试用（29）
@@ -173,7 +172,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（50）
+## 社区动态（49）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -183,7 +182,6 @@ _暂无条目_
 | HF 论坛 | [Coding or Cheating? An Investigation of Frontier Coding LLMs](https://discuss.huggingface.co/t/coding-or-cheating-an-investigation-of-frontier-coding-llms/191752)：Hi, let me introduce our recent work here: Read full: Paper page - Coding or Cheating? An Investigation of Frontier Coding LLMs Read arxiv:… | — | rss | 论坛帖 | 国际 | 11-11 |
 | HF 论坛 | [MWT Voice – A Free AI Text-to-Speech Studio with Kitten TTS, Kokoro TTS & Pocke…](https://discuss.huggingface.co/t/mwt-voice-a-free-ai-text-to-speech-studio-with-kitten-tts-kokoro-tts-pocket-tts/191314)：MWT Voice – A Free AI Voice and Audio Studio That Works Offline Try the live application: https://voice.mwtlabs.uk/ I’m excited to introduc… | — | rss | 论坛帖 | 国际 | 11-02 |
 | HF 论坛 | [Freedream-1B-Instruct-V2-preview](https://discuss.huggingface.co/t/freedream-1b-instruct-v2-preview/191301)：Hello guys, This is an preview version for Freedream-1B-Instruct-V2, it is trained based on the Freedream-1B 24B tokens seen base model whe… | — | rss | 论坛帖 | 国际 | 11-02 |
-| HF 论坛 | [Freedream-1B-Instruct V1.1 from scratch published!](https://discuss.huggingface.co/t/freedream-1b-instruct-v1-1-from-scratch-published/191265)：Hello guys, I am a grade 8 student nicknamed Digilidaahz, this is an 1B model trained from scratch with a single rtx5080 and ddr5 65gb. V1.… | — | rss | 论坛帖 | 国际 | 10-31 |
 | linux.do | [【富可敌国】ZeroCat 双 11 活动第二弹 \| 纯血 Claude 2 折起，企业 Coding 首选 \| 不降智 GPT 评论免费用 \| 活动期间充值…](https://linux.do/t/topic/3140286) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [🦐免费的虾蹬图床 · 公益图床](https://linux.do/t/topic/3144147) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [【富可敌国】ZeroCat 正式上线 \| 国模 2 折起 \| 自营Claude 满血不掺水 \| 评论送 $5 额度 \| 更有 L 站专属福利套餐](https://linux.do/t/topic/2845144) | — | linux.do | 论坛帖 | 国内 | 11-09 |

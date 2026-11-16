@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T06:22:59+00:00",
+  "updated_at": "2026-11-16T21:59:08+00:00",
   "count": 233,
   "items": [
     {
@@ -17,7 +17,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-16T06:22:59+00:00",
+      "last_seen": "2026-11-16T21:59:08+00:00",
       "status": "active"
     },
     {
@@ -1770,7 +1770,7 @@
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
       "last_seen": "2026-11-02T15:44:31+00:00",
-      "status": "active"
+      "status": "stale"
     },
     {
       "id": "3d280062df46",
@@ -1786,7 +1786,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-16T06:22:59+00:00",
+      "last_seen": "2026-11-16T21:59:08+00:00",
       "status": "active"
     },
     {
@@ -2501,7 +2501,7 @@
       "tags": [],
       "discovered_at": "2026-10-31T12:22:09+00:00",
       "last_seen": "2026-11-02T15:44:31+00:00",
-      "status": "active"
+      "status": "stale"
     },
     {
       "id": "4b9f63c25795",
@@ -3979,7 +3979,7 @@
       "confidence": "forum",
       "tags": [],
       "discovered_at": "2026-11-15T06:24:35+00:00",
-      "last_seen": "2026-11-16T06:22:59+00:00",
+      "last_seen": "2026-11-16T21:59:08+00:00",
       "status": "active"
     }
   ]
