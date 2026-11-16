@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-16 02:48 (UTC+8)** ｜ 有效条目：**177** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(21)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
+最后更新：**2026-11-16 14:22 (UTC+8)** ｜ 有效条目：**176** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(20)、mnfst/awesome-free-llm-apis(15)、official-pages(2)、openrouter(1)
 
 ## 合规边界（先读这段）
 
@@ -173,7 +173,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（51）
+## 社区动态（50）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -215,9 +215,9 @@ _暂无条目_
 | linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | r/LocalLLaMA | [Hot take: frontier models haven’t actually become much smarter](https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/)：I know this is a controversial take, but I would like to hear others’ opinions: LLMs have become much more useful, but I’m not convinced th… | — | rss | 论坛帖 | 国际 | 11-15 🆕 |
-| r/LocalLLaMA | [🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Ag…](https://www.reddit.com/r/LocalLLaMA/comments/1xvujf1/harborrl_update_elastic_scaling_sshfree_cluster/)：🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Agentic RL Training We’ve recently updated HarborRL , an open-… | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
-| r/LocalLLaMA | [Do you believe there will be a divergence between local and frontier model powe…](https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/)：Right now, local models have somewhat kept up with frontier, being months behind last frontier models. The issue is, I think the divide is … | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
-| r/LocalLLaMA | [Are any of the other 'free' models worth using?](https://www.reddit.com/r/LocalLLaMA/comments/1xvlgkh/are_any_of_the_other_free_models_worth_using/)：When I was using opencode, I would just use the daily free Deepseek 4.1 allowance for when I wanted to test something using a bigger/better… | — | rss | 论坛帖 | 国际 | 11-14 🆕 |
+| r/LocalLLaMA | [🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Ag…](https://www.reddit.com/r/LocalLLaMA/comments/1xvujf1/harborrl_update_elastic_scaling_sshfree_cluster/)：🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Agentic RL Training We’ve recently updated HarborRL , an open-… | — | rss | 论坛帖 | 国际 | 11-14 |
+| r/LocalLLaMA | [Do you believe there will be a divergence between local and frontier model powe…](https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/)：Right now, local models have somewhat kept up with frontier, being months behind last frontier models. The issue is, I think the divide is … | — | rss | 论坛帖 | 国际 | 11-14 |
+| r/LocalLLaMA | [Are any of the other 'free' models worth using?](https://www.reddit.com/r/LocalLLaMA/comments/1xvlgkh/are_any_of_the_other_free_models_worth_using/)：When I was using opencode, I would just use the daily free Deepseek 4.1 allowance for when I wanted to test something using a bigger/better… | — | rss | 论坛帖 | 国际 | 11-14 |
 | r/LocalLLaMA | [2.8 hours of inference for 30 seconds of simulated walking: do robots still nee…](https://www.reddit.com/r/LocalLLaMA/comments/1xumnei/28_hours_of_inference_for_30_seconds_of_simulated/)：The question keeps coming up: are frontier multimodal models going to make dedicated robot models (VLAs, world models, the whole embodied s… | — | rss | 论坛帖 | 国际 | 11-13 |
 | r/LocalLLaMA | [Comparisons to previous Gen "Frontier"?](https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier/)：There are a lot of comparisons of open-weight models to the current frontier, especially comparisons to Fable/Opus 5.5. I have been stickin… | — | rss | 论坛帖 | 国际 | 11-11 |
 | r/LocalLLaMA | [Free, open-source voice typing for any app on Android and iPhone: the speech mo…](https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/)：I wanted voice typing that doesn't send my voice to a server, so I built ThumbFree. It runs NVIDIA's Parakeet 0.6B speech model right on th… | — | rss | 论坛帖 | 国际 | 11-10 |
@@ -227,7 +227,6 @@ _暂无条目_
 | r/LocalLLaMA | [[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Pe…](https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/)：We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achie… | — | rss | 论坛帖 | 国际 | 11-06 |
 | r/LocalLLaMA | [The next frontier is integrating memory in a useful, human way.](https://www.reddit.com/r/LocalLLaMA/comments/1xo9eol/the_next_frontier_is_integrating_memory_in_a/)：IE, even for as trivial a use case as, if you mention you're a vegetarian in one chat, it never suggests a recipe with meat ever again, bec… | — | rss | 论坛帖 | 国际 | 11-05 |
 | r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xsvm7b/paper_ridgefill_trainingfree_latelayer_cache_fill/)：RidgeFill is a training-free speculative prefill method that cuts the wait before a model starts answering. On Qwen3.8-27B, we get 1.25–1.3… | — | rss | 论坛帖 | 国际 | 11-03 |
-| r/LocalLLaMA | [I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open W…](https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/)：https://i.redd.it/97has5lk21zh1.gif I've been running local LLMs through Open WebUI for a while now, and one thing I've always wished it ha… | — | rss | 论坛帖 | 国际 | 11-02 |
 
 
 ---
