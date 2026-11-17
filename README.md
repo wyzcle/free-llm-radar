@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-17 15:51 (UTC+8)** ｜ 有效条目：**174** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(19)、mnfst/awesome-free-llm-apis(15)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-18 04:52 (UTC+8)** ｜ 有效条目：**174** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(18)、mnfst/awesome-free-llm-apis(16)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -29,7 +29,7 @@
 _暂无条目_
 
 
-## 永久免费层（94）
+## 永久免费层（95）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -42,6 +42,7 @@ _暂无条目_
 | [AnyAPI](https://anyapi.ai) | No \| Limited API calls on the Free plan (exact RPM not published) \| 100K ANY tokens per day, free models only \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Api.Airforce](https://api.airforce/) | No \| 1 RPM \| 1,000 requests/day \| Free plan, $0/month \| GPT-OSS 20B, GLM-4.7 Flash, Essential AI RNJ 1, Kimi K2.7 Code | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | [Arli AI](https://www.arliai.com/pricing) | Registration \| 1 request at a time; max 12K context tokens \| Limited trial uses per model (about 5 requests per 2 days, per third-party list) \| — \| Qwen3.5 27B Derestricted | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
+| [AxForge](https://console.axforge.ai/) | Permanent free tier, no credit card required: 3M tokens every 30 days, shared across models. Open models hosted in the EU (Stockholm, Sweden). OpenAI SDK-compatible.｜免费模型 4 个：qwen… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 11-18 🆕 |
 | [BazaarLink](https://bazaarlink.ai/free) | Registration \| 10 RPM (20 RPM with any credit), 2 concurrent requests \| 60 weighted units/day (120 with credit), resets 00:00 UTC \| Qwen3.7 Flash, Reflection Beam (free), Nemotron… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-21 |
 | [BentoML](https://www.bentoml.com/) | Inference platform \| Deploy any AI/ML model anywhere, production-grade `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Bytez](https://docs.bytez.com/model-api/docs/billing) | Registration \| 1 concurrent request (open models); 10 requests/second (closed models) \| $1 free credits, refreshed every 4 weeks \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -172,7 +173,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（49）
+## 社区动态（48）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -181,7 +182,6 @@ _暂无条目_
 | HF 论坛 | [Will certificate of completion of this course will be provided in free](https://discuss.huggingface.co/t/will-certificate-of-completion-of-this-course-will-be-provided-in-free/191759)：Will certificate of completion of this course will be provided in free 1 post - 1 participant Read full topic | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Coding or Cheating? An Investigation of Frontier Coding LLMs](https://discuss.huggingface.co/t/coding-or-cheating-an-investigation-of-frontier-coding-llms/191752)：Hi, let me introduce our recent work here: Read full: Paper page - Coding or Cheating? An Investigation of Frontier Coding LLMs Read arxiv:… | — | rss | 论坛帖 | 国际 | 11-11 |
 | HF 论坛 | [MWT Voice – A Free AI Text-to-Speech Studio with Kitten TTS, Kokoro TTS & Pocke…](https://discuss.huggingface.co/t/mwt-voice-a-free-ai-text-to-speech-studio-with-kitten-tts-kokoro-tts-pocket-tts/191314)：MWT Voice – A Free AI Voice and Audio Studio That Works Offline Try the live application: https://voice.mwtlabs.uk/ I’m excited to introduc… | — | rss | 论坛帖 | 国际 | 11-02 |
-| HF 论坛 | [Freedream-1B-Instruct-V2-preview](https://discuss.huggingface.co/t/freedream-1b-instruct-v2-preview/191301)：Hello guys, This is an preview version for Freedream-1B-Instruct-V2, it is trained based on the Freedream-1B 24B tokens seen base model whe… | — | rss | 论坛帖 | 国际 | 11-02 |
 | linux.do | [【富可敌国】ZeroCat 双 11 活动第二弹 \| 纯血 Claude 2 折起，企业 Coding 首选 \| 不降智 GPT 评论免费用 \| 活动期间充值…](https://linux.do/t/topic/3140286) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [🦐免费的虾蹬图床 · 公益图床](https://linux.do/t/topic/3144147) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [【富可敌国】ZeroCat 正式上线 \| 国模 2 折起 \| 自营Claude 满血不掺水 \| 评论送 $5 额度 \| 更有 L 站专属福利套餐](https://linux.do/t/topic/2845144) | — | linux.do | 论坛帖 | 国内 | 11-09 |
