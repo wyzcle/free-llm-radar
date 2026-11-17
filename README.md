@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-17 05:59 (UTC+8)** ｜ 有效条目：**174** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(19)、mnfst/awesome-free-llm-apis(15)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-17 15:51 (UTC+8)** ｜ 有效条目：**174** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(19)、mnfst/awesome-free-llm-apis(15)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -102,7 +102,7 @@ _暂无条目_
 | [Onomeo](https://onomeo.com) | Registration \| 12 requests/minute per key \| 30 free-model calls every 5 hours per account \| Glyph Cluster (stealth), Gemini 3.5 Flash-Lite, Muse Glimmer 30B, GLM-4.6V Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
 | OpenCode Zen | 22 \| Registration \| 1M \| Vision, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 17 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：inclusionAI: Ling 3.2 Flash (free)、Thinking Machines: Inkling 2 Small (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: … | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 10 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 9 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-3… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 21 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenTyphoon (Typhoon API)](https://opentyphoon.ai) | No \| 5 requests/second, 200 RPM (text models); 20 RPM for OCR \| No daily cap published \| — \| Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5 | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM per IP per model (anonymous, free); 400 RPM with a key (pay-as-you-go) \| Unspecified \| Beta Access \| GPT OSS 120B, BGE-M3 (embeddings), Whisper Large v3 Turbo… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
@@ -176,7 +176,7 @@ _暂无条目_
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| HF 论坛 | [MiniLab LLM — Free French course to understand how LLMs and Transformers work](https://discuss.huggingface.co/t/minilab-llm-free-french-course-to-understand-how-llms-and-transformers-work/191867)：Hi everyone! I’d like to share MiniLab LLM , a free educational project I’ve been building to help French-speaking developers and students … | — | rss | 论坛帖 | 国际 | 11-15 🆕 |
+| HF 论坛 | [MiniLab LLM — Free French course to understand how LLMs and Transformers work](https://discuss.huggingface.co/t/minilab-llm-free-french-course-to-understand-how-llms-and-transformers-work/191867)：Hi everyone! I’d like to share MiniLab LLM , a free educational project I’ve been building to help French-speaking developers and students … | — | rss | 论坛帖 | 国际 | 11-15 |
 | HF 论坛 | [Build a Gradio Contact Sheet for Clips From a Free AI Video Generator](https://discuss.huggingface.co/t/build-a-gradio-contact-sheet-for-clips-from-a-free-ai-video-generator/191765)：Two versions of a five-second clip can look similar in the player. Put their opening, midpoint, and ending on a contact sheet and a reviewe… | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Will certificate of completion of this course will be provided in free](https://discuss.huggingface.co/t/will-certificate-of-completion-of-this-course-will-be-provided-in-free/191759)：Will certificate of completion of this course will be provided in free 1 post - 1 participant Read full topic | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Coding or Cheating? An Investigation of Frontier Coding LLMs](https://discuss.huggingface.co/t/coding-or-cheating-an-investigation-of-frontier-coding-llms/191752)：Hi, let me introduce our recent work here: Read full: Paper page - Coding or Cheating? An Investigation of Frontier Coding LLMs Read arxiv:… | — | rss | 论坛帖 | 国际 | 11-11 |
@@ -212,7 +212,7 @@ _暂无条目_
 | linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| r/LocalLLaMA | [Hot take: frontier models haven’t actually become much smarter](https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/)：I know this is a controversial take, but I would like to hear others’ opinions: LLMs have become much more useful, but I’m not convinced th… | — | rss | 论坛帖 | 国际 | 11-15 🆕 |
+| r/LocalLLaMA | [Hot take: frontier models haven’t actually become much smarter](https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/)：I know this is a controversial take, but I would like to hear others’ opinions: LLMs have become much more useful, but I’m not convinced th… | — | rss | 论坛帖 | 国际 | 11-15 |
 | r/LocalLLaMA | [🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Ag…](https://www.reddit.com/r/LocalLLaMA/comments/1xvujf1/harborrl_update_elastic_scaling_sshfree_cluster/)：🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Agentic RL Training We’ve recently updated HarborRL , an open-… | — | rss | 论坛帖 | 国际 | 11-14 |
 | r/LocalLLaMA | [Do you believe there will be a divergence between local and frontier model powe…](https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/)：Right now, local models have somewhat kept up with frontier, being months behind last frontier models. The issue is, I think the divide is … | — | rss | 论坛帖 | 国际 | 11-14 |
 | r/LocalLLaMA | [Are any of the other 'free' models worth using?](https://www.reddit.com/r/LocalLLaMA/comments/1xvlgkh/are_any_of_the_other_free_models_worth_using/)：When I was using opencode, I would just use the daily free Deepseek 4.1 allowance for when I wanted to test something using a bigger/better… | — | rss | 论坛帖 | 国际 | 11-14 |
