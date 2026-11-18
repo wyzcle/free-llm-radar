@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-18 15:23 (UTC+8)** ｜ 有效条目：**173** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(71)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(17)、mnfst/awesome-free-llm-apis(16)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-19 04:28 (UTC+8)** ｜ 有效条目：**167** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(17)、mnfst/awesome-free-llm-apis(16)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -29,7 +29,7 @@
 _暂无条目_
 
 
-## 永久免费层（95）
+## 永久免费层（92）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,6 @@ _暂无条目_
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) | 2457 neurons per M input tokens ｜ 18252 neurons per M output tokens ｜ 4625 neurons per M input tokens ｜ 30475 neurons per M output tokens ｜ 4119 neurons per M input tokens ｜ 34868… | 以官方页面说明为准 | official-pages | 官方 | 国际 | 09-03 |
 | Cloudflare Workers AI | 41 \| No \| 262K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Cohere | 10 \| No \| 256K \| Text, Vision \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [Coze](https://www.coze.com/) | Registration \| Varies by model \| Token-based daily limits \| Resets daily \| GPT-4o (via Coze), Gemini 1.5 Pro (via Coze) | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | DeepSeek | 2 \| Registration \| 128K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Experiential Labs](https://www.experientiallabs.ai/pricing) | Card required \| 10 RPM and 250K TPM per free core model \| 1M input+output tokens/day shared across free core models, reset 00:00 UTC \| GPT-6 Luna, DeepSeek V4.1 Flash 1017, Clef F… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [FreeInference](https://freeinference.org) | No \| Not published ("generous quota"; HTTP 429 when rate-limited) \| No published daily cap \| — \| GLM-5.3 Flash, DeepSeek V4 Flash, MiniMax M3, Qwen3.6 35B A3B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -72,7 +71,6 @@ _暂无条目_
 | [IBM watsonx.ai (Lite plan)](https://www.ibm.com/products/watsonx-ai/pricing) | Card required \| About 2 requests/second (Lite) \| 300,000 tokens/month + 20 CUH/month \| Granite 4 H Small, Llama 3.3 70B Instruct, Llama 4 Maverick, GPT-OSS 120B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [iFlytek Spark Lite](https://www.xfyun.cn/doc/spark/HTTP调用文档.html) | Phone verification \| Not published on the HTTP doc \| Not published (Lite is free) \| — \| Spark Lite | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Inferbase](https://inferbase.ai) | No \| 100 managed requests per day \| $0.50 of managed model usage per day; 5,000 requests per month \| GPT-OSS 120B, DeepSeek V4 Flash, Qwen3.6 27B, Gemma 4 31B IT | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
-| [IteraCompute](https://iteracompute.com/free/) | Registration \| 160K tokens/minute (fair use, may queue) \| No daily cap; 30M tokens per month \| Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-21 |
 | Jan.ai | Desktop app \| Privacy-focused, 100% offline ChatGPT alternative `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Kilo AI Gateway](https://kilo.ai/gateway) | No \| 200 requests/hour per IP on free models (anonymous use allowed) \| Default free models only \| Free plan, no expiry \| Nemotron 3.5 Lightning, Nemotron 3 Nano Omni Reasoning, Do… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | [Kilo Code](https://app.kilo.ai/profile) | Free models with no credit card and no API key required. kilo-auto/free auto-router dynamically routes to models in the free pool.｜免费模型 9 个：nvidia/nemotron-3-ultra-550b-a55b:free、… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
@@ -100,7 +98,6 @@ _暂无条目_
 | NVIDIA NIM | 81 \| Phone verification \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama | CLI + API \| 100+ models, GPU acceleration, OpenAI-compatible endpoint `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 8 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [Onomeo](https://onomeo.com) | Registration \| 12 requests/minute per key \| 30 free-model calls every 5 hours per account \| Glyph Cluster (stealth), Gemini 3.5 Flash-Lite, Muse Glimmer 30B, GLM-4.6V Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-14 |
 | OpenCode Zen | 22 \| Registration \| 1M \| Vision, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 17 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：inclusionAI: Ling 3.2 Flash (free)、Thinking Machines: Inkling 2 Small (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: … | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 9 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-3… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
@@ -138,11 +135,10 @@ _暂无条目_
 | [Cloudflare Workers AI](https://dash.cloudflare.com/profile/api-tokens) | 10,000 Neurons/day free, no credit card required. 60+ models available on the free tier. Native API base URL: https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run Ope… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 
 
-## 新人额度 / 试用（29）
+## 新人额度 / 试用（26）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI21 Labs](https://docs.ai21.com/) | Registration \| $10 (valid 7 days, no card) \| 3 months \| Jamba Large, Jamba Mini | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Cerebras](https://cerebras.ai/inference) | Card required \| $5 after adding a verified payment method (expires after 30 days) \| 30 days \| GPT OSS 120B, Qwen 3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Cerebrium](https://www.cerebrium.ai/) | Registration \| No sign-up credit shown on the pricing page (Hobby plan: free platform, compute billed per second) \| One-time \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Cohere](https://dashboard.cohere.com/api-keys) | Free "Trial" API key, no credit card. 1,000 API calls/month. Non-commercial use only. Native API base URL: https://api.cohere.com/v2 OpenAI-compatible base URL: https://api.cohere… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
@@ -157,10 +153,8 @@ _暂无条目_
 | [Inception Labs](https://www.inceptionlabs.ai/) | No \| 100M tokens \| One-time (new accounts) \| Mercury 3, Mercury 2.5, Mercury 2 | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-21 |
 | [IteraCompute](https://iteracompute.com/free/) | Registration \| 30M tokens/month on Qwen3.8-27B (promotion, no card) \| Until Nov 24, 2026 00:00 PT \| Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Jina AI (Embeddings / Reader API)](https://jina.ai/embeddings/) | No \| Free tokens on an auto-generated key (amount not stated on page) \| Keys do not expire \| Jina Embeddings v5 Text Small, Jina Embeddings v5 Text Nano, Jina Embeddings v5 Omni S… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
-| [Nebius (Token Factory)](https://tokenfactory.nebius.com/) | Registration \| $1 trial credit, valid 30 days (bank card required) \| One-time \| Qwen3 235B A22B Instruct 2507, GLM 5.3, GPT OSS 120B, Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [NovAI](https://aiapi-pro.com) | No \| $2 welcome credit, no card \| One-time \| GLM-4.7 Flash, GLM-4.6V Flash, GLM-4.1V Thinking Flash | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Novita AI](https://novita.ai/) | Registration \| No automatic sign-up credit; $10 per referral (both sides) \| One-time \| GLM 5.3, Kimi K3, DeepSeek V4.1 Flash, Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
-| [Nscale](https://www.nscale.com/product/inference) | Registration \| No sign-up credit: minimum $5 card top-up (early users may get free credits) \| One-time \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Qwen (Alibaba)](https://bailian.console.alibabacloud.com/) | Registration \| ~1M tokens per model, 90 days (Singapore; newer models only since Oct 29, 2026) \| One-time per model \| Qwen3.8 Flash, Qwen3.7 Plus, Qwen3.8 Max, Qwen3.7 Max | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Regolo.ai](https://regolo.ai) | No \| 30-day trial, 1M tokens/day, no card \| 30 days \| GPT-OSS 120B, Qwen3.8 27B, Gemma 4 31B, GLM-5.2 | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Replicate](https://replicate.com/) | Registration \| Limited free runs on select models \| One-time \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
