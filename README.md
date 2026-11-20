@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-20 04:32 (UTC+8)** ｜ 有效条目：**166** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(16)、mnfst/awesome-free-llm-apis(16)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-20 15:09 (UTC+8)** ｜ 有效条目：**166** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(16)、mnfst/awesome-free-llm-apis(16)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -42,7 +42,7 @@ _暂无条目_
 | [AnyAPI](https://anyapi.ai) | No \| Limited API calls on the Free plan (exact RPM not published) \| 100K ANY tokens per day, free models only \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Api.Airforce](https://api.airforce/) | No \| 1 RPM \| 1,000 requests/day \| Free plan, $0/month \| GPT-OSS 20B, GLM-4.7 Flash, Essential AI RNJ 1, Kimi K2.7 Code | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
 | [Arli AI](https://www.arliai.com/pricing) | Registration \| 1 request at a time; max 12K context tokens \| Limited trial uses per model (about 5 requests per 2 days, per third-party list) \| — \| Qwen3.5 27B Derestricted | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
-| [AxForge](https://console.axforge.ai/) | Permanent free tier, no credit card required: 3M tokens every 30 days, shared across models. Open models hosted in the EU (Stockholm, Sweden). OpenAI SDK-compatible.｜免费模型 4 个：qwen… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 11-18 🆕 |
+| [AxForge](https://console.axforge.ai/) | Permanent free tier, no credit card required: 3M tokens every 30 days, shared across models. Open models hosted in the EU (Stockholm, Sweden). OpenAI SDK-compatible.｜免费模型 4 个：qwen… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 11-18 |
 | [BazaarLink](https://bazaarlink.ai/free) | Registration \| 10 RPM (20 RPM with any credit), 2 concurrent requests \| 60 weighted units/day (120 with credit), resets 00:00 UTC \| Qwen3.7 Flash, Reflection Beam (free), Nemotron… | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-21 |
 | [BentoML](https://www.bentoml.com/) | Inference platform \| Deploy any AI/ML model anywhere, production-grade `self-host` | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Bytez](https://docs.bytez.com/model-api/docs/billing) | Registration \| 1 concurrent request (open models); 10 requests/second (closed models) \| $1 free credits, refreshed every 4 weeks \| See provider | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -99,7 +99,7 @@ _暂无条目_
 | Ollama | CLI + API \| 100+ models, GPU acceleration, OpenAI-compatible endpoint `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 8 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | OpenCode Zen | 22 \| Registration \| 1M \| Vision, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 16 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：inclusionAI: Ling 3.2 Flash (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Baidu: ERNIE-5.5-Flas… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 15 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：inclusionAI: Ling 3.2 Flash (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Baidu: ERNIE-5.5-Flas… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 9 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-3… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 21 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenTyphoon (Typhoon API)](https://opentyphoon.ai) | No \| 5 requests/second, 200 RPM (text models); 20 RPM for OCR \| No daily cap published \| — \| Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5 | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
