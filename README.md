@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-21 04:11 (UTC+8)** ｜ 有效条目：**166** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、rss(16)、mnfst/awesome-free-llm-apis(16)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-21 15:01 (UTC+8)** ｜ 有效条目：**165** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、mnfst/awesome-free-llm-apis(16)、rss(15)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -99,7 +99,7 @@ _暂无条目_
 | Ollama | CLI + API \| 100+ models, GPU acceleration, OpenAI-compatible endpoint `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Ollama Cloud | 8 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | OpenCode Zen | 22 \| Registration \| 1M \| Vision, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 15 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：inclusionAI: Ling 3.2 Flash (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Baidu: ERNIE-5.5-Flas… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 14 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：inclusionAI: Ling 3.2 Flash (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Baidu: ERNIE-5.5-Flas… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 9 个：cohere/north-mini-code:free、google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、dots-studio/dots-3… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 21 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenTyphoon (Typhoon API)](https://opentyphoon.ai) | No \| 5 requests/second, 200 RPM (text models); 20 RPM for OCR \| No daily cap published \| — \| Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5 | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -167,7 +167,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（46）
+## 社区动态（45）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -215,7 +215,6 @@ _暂无条目_
 | r/LocalLLaMA | [Free, open-source voice typing for any app on Android and iPhone: the speech mo…](https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/)：I wanted voice typing that doesn't send my voice to a server, so I built ThumbFree. It runs NVIDIA's Parakeet 0.6B speech model right on th… | — | rss | 论坛帖 | 国际 | 11-10 |
 | r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 |
 | r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 |
-| r/LocalLLaMA | [We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new…](https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/)：Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI … | — | rss | 论坛帖 | 国际 | 11-07 |
 | r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xsvm7b/paper_ridgefill_trainingfree_latelayer_cache_fill/)：RidgeFill is a training-free speculative prefill method that cuts the wait before a model starts answering. On Qwen3.8-27B, we get 1.25–1.3… | — | rss | 论坛帖 | 国际 | 11-03 |
 
 
