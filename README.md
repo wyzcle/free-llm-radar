@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-21 15:01 (UTC+8)** ｜ 有效条目：**165** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、linux.do(30)、mnfst/awesome-free-llm-apis(16)、rss(15)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-22 03:12 (UTC+8)** ｜ 有效条目：**144** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(15)、linux.do(9)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -167,7 +167,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（45）
+## 社区动态（24）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -184,28 +184,7 @@ _暂无条目_
 | linux.do | [Apple music免费三个月羊毛](https://linux.do/t/topic/3142652) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [【富可敌国】【4Z API】11/8｜GPT Image 2.6、Muse 与 Eleven 新模型接入](https://linux.do/t/topic/3140235) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [给支付宝阿宝发“免费送我一度电” 获取生活缴费红包，【不一定有】](https://linux.do/t/topic/3139754) | — | linux.do | 论坛帖 | 国内 | 11-09 |
-| linux.do | [【破晓 API】充值 1:1｜GPT 0.09 倍率不降智 ！｜0.2官key 95%缓存｜进群送 5 刀 反馈3刀 首次签到3刀 活动持续派送中~｜用破晓 …](https://linux.do/t/topic/3081143) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [佬友们，看额度的软件是哪个？](https://linux.do/t/topic/3137347) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [Google one免费24个月 Gemini pro会员后续（注册机+网页拓展版本）开源](https://linux.do/t/topic/3127175) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [【富可敌国】【91Token】开启，Claude、GPT、Gemini、Seedance、GLM塞进了一个 Key，诚邀各位佬友体验](https://linux.do/t/topic/3131808) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [新人报道;gemini反代封号后,还有什么免费好用的AI吗!](https://linux.do/t/topic/3137394) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [【PM-Plan】Lite套餐可用的Free DS欸](https://linux.do/t/topic/3137067) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [OrinX智能驾驶域控制的LLM+ComfyUI+源码+工作流AI辅助全自动部署包](https://linux.do/t/topic/2974933) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [Vibe了一个基于ChKSz API的网易云音乐下载器](https://linux.do/t/topic/3137404) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [免费薅了一年的Google AI Pro，现在需要重新认证怎么处理？](https://linux.do/t/topic/3137280) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [香港支付宝 Apple 商店赠送 20 港币。](https://linux.do/t/topic/3136966) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [Qoder送 2000 Credits sonus额度 ，测试了一下好像是 gpt-6-astra](https://linux.do/t/topic/3136663) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [Google Colab免费获取GPU环境](https://linux.do/t/topic/3135186) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [switch可免费领取巫师3和双人成行](https://linux.do/t/topic/3133770) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [[EPIC 喜加一] 《GMH - Good Morning Human》厂商限免](https://linux.do/t/topic/3133559) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [IOS 订阅管理与追踪 软件限免](https://linux.do/t/topic/3133418) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [【智谱又发5亿token了】这次是周末限定活动，连着领token快一周了](https://linux.do/t/topic/3133253) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [别忘记使用Linear AI额度 LennysProductPass , Linear Business +](https://linux.do/t/topic/3133137) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [krio的opus5.5免费蹬（已结束）](https://linux.do/t/topic/3132590) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | linux.do | [宝可梦机场之十一月庆典免费兑换码之猜猜我是谁](https://linux.do/t/topic/3103825) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [大 Vibe coding 时代，Token 拿来吧你～](https://linux.do/t/topic/3110232) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [Google one免费24个月 Gemini pro会员（操作贴） 注册机已开源!!!!](https://linux.do/t/topic/3123997) | — | linux.do | 论坛帖 | 国内 | 11-07 |
-| linux.do | [大 Vibe coding 时代，Token 也不白烧](https://linux.do/t/topic/3131422) | — | linux.do | 论坛帖 | 国内 | 11-07 |
 | r/LocalLLaMA | [Hot take: frontier models haven’t actually become much smarter](https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/)：I know this is a controversial take, but I would like to hear others’ opinions: LLMs have become much more useful, but I’m not convinced th… | — | rss | 论坛帖 | 国际 | 11-15 |
 | r/LocalLLaMA | [🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Ag…](https://www.reddit.com/r/LocalLLaMA/comments/1xvujf1/harborrl_update_elastic_scaling_sshfree_cluster/)：🚀 HarborRL Update: Elastic Scaling, SSH-Free Cluster Deployment, and Unified Agentic RL Training We’ve recently updated HarborRL , an open-… | — | rss | 论坛帖 | 国际 | 11-14 |
 | r/LocalLLaMA | [Do you believe there will be a divergence between local and frontier model powe…](https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/)：Right now, local models have somewhat kept up with frontier, being months behind last frontier models. The issue is, I think the divide is … | — | rss | 论坛帖 | 国际 | 11-14 |
