@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-22 14:42 (UTC+8)** ｜ 有效条目：**144** ｜ 48h 内新增：**0** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、rss(15)、linux.do(9)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-23 03:33 (UTC+8)** ｜ 有效条目：**148** ｜ 48h 内新增：**5** ｜ 来源：nejib1/Free-LLM(65)、open-free-llm-api/awesome-freellm-apis(37)、mnfst/awesome-free-llm-apis(16)、linux.do(14)、rss(14)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -167,7 +167,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（24）
+## 社区动态（28）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -176,6 +176,11 @@ _暂无条目_
 | HF 论坛 | [Build a Gradio Contact Sheet for Clips From a Free AI Video Generator](https://discuss.huggingface.co/t/build-a-gradio-contact-sheet-for-clips-from-a-free-ai-video-generator/191765)：Two versions of a five-second clip can look similar in the player. Put their opening, midpoint, and ending on a contact sheet and a reviewe… | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Will certificate of completion of this course will be provided in free](https://discuss.huggingface.co/t/will-certificate-of-completion-of-this-course-will-be-provided-in-free/191759)：Will certificate of completion of this course will be provided in free 1 post - 1 participant Read full topic | — | rss | 论坛帖 | 国际 | 11-12 |
 | HF 论坛 | [Coding or Cheating? An Investigation of Frontier Coding LLMs](https://discuss.huggingface.co/t/coding-or-cheating-an-investigation-of-frontier-coding-llms/191752)：Hi, let me introduce our recent work here: Read full: Paper page - Coding or Cheating? An Investigation of Frontier Coding LLMs Read arxiv:… | — | rss | 论坛帖 | 国际 | 11-11 |
+| linux.do | [全新公益api站 无付费](https://linux.do/t/topic/3223919) | — | linux.do | 论坛帖 | 国内 | 11-23 🆕 |
+| linux.do | [免费GPU和服务器焚决，提示词直接给muse即可薅](https://linux.do/t/topic/3223815) | — | linux.do | 论坛帖 | 国内 | 11-23 🆕 |
+| linux.do | [【富可敌国】回帖送 1,000 万 Token（晒实测图再送 5,000 万）：国产大厂直供 128K+ 实测前缀保留 99.98%，防吞缓存](https://linux.do/t/topic/3221885) | — | linux.do | 论坛帖 | 国内 | 11-23 🆕 |
+| linux.do | [[失效]Cursor + Grok Bot 可以免费白嫖一个月](https://linux.do/t/topic/3221107) | — | linux.do | 论坛帖 | 国内 | 11-23 🆕 |
+| linux.do | [Google AI Pro 又有免费领取渠道了](https://linux.do/t/topic/3220938) | — | linux.do | 论坛帖 | 国内 | 11-23 🆕 |
 | linux.do | [【富可敌国】ZeroCat 双 11 活动第二弹 \| 纯血 Claude 2 折起，企业 Coding 首选 \| 不降智 GPT 评论免费用 \| 活动期间充值…](https://linux.do/t/topic/3140286) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [🦐免费的虾蹬图床 · 公益图床](https://linux.do/t/topic/3144147) | — | linux.do | 论坛帖 | 国内 | 11-09 |
 | linux.do | [【富可敌国】ZeroCat 正式上线 \| 国模 2 折起 \| 自营Claude 满血不掺水 \| 评论送 $5 额度 \| 更有 L 站专属福利套餐](https://linux.do/t/topic/2845144) | — | linux.do | 论坛帖 | 国内 | 11-09 |
@@ -193,7 +198,6 @@ _暂无条目_
 | r/LocalLLaMA | [Comparisons to previous Gen "Frontier"?](https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier/)：There are a lot of comparisons of open-weight models to the current frontier, especially comparisons to Fable/Opus 5.5. I have been stickin… | — | rss | 论坛帖 | 国际 | 11-11 |
 | r/LocalLLaMA | [Free, open-source voice typing for any app on Android and iPhone: the speech mo…](https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/)：I wanted voice typing that doesn't send my voice to a server, so I built ThumbFree. It runs NVIDIA's Parakeet 0.6B speech model right on th… | — | rss | 论坛帖 | 国际 | 11-10 |
 | r/LocalLLaMA | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achievin…](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)：hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. W… | — | rss | 论坛帖 | 国际 | 11-09 |
-| r/LocalLLaMA | [Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?](https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/)：I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the &quot;content policy&q… | — | rss | 论坛帖 | 国际 | 11-08 |
 | r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xsvm7b/paper_ridgefill_trainingfree_latelayer_cache_fill/)：RidgeFill is a training-free speculative prefill method that cuts the wait before a model starts answering. On Qwen3.8-27B, we get 1.25–1.3… | — | rss | 论坛帖 | 国际 | 11-03 |
 
 

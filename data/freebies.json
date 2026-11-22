@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T06:42:17+00:00",
-  "count": 235,
+  "updated_at": "2026-11-22T19:33:43+00:00",
+  "count": 240,
   "items": [
     {
       "id": "572986645cc0",
@@ -17,7 +17,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-22T06:42:17+00:00",
+      "last_seen": "2026-11-22T19:33:43+00:00",
       "status": "active"
     },
     {
@@ -1786,7 +1786,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-22T06:42:17+00:00",
+      "last_seen": "2026-11-22T19:33:43+00:00",
       "status": "active"
     },
     {
@@ -3640,7 +3640,7 @@
       "tags": [],
       "discovered_at": "2026-11-08T13:19:48+00:00",
       "last_seen": "2026-11-08T13:19:48+00:00",
-      "status": "active"
+      "status": "stale"
     },
     {
       "id": "61fd731fca6f",
@@ -4014,6 +4014,91 @@
       "tags": [],
       "discovered_at": "2026-11-19T20:32:15+00:00",
       "last_seen": "2026-11-21T07:01:23+00:00",
+      "status": "active"
+    },
+    {
+      "id": "d7aae102ab9b",
+      "title": "全新公益api站 无付费",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3223919",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-22T19:33:43+00:00",
+      "last_seen": "2026-11-22T19:33:43+00:00",
+      "status": "active"
+    },
+    {
+      "id": "410047de060d",
+      "title": "免费GPU和服务器焚决，提示词直接给muse即可薅",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3223815",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-22T19:33:43+00:00",
+      "last_seen": "2026-11-22T19:33:43+00:00",
+      "status": "active"
+    },
+    {
+      "id": "e44cf3860034",
+      "title": "【富可敌国】回帖送 1,000 万 Token（晒实测图再送 5,000 万）：国产大厂直供 128K+ 实测前缀保留 99.98%，防吞缓存",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3221885",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-22T19:33:43+00:00",
+      "last_seen": "2026-11-22T19:33:43+00:00",
+      "status": "active"
+    },
+    {
+      "id": "fd494ddc683c",
+      "title": "[失效]Cursor + Grok Bot 可以免费白嫖一个月",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3221107",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-22T19:33:43+00:00",
+      "last_seen": "2026-11-22T19:33:43+00:00",
+      "status": "active"
+    },
+    {
+      "id": "c17127922615",
+      "title": "Google AI Pro 又有免费领取渠道了",
+      "platform": "linux.do",
+      "kind": "forum",
+      "quota": null,
+      "expires": null,
+      "howto": null,
+      "url": "https://linux.do/t/topic/3220938",
+      "source_name": "linux.do",
+      "region": "cn",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-22T19:33:43+00:00",
+      "last_seen": "2026-11-22T19:33:43+00:00",
       "status": "active"
     }
   ]
