@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-24 07:51 (UTC+8)** ｜ 有效条目：**150** ｜ 48h 内新增：**17** ｜ 来源：nejib1/Free-LLM(75)、open-free-llm-api/awesome-freellm-apis(38)、mnfst/awesome-free-llm-apis(17)、rss(13)、linux.do(5)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-24 17:50 (UTC+8)** ｜ 有效条目：**149** ｜ 48h 内新增：**17** ｜ 来源：nejib1/Free-LLM(75)、open-free-llm-api/awesome-freellm-apis(38)、mnfst/awesome-free-llm-apis(17)、rss(12)、linux.do(5)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -179,7 +179,7 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（18）
+## 社区动态（17）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -199,7 +199,6 @@ _暂无条目_
 | r/LocalLLaMA | [Are any of the other 'free' models worth using?](https://www.reddit.com/r/LocalLLaMA/comments/1xvlgkh/are_any_of_the_other_free_models_worth_using/)：When I was using opencode, I would just use the daily free Deepseek 4.1 allowance for when I wanted to test something using a bigger/better… | — | rss | 论坛帖 | 国际 | 11-14 |
 | r/LocalLLaMA | [2.8 hours of inference for 30 seconds of simulated walking: do robots still nee…](https://www.reddit.com/r/LocalLLaMA/comments/1xumnei/28_hours_of_inference_for_30_seconds_of_simulated/)：The question keeps coming up: are frontier multimodal models going to make dedicated robot models (VLAs, world models, the whole embodied s… | — | rss | 论坛帖 | 国际 | 11-13 |
 | r/LocalLLaMA | [Comparisons to previous Gen "Frontier"?](https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier/)：There are a lot of comparisons of open-weight models to the current frontier, especially comparisons to Fable/Opus 5.5. I have been stickin… | — | rss | 论坛帖 | 国际 | 11-11 |
-| r/LocalLLaMA | [Free, open-source voice typing for any app on Android and iPhone: the speech mo…](https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/)：I wanted voice typing that doesn't send my voice to a server, so I built ThumbFree. It runs NVIDIA's Parakeet 0.6B speech model right on th… | — | rss | 论坛帖 | 国际 | 11-10 |
 | r/LocalLLaMA | [[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill](https://www.reddit.com/r/LocalLLaMA/comments/1xsvm7b/paper_ridgefill_trainingfree_latelayer_cache_fill/)：RidgeFill is a training-free speculative prefill method that cuts the wait before a model starts answering. On Qwen3.8-27B, we get 1.25–1.3… | — | rss | 论坛帖 | 国际 | 11-03 |
 
 
