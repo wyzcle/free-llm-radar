@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-25 16:27 (UTC+8)** ｜ 有效条目：**147** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(75)、open-free-llm-api/awesome-freellm-apis(38)、mnfst/awesome-free-llm-apis(17)、rss(10)、linux.do(5)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-26 05:39 (UTC+8)** ｜ 有效条目：**146** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(75)、open-free-llm-api/awesome-freellm-apis(38)、mnfst/awesome-free-llm-apis(16)、rss(10)、linux.do(5)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -29,7 +29,7 @@
 _暂无条目_
 
 
-## 永久免费层（104）
+## 永久免费层（103）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -66,11 +66,11 @@ _暂无条目_
 | [Gonka Broker](https://app.gonkabroker.com/signup) | Permanent free tier, no credit card required; phone verification required. ~1M tokens/month (shared, varies by model), resets monthly. Model lineup rotates with network governance… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 10-24 |
 | [Google AI Studio](https://aistudio.google.com/) | No \| Varies by model (per-model limits are now shown only inside AI Studio) \| Varies by model. Free: Gemini 3.x Flash / Flash-Lite and Gemini 2.5 Pro/Flash (2.5 redirect to 3.x on… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Google Gemini](https://aistudio.google.com/app/apikey) | Free tier, no credit card. Free-tier prompts may be used by Google to improve products. Native API base URL: https://generativelanguage.googleapis.com/v1beta OpenAI-compatible bas… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Google Gemini | 12 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Google Gemini | 14 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | GPT4All | Desktop app \| CPU-only, no GPU required, open source `self-host` | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | Grok (xAI) | 2 \| Registration \| 131K \| Text \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Groq](https://console.groq.com/keys) | Free tier, no credit card. Ultra-fast LPU inference.｜免费模型 3 个：openai/gpt-oss-120b、openai/gpt-oss-20b、qwen/qwen3.8-27b｜限速: 30 RPM, 1,000 RPD, 8,000 TPM, 200,000 TPD | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
-| Groq | 6 \| No \| 131K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
+| Groq | 9 \| No \| 131K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Hetzner Inference API](https://experiments.hetzner.com/inference) | Card required \| 10 requests, 4M input / 100K output tokens per 60s (per API key) \| No daily cap published (free while the API is experimental); a Hetzner account with billing deta… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [How to Use OpenRouter](https://free-llm.com/guides/how-to-use-openrouter) | setup walkthrough with code | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-23 |
 | Hugging Face | 9 \| No \| 131K \| Text, Vision, Code \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
@@ -92,7 +92,6 @@ _暂无条目_
 | [Local LLMs with Ollama](https://free-llm.com/guides/local-llm-ollama-guide) | get started in under 5 minutes | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-23 |
 | [MegaNova AI](https://docs.meganova.ai/tiers) | No \| Tier 1 (free): 20-200 RPM \| Tier 1: 50-500 free-model requests/day (varies by model) \| Manta Pro 1.0, Manta Flash 1.0, Manta Mini 1.0, Mistral Small 3.2 24B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Mistral (La Plateforme)](https://console.mistral.ai/) | Phone verification \| 1 request/second \| - \| Free \| Mistral Small, Mistral Large 4 (Preview), Codestral 2508, Ministral 3 8B | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
-| [Mistral AI](https://console.mistral.ai/api-keys) | Free mode, enabled by default, no credit card required. Free-mode prompts may be used to train Mistral models unless you opt out.｜免费模型 7 个：Mistral Medium 3.5 (128B)、Mistral Small … | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | Mistral AI | 10 \| No \| 256K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [Mixlayer](https://docs.mixlayer.com/credits-and-limits) | Registration \| Per-organization, per-model RPM/TPM (values shown in console only) \| Not published \| — \| Qwen3.5 4B (free) | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | [Moark (Gitee AI)](https://moark.com/docs/FAQ) | Phone verification \| Not published \| 100 free calls/day per user (free experience access token) \| DeepSeek V4 Flash 0731, GLM 5.3 Flash, Qwen3.8 27B | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
