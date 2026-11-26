@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T08:11:44+00:00",
-  "count": 253,
+  "updated_at": "2026-11-26T21:28:42+00:00",
+  "count": 268,
   "items": [
     {
       "id": "572986645cc0",
@@ -17,7 +17,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -68,7 +68,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -119,7 +119,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -136,7 +136,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -170,7 +170,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -187,7 +187,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -204,7 +204,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -221,7 +221,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -255,7 +255,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -272,7 +272,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -289,7 +289,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -306,7 +306,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -323,7 +323,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -340,7 +340,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -357,7 +357,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -391,7 +391,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -408,7 +408,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -425,7 +425,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -442,7 +442,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -450,7 +450,7 @@
       "title": "Groq｜Permanent Free Tiers",
       "platform": "Groq",
       "kind": "permanent",
-      "quota": "9 | No | 131K | Multimodal | →",
+      "quota": "6 | No | 131K | Multimodal | →",
       "expires": null,
       "howto": null,
       "url": "",
@@ -459,7 +459,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -476,7 +476,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -493,7 +493,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -510,7 +510,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -527,7 +527,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -578,7 +578,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -612,7 +612,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -646,7 +646,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -663,7 +663,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -697,7 +697,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -714,7 +714,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -731,7 +731,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -816,7 +816,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -835,7 +835,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -854,7 +854,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -873,7 +873,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -892,7 +892,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -911,7 +911,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -930,7 +930,7 @@
         "self-host"
       ],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -1786,7 +1786,7 @@
       "confidence": "official",
       "tags": [],
       "discovered_at": "2026-09-03T00:17:03+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -2364,7 +2364,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-23T17:04:48+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -2381,7 +2381,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-10-24T04:33:24+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -3996,7 +3996,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-17T20:52:33+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -4285,7 +4285,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-23T23:51:09+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -4302,7 +4302,7 @@
       "confidence": "list",
       "tags": [],
       "discovered_at": "2026-11-23T23:51:09+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     },
     {
@@ -4319,7 +4319,280 @@
       "confidence": "forum",
       "tags": [],
       "discovered_at": "2026-11-26T08:11:44+00:00",
-      "last_seen": "2026-11-26T08:11:44+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "c30c70a5e373",
+      "title": "Claude Code｜Coding assistants on free models",
+      "platform": "Claude Code",
+      "kind": "permanent",
+      "quota": "Needs the Anthropic Messages API: use a provider with a native Anthropic endpoint (OpenRouter, Z.AI, FreeInference, local Ollama), a LiteLLM proxy, or free-llm setup claude | claude-code.md",
+      "expires": null,
+      "howto": null,
+      "url": "",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "aeb9347aa0e8",
+      "title": "Codex CLI｜Coding assistants on free models",
+      "platform": "Codex CLI",
+      "kind": "permanent",
+      "quota": "Add a provider to ~/.codex/config.toml with wire_api = \"chat\" | codex.md",
+      "expires": null,
+      "howto": null,
+      "url": "",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "858a7575bfbb",
+      "title": "Cursor｜Coding assistants on free models",
+      "platform": "Cursor",
+      "kind": "permanent",
+      "quota": "Settings → Models → override the OpenAI base URL, add the model ID | cursor.md",
+      "expires": null,
+      "howto": null,
+      "url": "",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "2043097dfd51",
+      "title": "OpenCode｜Coding assistants on free models",
+      "platform": "OpenCode",
+      "kind": "permanent",
+      "quota": "/connect, or an environment variable per provider | opencode.md",
+      "expires": null,
+      "howto": null,
+      "url": "",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "e01ef7a0fc40",
+      "title": "Ollama｜Local and self-hosted: unlimited, privat",
+      "platform": "Ollama",
+      "kind": "permanent",
+      "quota": "CLI + API | 100+ models, GPU acceleration, OpenAI-compatible endpoint",
+      "expires": null,
+      "howto": null,
+      "url": "https://ollama.com/",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "b90e88ccb7c7",
+      "title": "LM Studio｜Local and self-hosted: unlimited, privat",
+      "platform": "LM Studio",
+      "kind": "permanent",
+      "quota": "Desktop GUI | Any GGUF model, built-in model browser, offline",
+      "expires": null,
+      "howto": null,
+      "url": "https://lmstudio.ai/",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "fa989f71a9c3",
+      "title": "llama.cpp｜Local and self-hosted: unlimited, privat",
+      "platform": "llama.cpp",
+      "kind": "permanent",
+      "quota": "C/C++ engine | Runs any GGUF, minimal dependencies",
+      "expires": null,
+      "howto": null,
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "ccb52578f133",
+      "title": "GPT4All｜Local and self-hosted: unlimited, privat",
+      "platform": "GPT4All",
+      "kind": "permanent",
+      "quota": "Desktop app | CPU-only, no GPU required, open source (no release since Feb 2025)",
+      "expires": null,
+      "howto": null,
+      "url": "https://gpt4all.io/",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "55cd8e84a1b3",
+      "title": "Jan.ai｜Local and self-hosted: unlimited, privat",
+      "platform": "Jan.ai",
+      "kind": "permanent",
+      "quota": "Desktop app | Privacy-focused, 100% offline ChatGPT alternative",
+      "expires": null,
+      "howto": null,
+      "url": "https://jan.ai/",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "4c829bad6673",
+      "title": "KoboldCpp｜Local and self-hosted: unlimited, privat",
+      "platform": "KoboldCpp",
+      "kind": "permanent",
+      "quota": "Single executable | Optimized for creative writing, GGUF",
+      "expires": null,
+      "howto": null,
+      "url": "https://github.com/LostRuins/koboldcpp",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "72c5b63faa11",
+      "title": "llamafile｜Local and self-hosted: unlimited, privat",
+      "platform": "llamafile",
+      "kind": "permanent",
+      "quota": "Single executable | Multi-platform, combines llama.cpp + Cosmopolitan Libc",
+      "expires": null,
+      "howto": null,
+      "url": "https://github.com/mozilla-ai/llamafile",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "2e344fb56ead",
+      "title": "Text Generation WebUI｜Local and self-hosted: unlimited, privat",
+      "platform": "Text Generation WebUI",
+      "kind": "permanent",
+      "quota": "Gradio UI | Highly customizable, advanced local experimentation",
+      "expires": null,
+      "howto": null,
+      "url": "https://github.com/oobabooga/textgen",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "d08907b8734c",
+      "title": "BentoML｜Local and self-hosted: unlimited, privat",
+      "platform": "BentoML",
+      "kind": "permanent",
+      "quota": "Inference platform | Deploy any AI/ML model anywhere, production-grade",
+      "expires": null,
+      "howto": null,
+      "url": "https://www.bentoml.com/",
+      "source_name": "nejib1/Free-LLM",
+      "region": "global",
+      "confidence": "list",
+      "tags": [
+        "self-host"
+      ],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "e5999779dc9b",
+      "title": "# 🚀 New Free Kaggle AI Workflow + Full Video Tutorial!",
+      "platform": "HF 论坛",
+      "kind": "forum",
+      "quota": "New Free Kaggle AI Workflow + Full Video Tutorial! I’ve been putting together another way to make powerful AI tools more accessible, even if you don’t have an expensive GPU or a high-end computer! I’ve created a Google Kaggle notebook that lets you run this workflow using Kaggle’",
+      "expires": null,
+      "howto": null,
+      "url": "https://discuss.huggingface.co/t/new-free-kaggle-ai-workflow-full-video-tutorial/192678",
+      "source_name": "rss",
+      "region": "global",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
+      "status": "active"
+    },
+    {
+      "id": "a6e3c9c92091",
+      "title": "Can Any Open-Weights Reasoning Model Pass IKIN ZipGate v2.2 Tier 4+? (Interactive Visualizer & Auto-Grader)",
+      "platform": "HF 论坛",
+      "kind": "forum",
+      "quota": "Built a deterministic 60° triangular lattice spatial reasoning benchmark ( IKIN ZipGate v2.2 ) to test pure spatial working memory and gate arbitration without word-problem noise or training-data memorization. The weird pattern (plot attached): On the 7-step Tier 4+ Obstacle Fiel",
+      "expires": null,
+      "howto": null,
+      "url": "https://discuss.huggingface.co/t/can-any-open-weights-reasoning-model-pass-ikin-zipgate-v2-2-tier-4-interactive-visualizer-auto-grader/192598",
+      "source_name": "rss",
+      "region": "global",
+      "confidence": "forum",
+      "tags": [],
+      "discovered_at": "2026-11-26T21:28:42+00:00",
+      "last_seen": "2026-11-26T21:28:42+00:00",
       "status": "active"
     }
   ]
