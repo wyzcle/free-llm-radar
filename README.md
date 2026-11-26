@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-26 05:39 (UTC+8)** ｜ 有效条目：**146** ｜ 48h 内新增：**2** ｜ 来源：nejib1/Free-LLM(75)、open-free-llm-api/awesome-freellm-apis(38)、mnfst/awesome-free-llm-apis(16)、rss(10)、linux.do(5)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-26 16:11 (UTC+8)** ｜ 有效条目：**147** ｜ 48h 内新增：**1** ｜ 来源：nejib1/Free-LLM(75)、open-free-llm-api/awesome-freellm-apis(38)、mnfst/awesome-free-llm-apis(16)、rss(11)、linux.do(5)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -114,11 +114,11 @@ _暂无条目_
 | [OVH AI Endpoints](https://endpoints.ai.cloud.ovh.net/) | Registration \| 2 RPM per IP per model (anonymous, free); 400 RPM with a key (pay-as-you-go) \| Unspecified \| Beta Access \| GPT OSS 120B, BGE-M3 (embeddings), Whisper Large v3 Turbo… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) | Free anonymous tier (no API key, no signup): 2 RPM per IP per model. 20+ open-weight models hosted in EU. OpenAI SDK-compatible.｜免费模型 9 个：Qwen3.5-397B-A17B、gpt-oss-120b、gpt-oss-20… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OVHcloud AI Endpoints | 8 \| No \| 262K \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| Perch AI | 3 \| No \| 0 \| Text \| - | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 11-24 🆕 |
+| Perch AI | 3 \| No \| 0 \| Text \| - | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 11-24 |
 | [Pollinations.ai](https://pollinations.ai) | No \| API key required (anonymous access removed); no card \| Free usage paid from Quest Pollen earned in the dashboard \| Free, no billing system \| GPT-OSS 20B, Mistral Large 3, Kim… | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Requesty](https://requesty.ai/) | No \| 20 RPM on free models (60 RPM for paying orgs) \| 200 requests/day (new orgs) / 1,000/day (paying orgs), shared across free models \| Gemma 4 31B IT, Ling 3.0 Tiny, Nemotron 3 … | — | nejib1/Free-LLM | 清单收录 | 国际 | 09-03 |
 | [Routeway](https://routeway.ai/) | Registration \| 5 RPM on :free models \| 200 requests/day \| Starter plan free, shared queue \| DeepSeek V4.1 Flash (free), MiniMax M3.1 Flash (free), Muse Glimmer 30B | — | nejib1/Free-LLM | 清单收录 | 国际 | 10-04 |
-| [Runcrate](https://www.runcrate.ai/dashboard/api-keys) | Free usage on five open models with a GitHub sign-in, no credit card required (the no-card free usage applies to GitHub sign-ins only; a Google sign-up needs a card on file). One … | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 11-24 🆕 |
+| [Runcrate](https://www.runcrate.ai/dashboard/api-keys) | Free usage on five open models with a GitHub sign-in, no credit card required (the no-card free usage applies to GitHub sign-ins only; a Google sign-up needs a card on file). One … | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 11-24 |
 | [Sail Research](https://docs.sailresearch.com/pricing) | Card required \| Not published for Free plan (most relaxed on flex window) \| $5 free credits every month (payment method attached) \| Kimi K3, GLM 5.3, GLM 5.3 Flash, DeepSeek V4.1 … | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 | SambaNova | 4 \| Registration \| 128K \| Text, Vision, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [SEA-LION API](https://docs.sea-lion.ai/guides/inferencing/api) | Registration \| 10 requests/minute per user (increase on request: sealion@aisingapore.org) \| Not published \| — \| Qwen SEA-LION v4.5 27B Instruct, Llama SEA-LION v3.5 70B Reasoning,… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
@@ -178,10 +178,11 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（15）
+## 社区动态（16）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [Subject: CPU Basic Quota Limit – Unable to Restart Free Space](https://discuss.huggingface.co/t/subject-cpu-basic-quota-limit-unable-to-restart-free-space/192583)：Subject: CPU Basic Quota Limit – Unable to Restart Free Space Hello Hugging Face Support, I am completing the Hugging Face AI Agents Course… | — | rss | 论坛帖 | 国际 | 11-26 🆕 |
 | HF 论坛 | [Mixing a base model with its RLVR model gets back the diversity RL takes away (…](https://discuss.huggingface.co/t/mixing-a-base-model-with-its-rlvr-model-gets-back-the-diversity-rl-takes-away-training-free/192144)：RLVR-tuned reasoning models beat their base model at pass@1 but lose at large k: sample 128 times with a verifier and the base model solves… | — | rss | 论坛帖 | 国际 | 11-20 |
 | HF 论坛 | [MiniLab LLM — Free French course to understand how LLMs and Transformers work](https://discuss.huggingface.co/t/minilab-llm-free-french-course-to-understand-how-llms-and-transformers-work/191867)：Hi everyone! I’d like to share MiniLab LLM , a free educational project I’ve been building to help French-speaking developers and students … | — | rss | 论坛帖 | 国际 | 11-15 |
 | HF 论坛 | [Build a Gradio Contact Sheet for Clips From a Free AI Video Generator](https://discuss.huggingface.co/t/build-a-gradio-contact-sheet-for-clips-from-a-free-ai-video-generator/191765)：Two versions of a five-second clip can look similar in the player. Put their opening, midpoint, and ending on a contact sheet and a reviewe… | — | rss | 论坛帖 | 国际 | 11-12 |
