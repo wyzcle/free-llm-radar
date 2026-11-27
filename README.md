@@ -5,7 +5,7 @@
 > 网络说明：GitHub 清单与 OpenRouter 可直连；linux.do / HF 论坛走浏览器指纹通道（curl_cffi），
 > 直连或设置 `HTTPS_PROXY` 均可；Reddit 反爬严格，抓取失败时自动跳过，不影响其他源。
 
-最后更新：**2026-11-27 16:23 (UTC+8)** ｜ 有效条目：**161** ｜ 48h 内新增：**16** ｜ 来源：nejib1/Free-LLM(88)、open-free-llm-api/awesome-freellm-apis(38)、mnfst/awesome-free-llm-apis(16)、rss(12)、linux.do(5)、openrouter(1)、official-pages(1)
+最后更新：**2026-11-28 05:13 (UTC+8)** ｜ 有效条目：**160** ｜ 48h 内新增：**17** ｜ 来源：nejib1/Free-LLM(88)、open-free-llm-api/awesome-freellm-apis(38)、mnfst/awesome-free-llm-apis(16)、rss(11)、linux.do(5)、openrouter(1)、official-pages(1)
 
 ## 合规边界（先读这段）
 
@@ -118,7 +118,7 @@ _暂无条目_
 | Ollama Cloud | 2 \| No \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | OpenCode | /connect, or an environment variable per provider \| opencode.md | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-27 🆕 |
 | OpenCode Zen | 22 \| Registration \| 1M \| Vision, Reasoning \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
-| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 14 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：inclusionAI: Ling 3.2 Flash (free)、Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Baidu: ERNIE-5.5-Flas… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | 当前 13 个免费模型，注册即可调用（有每日请求上限）。大上下文代表：Particle AI: Particle-1 (free)、Google: Lyria 3 Pro Preview、Google: Lyria 3 Clip Preview、Baidu: ERNIE-5.5-Flash-Preview (free)、NVIDIA: Nemotron 3… | 注册 OpenRouter 后调用带 :free 后缀的模型 | openrouter | 官方 | 国际 | 09-03 |
 | [OpenRouter](https://openrouter.ai/keys) | 17 free models (marked with :free suffix). OpenAI SDK-compatible.｜免费模型 7 个：google/gemma-4-26b-a4b-it:free、google/gemma-4-31b-it:free、nvidia/nemotron-3.5-lightning:free、nvidia/nemo… | 控制台申请 API Key | mnfst/awesome-free-llm-apis | 清单收录 | 国际 | 09-03 |
 | OpenRouter | 20 \| Free tier + $10 topup → 1K RPD \| 1M \| Multimodal \| → | — | open-free-llm-api/awesome-freellm-apis | 清单收录 | 国际 | 09-03 |
 | [OpenRouter Alternatives](https://free-llm.com/guides/openrouter-alternatives) | other aggregators worth trying | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-23 |
@@ -191,18 +191,17 @@ _暂无条目_
 | [Voyage AI (embeddings & rerankers)](https://docs.voyageai.com/docs/pricing) | Registration \| First 200M tokens free per model (voyage-4 family, rerank-2.5); 50M on domain models \| One-time per account per model \| Voyage 4 Large, Voyage 4, Voyage 4 Lite, Voy… | — | nejib1/Free-LLM | 清单收录 | 国际 | 11-05 |
 
 
-## 社区动态（17）
+## 社区动态（16）
 
 | 平台 | 内容 / 额度 | 领取 / 详情 | 来源 | 可信度 | 地区 | 发现 |
 | --- | --- | --- | --- | --- | --- | --- |
+| HF 论坛 | [Unifying <1 ms tabular scoring + TreeSHAP and frontier GPU LLM serving behind o…](https://discuss.huggingface.co/t/unifying-1-ms-tabular-scoring-treeshap-and-frontier-gpu-llm-serving-behind-one-zero-python-kubernetes-control-plane-smile-serve-engine-cluster/192738)：Most production AI stacks I run into split into three disconnected deployments: a Python microservice for tabular scoring and SHAP explanat… | — | rss | 论坛帖 | 国际 | 11-28 🆕 |
 | HF 论坛 | [# 🚀 New Free Kaggle AI Workflow + Full Video Tutorial!](https://discuss.huggingface.co/t/new-free-kaggle-ai-workflow-full-video-tutorial/192678)：New Free Kaggle AI Workflow + Full Video Tutorial! I’ve been putting together another way to make powerful AI tools more accessible, even i… | — | rss | 论坛帖 | 国际 | 11-27 🆕 |
 | HF 论坛 | [Can Any Open-Weights Reasoning Model Pass IKIN ZipGate v2.2 Tier 4+? (Interacti…](https://discuss.huggingface.co/t/can-any-open-weights-reasoning-model-pass-ikin-zipgate-v2-2-tier-4-interactive-visualizer-auto-grader/192598)：Built a deterministic 60° triangular lattice spatial reasoning benchmark ( IKIN ZipGate v2.2 ) to test pure spatial working memory and gate… | — | rss | 论坛帖 | 国际 | 11-27 🆕 |
 | HF 论坛 | [Subject: CPU Basic Quota Limit – Unable to Restart Free Space](https://discuss.huggingface.co/t/subject-cpu-basic-quota-limit-unable-to-restart-free-space/192583)：Subject: CPU Basic Quota Limit – Unable to Restart Free Space Hello Hugging Face Support, I am completing the Hugging Face AI Agents Course… | — | rss | 论坛帖 | 国际 | 11-26 🆕 |
 | HF 论坛 | [Mixing a base model with its RLVR model gets back the diversity RL takes away (…](https://discuss.huggingface.co/t/mixing-a-base-model-with-its-rlvr-model-gets-back-the-diversity-rl-takes-away-training-free/192144)：RLVR-tuned reasoning models beat their base model at pass@1 but lose at large k: sample 128 times with a verifier and the base model solves… | — | rss | 论坛帖 | 国际 | 11-20 |
 | HF 论坛 | [MiniLab LLM — Free French course to understand how LLMs and Transformers work](https://discuss.huggingface.co/t/minilab-llm-free-french-course-to-understand-how-llms-and-transformers-work/191867)：Hi everyone! I’d like to share MiniLab LLM , a free educational project I’ve been building to help French-speaking developers and students … | — | rss | 论坛帖 | 国际 | 11-15 |
 | HF 论坛 | [Build a Gradio Contact Sheet for Clips From a Free AI Video Generator](https://discuss.huggingface.co/t/build-a-gradio-contact-sheet-for-clips-from-a-free-ai-video-generator/191765)：Two versions of a five-second clip can look similar in the player. Put their opening, midpoint, and ending on a contact sheet and a reviewe… | — | rss | 论坛帖 | 国际 | 11-12 |
-| HF 论坛 | [Will certificate of completion of this course will be provided in free](https://discuss.huggingface.co/t/will-certificate-of-completion-of-this-course-will-be-provided-in-free/191759)：Will certificate of completion of this course will be provided in free 1 post - 1 participant Read full topic | — | rss | 论坛帖 | 国际 | 11-12 |
-| HF 论坛 | [Coding or Cheating? An Investigation of Frontier Coding LLMs](https://discuss.huggingface.co/t/coding-or-cheating-an-investigation-of-frontier-coding-llms/191752)：Hi, let me introduce our recent work here: Read full: Paper page - Coding or Cheating? An Investigation of Frontier Coding LLMs Read arxiv:… | — | rss | 论坛帖 | 国际 | 11-11 |
 | linux.do | [全新公益api站 无付费](https://linux.do/t/topic/3223919) | — | linux.do | 论坛帖 | 国内 | 11-23 |
 | linux.do | [免费GPU和服务器焚决，提示词直接给muse即可薅](https://linux.do/t/topic/3223815) | — | linux.do | 论坛帖 | 国内 | 11-23 |
 | linux.do | [【富可敌国】回帖送 1,000 万 Token（晒实测图再送 5,000 万）：国产大厂直供 128K+ 实测前缀保留 99.98%，防吞缓存](https://linux.do/t/topic/3221885) | — | linux.do | 论坛帖 | 国内 | 11-23 |
